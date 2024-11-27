@@ -1,0 +1,3073 @@
+{
+    "search_metadata": {
+      "id": "6729745ba505f716c8e260ff",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/af65a297046c6bc6/6729745ba505f716c8e260ff.json",
+      "created_at": "2024-11-05 01:26:51 UTC",
+      "processed_at": "2024-11-05 01:26:51 UTC",
+      "google_url": "https://www.google.com/search?q=Tea&oq=Tea&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/af65a297046c6bc6/6729745ba505f716c8e260ff.html",
+      "total_time_taken": 5.53
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Tea",
+      "location_requested": "Austin, Texas, United States",
+      "location_used": "Austin,Texas,United States",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "Tea",
+      "total_results": 2920000000,
+      "time_taken_displayed": 0.35,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "local_map": {
+      "link": "https://www.google.com/search?sca_esv=ca2c68be96a7cdb5&hl=en&gl=us&q=Tea&npsic=0&rflfq=1&rldoc=1&rllag=30355794,-97718108,15414&tbm=lcl&sa=X&ved=2ahUKEwjD-e7fhMSJAxUsa0EAHccPCIIQtgN6BAhqEAM",
+      "image": "https://www.google.com/maps/vt/data=Le9BzjEiLyTj6XDzLOkcMKvTzUcpe6ZWZCvvO-W8YXwDJ1mRHYVhDpgT_swSdyvdlIiRQ0DfF8W0zUzmLGNwHrrADPWLE_NEkZ5NsFi4QmFUq-YAuc0KMgy7ZhwN7lU7i1xV5ubQGRRuMUPjlgVMhfbhltNbYTLLsNZaSh4ZPmxaNJf9EHxyoZ7ph9roQ7pZDif8Dl5juHdD1DjiYg2ojYUIQrO3yT-qt7-avch-P0uUlcGrbcRZvtyKwHTsNlWd8gKOMyAvBQhIO-LDe2_638j_gmoF3ouQSA4oEeENiUeLDfS6eaIhgP5igpQNQ8lBCixXGzvStLh_wIjua2pUWyXLksTAHpk2uNP1zWqy5OSJktq8A9IiWgEzAG8G3LJdsQbFmU4pyxAK-p1jKqlBpWzPTyxE2_Vw-5AaQ2kbsitkqc_gu9H7CKuxuPSjOjTPIYnzLi5vUQqMry74-UZOaDLqYscNGHBfx_5aVFdaGyvHoAsmRTDjrQRxWNw97DG421qzr2mQVP9ElclJzIX-J0-ldrvClA57yHMtk9X7ryD67mKs-5MVeWno0a8nLxosKbm0mhUXQP-5WpS0WsdUiABEl7t6OgkHLAnUNtbthuzjGS3L0KBKr7csDK6ZLL3b8Sdmb_v348kMcYTx8OrpMDf9Pt-jybrNarWsHHwSOp-v0vADO-Gd23pQypxgP70csnwnWE4sLwSp9rgLfCGgqdm1RUhlaSqaZ8ejYfGpjT5yda1E6lqmAl4nCi7Cw4a3AWjhJpNXF54lIzuP8ooqVcVdBlU8qqUlxx-P0_rVK4_M15JgszYojGU6FJiwWEhxb0A1jhua4JiO40OcTNzgK5rTcSdwRimhEGa_TP7CKghXpcXHj3B-TCzfzbHXpVsz3IYN7aSXYPkwXNoA8Z47YggC3PHywgfsbBk_uNuPs69Juu0dxRmDFj_FKBJbW_Z0h0vO2iwzhRk3aL2SPYYY7BepsK9qKvgIzKDasrFArgKvIWKCE0lifdLtHNyW_c6kOLKnJep8uI---Hl3BIMosWOEPoq9kZ0Ys7YjgVSXrIKhRxYgpa9V_PZQB1W2OeKB5qi9p4G9sgLGuNzqdLcVyXXoVh1sMI2lZrPbjOd8TFdtJj7WEZCsRrK7Q7QJMSolmFND9r3tFkk05UmLt-fD2P5pDndtdLv0cYz6LUFxIMxq2GsTKgBisYFA83Pvv0gVoe0dyTHouXoz3sOdRoP2kg2du2UF3FeWxhublYVDcQT0uVe1APFmQ-maFNOvOlf8kzaMSek5sHyMlmUG9OT3Qp3pcwhrpYFdweIuN5Po8yt4P8ZtaP1wGU6h3agFPyPeccvp7kHeZKHCErJZdWE5Vbqf5R3tlyeA7Vs-gQvQHL2gp8WcQ_mNEXiU7RhWVWtM27IBvJBEDbgrN5Spa7qL83LEpl8eb-bxwHmPiCXQ0zgi",
+      "gps_coordinates": {
+        "latitude": 30.355794,
+        "longitude": -97.718108
+      }
+    },
+    "local_results": {
+      "places": [
+        {
+          "position": 1,
+          "rating": 4.7,
+          "reviews_original": "(268)",
+          "reviews": 268,
+          "price": "$",
+          "description": "Local boba tea shop specializing in top-quality ingredients, with a menu that includes milk teas.",
+          "lsig": "AB86z5WM_jax2slKXRTXTyzZtIxW",
+          "links": {
+            "website": "https://austeashoppe.com/",
+            "directions": "https://www.google.com/maps/dir//AUSTEA,+500+E+Ben+White+Blvd+D700,+Austin,+TX+78704/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8644b52bc832c1c3:0x94803fdc19684886?sa=X&ved=2ahUKEwjD-e7fhMSJAxUsa0EAHccPCIIQ48ADegQIWRAA&hl=en&gl=us"
+          },
+          "title": "AUSTEA",
+          "type": "Bubble tea store",
+          "phone": "(512) 382-1490",
+          "address": "500 E Ben White Blvd D700",
+          "hours": "Open ⋅ Closes 9:30 PM",
+          "place_id": "10700622929183918214",
+          "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&ludocid=10700622929183918214&q=Tea",
+          "gps_coordinates": {
+            "latitude": 30.221254,
+            "longitude": -97.75682
+          }
+        }
+      ],
+      "more_locations_link": "https://www.google.com/search?sca_esv=ca2c68be96a7cdb5&hl=en&gl=us&tbm=lcl&q=Tea&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjD-e7fhMSJAxUsa0EAHccPCIIQjGp6BAhtEAE"
+    },
+    "knowledge_graph": {
+      "title": "See results about",
+      "type": "Technology company",
+      "kgmid": "/m/0k8z",
+      "see_results_about": [
+        {
+          "name": "Tea",
+          "extensions": [
+            "Beverages"
+          ],
+          "link": "https://www.google.com/search?sca_esv=ca2c68be96a7cdb5&hl=en&gl=us&q=Tea&si=ACC90nx2Mn92cNzjXmoGBbORrSJuFBAr_aQrb9FCgbm5dMSpdWYWani8mDMObKeDOzvXYkM5iC_gnuJCFryMhmVwQ4Yvd0f-f9RwV39crjl29c8J1TZ6NytEm06Hqb4-WpzNVljQsiiMC3Rldkj027tKYJZtLARHDhgh9MOMGw5azwe_qKKPDDEcOu2X6DUrFc5P-9-ykcHDrM_NwFVRB0I1XKcq7TM8CqfmcqGOy3QM4GSVLcJFJN2CvIdBuwf-CSVjHCi5ky2w&sa=X&ved=2ahUKEwjD-e7fhMSJAxUsa0EAHccPCIIQ6RN6BAgbEAE",
+          "image": "https://serpapi.com/searches/6729745ba505f716c8e260ff/images/69c7314c4043f4caa468c6b2d4704522e6a0cb4c039e958f87fc4c16d8efec6242ef6f2b9f2e3514b7c26f766d5c9e7c.jpeg"
+        }
+      ]
+    },
+    "related_questions": [
+      {
+        "question": "What tea is the best for you?",
+        "title": "The Best Teas to Drink for Your Health",
+        "date": "Aug 13, 2021",
+        "link": "https://health.clevelandclinic.org/teas-for-health",
+        "list": [
+          "Best for overall health: green tea."
+        ],
+        "source_logo": "https://serpapi.com/searches/6729745ba505f716c8e260ff/images/d4c705ca2affa440959ebe1ad60373762ec135da732da3188ea9019d9756847f.png",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1NtNVJVbmxmUldOMldqSnJkbFpQVUMxeVIzQm1YMWRuVEd4blgyUTNXVkpEUkhoR1pteE5OMUpZZDFwaU5GQnlZM3A2WVZacFNYaE5NV1psWVhOV2MyVlZUSE5RRWhkWU0xRndXalJRVDA1TGVsZG9Za2xRZURVdFoydEJaeG9pUVVaWWNrVmpiemhxVG5sSFEzbzBjMnQwZWtkT2FXeDRWRkV4VVVaVE4xZG9VUSIsImZjdiI6IjMiLCJlaSI6IlgzUXBaNFBPTkt6V2hiSVB4NS1na0FnIiwicWMiOiJDZ04wWldFUUFIM2NYVVlfIiwicXVlc3Rpb24iOiJXaGF0IHRlYSBpcyB0aGUgYmVzdCBmb3IgeW91PyIsImxrIjoiR2h4M2FHRjBJSFJsWVNCcGN5QjBhR1VnWW1WemRDQm1iM0lnZVc5MSIsImJzIjoiYy1OeTRwSU56MGdzVVNoSlRWVElMRllveVVoVlNFb3RMbEZJeXk5U3FNd3Z0WmU0RzJFa0p5VlRqa2NORjlBTXoyS3diR0p5U1dsaVRrNmxRbnAtZmdyQ2pHMEZJRE15OGFqaHN1R1NBcnNEYW41eFRtSmVPbGdTcU1WZTRxT19rYlNVWkRrdUJWd2VYQXBnM1lsRnFXQlpRd09nQ19OUzB6SkxpaFh5MHlCbUxJd3pVcFNTTDhldlRJQVJBQSIsImlkIjoiZmNfWDNRcFo0UE9OS3pXaGJJUHg1LWdrQWdfMyJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1NtNVJVbmxmUldOMldqSnJkbFpQVUMxeVIzQm1YMWRuVEd4blgyUTNXVkpEUkhoR1pteE5OMUpZZDFwaU5GQnlZM3A2WVZacFNYaE5NV1psWVhOV2MyVlZUSE5RRWhkWU0xRndXalJRVDA1TGVsZG9Za2xRZURVdFoydEJaeG9pUVVaWWNrVmpiemhxVG5sSFEzbzBjMnQwZWtkT2FXeDRWRkV4VVVaVE4xZG9VUSIsImZjdiI6IjMiLCJlaSI6IlgzUXBaNFBPTkt6V2hiSVB4NS1na0FnIiwicWMiOiJDZ04wWldFUUFIM2NYVVlfIiwicXVlc3Rpb24iOiJXaGF0IHRlYSBpcyB0aGUgYmVzdCBmb3IgeW91PyIsImxrIjoiR2h4M2FHRjBJSFJsWVNCcGN5QjBhR1VnWW1WemRDQm1iM0lnZVc5MSIsImJzIjoiYy1OeTRwSU56MGdzVVNoSlRWVElMRllveVVoVlNFb3RMbEZJeXk5U3FNd3Z0WmU0RzJFa0p5VlRqa2NORjlBTXoyS3diR0p5U1dsaVRrNmxRbnAtZmdyQ2pHMEZJRE15OGFqaHN1R1NBcnNEYW41eFRtSmVPbGdTcU1WZTRxT19rYlNVWkRrdUJWd2VYQXBnM1lsRnFXQlpRd09nQ19OUzB6SkxpaFh5MHlCbUxJd3pVcFNTTDhldlRJQVJBQSIsImlkIjoiZmNfWDNRcFo0UE9OS3pXaGJJUHg1LWdrQWdfMyJ9",
+        "snippet": "Numerous studies have shown that a variety of teas may boost your immune system, fight off inflammation, and even ward off cancer and heart disease. While some brews provide more health advantages than others, there's plenty of evidence that regularly drinking tea can have a lasting impact on your wellness.",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTga1c-TdbSUtLPZQTs1RZBXMt97TjilTdYGEEHOZpRxw&s"
+      }
+    ],
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Texas Education Agency - Texas.gov",
+        "link": "https://tea.texas.gov/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tea.texas.gov/&ved=2ahUKEwjD-e7fhMSJAxUsa0EAHccPCIIQFnoECAwQAQ",
+        "displayed_link": "https://tea.texas.gov/",
+        "favicon": "https://serpapi.com/searches/6729745ba505f716c8e260ff/images/10a0e5b27e0c6b888e9a35fdc7a83dedc138517d94a40b76aa95a6f129ec0cb0.png",
+        "snippet": "Texas Education Agency Home · The Latest TEA News · Annual Report & Pocket Edition · Superintendents · Parent Resources · Educator Certification · Employment",
+        "snippet_highlighted_words": [
+          "Texas Education Agency"
+        ],
+        "sitelinks": {
+          "expanded": [
+            {
+              "title": "Certificate Look Up",
+              "link": "https://tea.texas.gov/texas-educators/certification/certificate-lookup",
+              "snippet": "First and last names must be entered to locate an educator's ..."
+            }
+          ],
+          "inline": [
+            {
+              "title": "Green tea",
+              "link": "https://en.wikipedia.org/wiki/Green_tea"
+            }
+          ]
+        },
+        "source": "Texas.gov",
+        "thumbnail": "https://serpapi.com/searches/6729745ba505f716c8e260ff/images/10a0e5b27e0c6b888e9a35fdc7a83ded55c2f45f33cc3b33bee290817fcf4d1e.jpeg"
+      }
+    ],
+    "filters": [
+      {
+        "name": "Login",
+        "parameters": {
+          "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dee_YpCLlMQbCBhk2v5kr-DlHuEiJCvIg9fkn81JUoMybKq-0RRHKCSawS3yDZVkaBulqbpldgLRA0vgG0UW0DiPgq69M8GGLekOdof6VFZ3ZZ2eMyOIzGeZMCkiyRicOZUhuFw",
+          "q": "TEA Login"
+        },
+        "link": "https://www.google.com/search?sca_esv=ca2c68be96a7cdb5&hl=en&gl=us&q=TEA+Login&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dee_YpCLlMQbCBhk2v5kr-DlHuEiJCvIg9fkn81JUoMybKq-0RRHKCSawS3yDZVkaBulqbpldgLRA0vgG0UW0DiPgq69M8GGLekOdof6VFZ3ZZ2eMyOIzGeZMCkiyRicOZUhuFw&sa=X&ved=2ahUKEwjD-e7fhMSJAxUsa0EAHccPCIIQxKsJegQIIxAB&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=TEA+Login&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dee_YpCLlMQbCBhk2v5kr-DlHuEiJCvIg9fkn81JUoMybKq-0RRHKCSawS3yDZVkaBulqbpldgLRA0vgG0UW0DiPgq69M8GGLekOdof6VFZ3ZZ2eMyOIzGeZMCkiyRicOZUhuFw"
+      }
+    ],
+    "top_stories_link": "https://www.google.com/search?sca_esv=ca2c68be96a7cdb5&hl=en&gl=us&tbm=lcl&q=Tea&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjD-e7fhMSJAxUsa0EAHccPCIIQjGp6BAhtEAE",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Tea&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "TEA Login",
+        "link": "https://www.google.com/search?sca_esv=ca2c68be96a7cdb5&hl=en&gl=us&q=TEA+Login&sa=X&ved=2ahUKEwjD-e7fhMSJAxUsa0EAHccPCIIQ1QJ6BAg9EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=TEA+Login"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=Tea&sca_esv=ca2c68be96a7cdb5&hl=en&gl=us&ei=X3QpZ4PONKzWhbIPx5-gkAg&start=10&sa=N&sstk=Aagrsug3VoSW69scRkQBlzp_nU3Pb4cJcQe0R18cDGuI3eNr48cGZLcDgzf2SEL2iv6s1Wm8VnBMnkLcdmmgYYRIBQyZi4amTqWpKQ&ved=2ahUKEwjD-e7fhMSJAxUsa0EAHccPCIIQ8NMDegQINxAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=Tea&sca_esv=ca2c68be96a7cdb5&hl=en&gl=us&ei=X3QpZ4PONKzWhbIPx5-gkAg&start=10&sa=N&sstk=Aagrsug3VoSW69scRkQBlzp_nU3Pb4cJcQe0R18cDGuI3eNr48cGZLcDgzf2SEL2iv6s1Wm8VnBMnkLcdmmgYYRIBQyZi4amTqWpKQ&ved=2ahUKEwjD-e7fhMSJAxUsa0EAHccPCIIQ8tMDegQINxAE",
+        "3": "https://www.google.com/search?q=Tea&sca_esv=ca2c68be96a7cdb5&hl=en&gl=us&ei=X3QpZ4PONKzWhbIPx5-gkAg&start=20&sa=N&sstk=Aagrsug3VoSW69scRkQBlzp_nU3Pb4cJcQe0R18cDGuI3eNr48cGZLcDgzf2SEL2iv6s1Wm8VnBMnkLcdmmgYYRIBQyZi4amTqWpKQ&ved=2ahUKEwjD-e7fhMSJAxUsa0EAHccPCIIQ8tMDegQINxAG",
+        "4": "https://www.google.com/search?q=Tea&sca_esv=ca2c68be96a7cdb5&hl=en&gl=us&ei=X3QpZ4PONKzWhbIPx5-gkAg&start=30&sa=N&sstk=Aagrsug3VoSW69scRkQBlzp_nU3Pb4cJcQe0R18cDGuI3eNr48cGZLcDgzf2SEL2iv6s1Wm8VnBMnkLcdmmgYYRIBQyZi4amTqWpKQ&ved=2ahUKEwjD-e7fhMSJAxUsa0EAHccPCIIQ8tMDegQINxAI",
+        "5": "https://www.google.com/search?q=Tea&sca_esv=ca2c68be96a7cdb5&hl=en&gl=us&ei=X3QpZ4PONKzWhbIPx5-gkAg&start=40&sa=N&sstk=Aagrsug3VoSW69scRkQBlzp_nU3Pb4cJcQe0R18cDGuI3eNr48cGZLcDgzf2SEL2iv6s1Wm8VnBMnkLcdmmgYYRIBQyZi4amTqWpKQ&ved=2ahUKEwjD-e7fhMSJAxUsa0EAHccPCIIQ8tMDegQINxAK",
+        "6": "https://www.google.com/search?q=Tea&sca_esv=ca2c68be96a7cdb5&hl=en&gl=us&ei=X3QpZ4PONKzWhbIPx5-gkAg&start=50&sa=N&sstk=Aagrsug3VoSW69scRkQBlzp_nU3Pb4cJcQe0R18cDGuI3eNr48cGZLcDgzf2SEL2iv6s1Wm8VnBMnkLcdmmgYYRIBQyZi4amTqWpKQ&ved=2ahUKEwjD-e7fhMSJAxUsa0EAHccPCIIQ8tMDegQINxAM",
+        "7": "https://www.google.com/search?q=Tea&sca_esv=ca2c68be96a7cdb5&hl=en&gl=us&ei=X3QpZ4PONKzWhbIPx5-gkAg&start=60&sa=N&sstk=Aagrsug3VoSW69scRkQBlzp_nU3Pb4cJcQe0R18cDGuI3eNr48cGZLcDgzf2SEL2iv6s1Wm8VnBMnkLcdmmgYYRIBQyZi4amTqWpKQ&ved=2ahUKEwjD-e7fhMSJAxUsa0EAHccPCIIQ8tMDegQINxAO",
+        "8": "https://www.google.com/search?q=Tea&sca_esv=ca2c68be96a7cdb5&hl=en&gl=us&ei=X3QpZ4PONKzWhbIPx5-gkAg&start=70&sa=N&sstk=Aagrsug3VoSW69scRkQBlzp_nU3Pb4cJcQe0R18cDGuI3eNr48cGZLcDgzf2SEL2iv6s1Wm8VnBMnkLcdmmgYYRIBQyZi4amTqWpKQ&ved=2ahUKEwjD-e7fhMSJAxUsa0EAHccPCIIQ8tMDegQINxAQ",
+        "9": "https://www.google.com/search?q=Tea&sca_esv=ca2c68be96a7cdb5&hl=en&gl=us&ei=X3QpZ4PONKzWhbIPx5-gkAg&start=80&sa=N&sstk=Aagrsug3VoSW69scRkQBlzp_nU3Pb4cJcQe0R18cDGuI3eNr48cGZLcDgzf2SEL2iv6s1Wm8VnBMnkLcdmmgYYRIBQyZi4amTqWpKQ&ved=2ahUKEwjD-e7fhMSJAxUsa0EAHccPCIIQ8tMDegQINxAS",
+        "10": "https://www.google.com/search?q=Tea&sca_esv=ca2c68be96a7cdb5&hl=en&gl=us&ei=X3QpZ4PONKzWhbIPx5-gkAg&start=90&sa=N&sstk=Aagrsug3VoSW69scRkQBlzp_nU3Pb4cJcQe0R18cDGuI3eNr48cGZLcDgzf2SEL2iv6s1Wm8VnBMnkLcdmmgYYRIBQyZi4amTqWpKQ&ved=2ahUKEwjD-e7fhMSJAxUsa0EAHccPCIIQ8tMDegQINxAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Tea&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Tea&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Tea&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Tea&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Tea&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Tea&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Tea&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Tea&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Tea&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Tea&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Tea&start=90"
+      }
+    },
+    "ai_overview": {
+        "text_blocks": [
+          {
+            "type": "paragraph",
+            "snippet": "Drop shipping is a retail method where a company sells products online without keeping them in stock. When a customer places an order, the company forwards the order to a supplier, who then ships the product directly to the customer. The company keeps the profits from the sale.",
+            "snippet_highlighted_words": [
+              "a retail method where a company sells products online without keeping them in stock"
+            ],
+            "reference_indexes": [
+              0,
+              2
+            ]
+          },
+          {
+            "type": "paragraph",
+            "snippet": "Here are some steps to start a drop shipping business:",
+            "reference_indexes": [
+              4
+            ]
+          },
+          {
+            "type": "list",
+            "list": [
+              {
+                "snippet": "Identify a niche: Choose a specific market to target and research competitors.",
+                "reference_indexes": [
+                  4
+                ]
+              },
+              {
+                "snippet": "Select a supplier: Find a reliable supplier that has the products you want to sell. You can sign an agreement with a manufacturer, wholesaler, or other retailer.",
+                "reference_indexes": [
+                  2,
+                  4
+                ]
+              },
+              {
+                "snippet": "Create an online store: Design and build an ecommerce website to showcase your products.",
+                "reference_indexes": [
+                  4
+                ]
+              },
+              {
+                "snippet": "Market your business: Use social media ads and engaging content to attract customers.",
+                "reference_indexes": [
+                  4
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "snippet": "Some advantages of drop shipping include:",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "type": "list",
+            "list": [
+              {
+                "title": "No need for inventory storage",
+                "snippet": "You don't need to invest in warehouse space or risk getting stuck with unsold inventory.",
+                "reference_indexes": [
+                  0
+                ]
+              },
+              {
+                "title": "More resources for other activities",
+                "snippet": "You can allocate more resources to other retail activities such as marketing.",
+                "reference_indexes": [
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "snippet": "However, drop shipping businesses have a high failure rate. Some potential issues include:",
+            "reference_indexes": [
+              10
+            ]
+          },
+          {
+            "type": "list",
+            "list": [
+              {
+                "snippet": "Uncertainty over where the business operates from and where products are manufactured",
+                "reference_indexes": [
+                  10
+                ]
+              },
+              {
+                "snippet": "Inconsistent quality of products",
+                "reference_indexes": [
+                  10
+                ]
+              },
+              {
+                "snippet": "Dropshippers may only make between 10% and 30% on average, compared to 50% to 70% for traditional e-commerce retailers",
+                "reference_indexes": [
+                  8
+                ]
+              }
+            ]
+          },
+          {
+            "type": "expandable",
+            "title": "Starting a Dropshipping Business",
+            "subtitle": "Steps for launching a dropshipping venture",
+            "text_blocks": [
+              {
+                "type": "paragraph",
+                "snippet": "Here are some steps to start a dropshipping business:"
+              },
+              {
+                "type": "list",
+                "list": [
+                  {
+                    "snippet": "Choose a business concept"
+                  },
+                  {
+                    "snippet": "Select products to sell"
+                  },
+                  {
+                    "snippet": "Choose suppliers"
+                  },
+                  {
+                    "snippet": "Build an online store"
+                  },
+                  {
+                    "snippet": "Register your business"
+                  },
+                  {
+                    "snippet": "Market your business and products",
+                    "reference_indexes": [
+                      5
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "list": [
+              {
+                "snippet": "Choose a niche",
+                "reference_indexes": [
+                  3
+                ]
+              },
+              {
+                "snippet": "Find a supplier: When choosing a supplier, you can consider things like:",
+                "reference_indexes": [
+                  3,
+                  6
+                ],
+                "list": [
+                  {
+                    "snippet": "Profit margin: Whether the wholesale price is high enough to make a profit",
+                    "reference_indexes": [
+                      6
+                    ]
+                  },
+                  {
+                    "snippet": "Handling fees: How these might affect your profit margin",
+                    "reference_indexes": [
+                      6
+                    ]
+                  },
+                  {
+                    "snippet": "Shipping: Whether the supplier uses a service that provides tracking numbers",
+                    "reference_indexes": [
+                      6
+                    ]
+                  },
+                  {
+                    "snippet": "Billing: Whether the supplier charges your credit card as soon as you submit an order",
+                    "reference_indexes": [
+                      6
+                    ]
+                  }
+                ]
+              },
+              {
+                "snippet": "Build an online store",
+                "reference_indexes": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "list": [
+              {
+                "title": "Albert Einstein",
+                "thumbnail": "https://serpapi.com/searches/66c5457015afff0a2878cb08/images/4585b9266b87a391ef0f171532560347a6cfec61ff8315f797ba8afa9c0d9c8975178708294e51b8caa9fb8d67d58629.jpeg",
+                "snippet": "\"Strive not to be a success, but rather to be of value\"",
+                "reference_indexes": [
+                  1
+                ]
+              },
+              {
+                "title": "Nelson Mandela",
+                "thumbnail": "https://serpapi.com/searches/66c5457015afff0a2878cb08/images/4585b9266b87a391ef0f171532560347a6cfec61ff8315f7e12a7180e6485d05cd19174a2fed3bc740822f57ec6aba42.jpeg",
+                "snippet": "\"It always seems impossible until it's done\"",
+                "reference_indexes": [
+                  1
+                ]
+              },
+              {
+                "title": "Herman Melville",
+                "thumbnail": "https://serpapi.com/searches/66c5457015afff0a2878cb08/images/4585b9266b87a391ef0f171532560347a6cfec61ff8315f78333d67ec3a028c0a7884df42a0dba573a24740ee1f0fe89.jpeg",
+                "snippet": "\"It is better to fail in originality than to succeed in imitation\"",
+                "reference_indexes": [
+                  1,
+                  6
+                ]
+              }
+            ]
+          }
+        ],
+        "thumbnail": "https://serpapi.com/searches/66c53c7915afff0a2a48fc6c/images/ada462b58dfff08439da27aa82fde6c082293d76cc6e06be.png",
+        "references": [
+          {
+            "title": "What Is Dropshipping and How Does It Work? (2024) - Shopify",
+            "link": "https://www.shopify.com/blog/what-is-dropshipping#:~:text=Dropshipping%20is%20a%20retail%20method,retail%20activities%20such%20as%20marketing.",
+            "snippet": "May 22, 2024 — Dropshipping is a retail method where an online store doesn't keep its products in stock. Instead, when a customer mak...",
+            "source": "Shopify",
+            "index": 0
+          },
+          {
+            "title": "Drop shipping - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Drop_shipping#:~:text=Amazon%2C%20the%20online%20shopping%20giant,customer%20using%20packaging%20from%20Amazon.",
+            "snippet": "Amazon, the online shopping giant, found early success in a dropshipping business model where they could offer over a million diff...",
+            "source": "Wikipedia",
+            "index": 1
+          },
+          {
+            "title": "Drop-Shipping: What you Need to Know Before You Buy or Sell Online",
+            "link": "https://www.michigan.gov/consumerprotection/protect-yourself/consumer-alerts/shopping/before-you-buy-or-sell-online",
+            "source": "State of Michigan",
+            "index": 2
+          },
+          {
+            "title": "Dropshipping: Does It Actually Work? (Pros + Cons) | BigCommerce",
+            "link": "https://www.bigcommerce.com/blog/dropshipping/#:~:text=Is%20dropshipping%20legal?,with%20a%20Dropshipping%20Agreement%20Contract.",
+            "snippet": "Is dropshipping legal? Yes, dropshipping is legal. You may run into other legal issues depending on who your supplier is, but drop...",
+            "source": "BigCommerce",
+            "index": 3
+          },
+          {
+            "title": "How To Start a Dropshipping Business: 9-Step Guide (2024) - Shopify",
+            "link": "https://www.shopify.com/blog/how-to-start-dropshipping",
+            "snippet": "Jun 28, 2024 — How do I start a dropshipping business? Identify a niche: Select a specific market to target. Research competitors: An...",
+            "source": "Shopify",
+            "index": 4
+          }
+        ],
+        "error": "Can't generate an AI overview right now. Try again later.",
+        "page_token": "rWmjgXictZPdkqI4FMcv90nWvWBUtO0e7SpqKiBqHL8ifuENhRADgnwFjHo377JPtU-zAdtunXFqZ6t2U6UkOTkn55xf_t_-9N3A--u3P5w0jehrtcoYq5AwJD6uWOG-atJTYFW3oU8Ty_mSZT6WmKAAiKACTbRanO2unw06Ux93O-dBZ5GZq6m_VuSZ3e2I69WwRHwpoyXHl3BQOh2kp5JFJbGEXSlmm5d1loDu-Ox5BzRxrHY5BGGpuFEyNibFO57QcUerRpX_eb8_tfmiQis4MOZaRYsmSdzw-119WMH0uTKumnt-BPziQB9TRSFIKWYQKHeHyPtpBchAA0QuVj3-U6dFCAigcnHyEDgYTfXO3wJva9nKo80vt0IA2nc5kHzr0ZB5o9vNB4nLBIEuT6RRbF0uQXmQBgTD99JYTwTN9pGMv2rsh9gRIHsw0VbH2zo_Ku8vd65FVKCgqk14X8XqJuGfWjWheZeVWUsMO3F9uNTMZrpqiu3M7kCViaNa92W3mKJPBUGLviOktwihGwf2aD0-U1YZVOTalR7qQagW3VAJICJ51BcFfXROyXMnIPR4fWTA8t6OinJ6-YbFG6Nf3bSrw_KjXD5RYE6PqPBqzvuaD5g3VB0C4HAMQIacnkZ6jTk3tYsAyAO6LrsgBF8BWDPl5ulAcrmjcXlQKsD8hbGhvFKZChB_RQh4edSCHIJyXhAaMvWOXlHoP4z5T_Zl8ABXV1_EZXdAengab2akpZ2yaLJbOGc0vuIK95t_JTnrf0HqckHGb0iVx0hvBMkdVtz-JsiQC_KC1NMLQd4htaD6htS6QQp_GakMGnq7_AgpF-QeyFyQOdJ5gRTp3yP9rwRZkMWXz706sx35HruqlkeeU4u9ujwD09MzEeOTZcv0qCUc-3afvkZJSD4Zrv0q1_vpyS7FUi9kgh1iKqQOFrQoTFLKsJkI_IFEZnASRq6Hha3p-wJ1uFEIA4EG2PRwIriBMA_cFNuClpoppl9Kez8JJdF8YYd4pKvePGUG7O_Ugb8sPwf-4uwaT9vjYVSvRb10arx8Xs2i3uzZH_WV5SrIlL4xaTlKH4VqbwyDhOygbY1OmaqjxdA9U9dtmed2f6e7x3lnvWZav564IjvPxvt6013TcmO8Ao0BMpA8D7F23srrGvDnNivyopLeXWTQ6SxbC1SilmlgepDqm-Zn88ls1uubzab21CwMWXSQan8DmsQweA",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rWmjgXictZPdkqI4FMcv90nWvWBUtO0e7SpqKiBqHL8ifuENhRADgnwFjHo377JPtU-zAdtunXFqZ6t2U6UkOTkn55xf_t_-9N3A--u3P5w0jehrtcoYq5AwJD6uWOG-atJTYFW3oU8Ty_mSZT6WmKAAiKACTbRanO2unw06Ux93O-dBZ5GZq6m_VuSZ3e2I69WwRHwpoyXHl3BQOh2kp5JFJbGEXSlmm5d1loDu-Ox5BzRxrHY5BGGpuFEyNibFO57QcUerRpX_eb8_tfmiQis4MOZaRYsmSdzw-119WMH0uTKumnt-BPziQB9TRSFIKWYQKHeHyPtpBchAA0QuVj3-U6dFCAigcnHyEDgYTfXO3wJva9nKo80vt0IA2nc5kHzr0ZB5o9vNB4nLBIEuT6RRbF0uQXmQBgTD99JYTwTN9pGMv2rsh9gRIHsw0VbH2zo_Ku8vd65FVKCgqk14X8XqJuGfWjWheZeVWUsMO3F9uNTMZrpqiu3M7kCViaNa92W3mKJPBUGLviOktwihGwf2aD0-U1YZVOTalR7qQagW3VAJICJ51BcFfXROyXMnIPR4fWTA8t6OinJ6-YbFG6Nf3bSrw_KjXD5RYE6PqPBqzvuaD5g3VB0C4HAMQIacnkZ6jTk3tYsAyAO6LrsgBF8BWDPl5ulAcrmjcXlQKsD8hbGhvFKZChB_RQh4edSCHIJyXhAaMvWOXlHoP4z5T_Zl8ABXV1_EZXdAengab2akpZ2yaLJbOGc0vuIK95t_JTnrf0HqckHGb0iVx0hvBMkdVtz-JsiQC_KC1NMLQd4htaD6htS6QQp_GakMGnq7_AgpF-QeyFyQOdJ5gRTp3yP9rwRZkMWXz706sx35HruqlkeeU4u9ujwD09MzEeOTZcv0qCUc-3afvkZJSD4Zrv0q1_vpyS7FUi9kgh1iKqQOFrQoTFLKsJkI_IFEZnASRq6Hha3p-wJ1uFEIA4EG2PRwIriBMA_cFNuClpoppl9Kez8JJdF8YYd4pKvePGUG7O_Ugb8sPwf-4uwaT9vjYVSvRb10arx8Xs2i3uzZH_WV5SrIlL4xaTlKH4VqbwyDhOygbY1OmaqjxdA9U9dtmed2f6e7x3lnvWZav564IjvPxvt6013TcmO8Ao0BMpA8D7F23srrGvDnNivyopLeXWTQ6SxbC1SilmlgepDqm-Zn88ls1uubzab21CwMWXSQan8DmsQweA"
+
+    },
+    "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Paris Tourist Sites - Top 10 Things to Do in Paris",
+      "link": "https://www.viator.com/Paris-tourism/d479-r47064828883-s955139954",
+      "displayed_link": "https://www.viator.com › tourism › paris",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiw1p7Mx8T-AhUkD7MAHeWtAGAYABAIGgJ5bQ&sig=AOD64_1ceqh2ZTvcQydPlaKajfU4x_Dz0w&q=&ved=2ahUKEwiHmZPMx8T-AhWsD1kFHViJDywQh78CegQICRAB&adurl=",
+      "extensions": [
+        "Viator"
+      ],
+      "description": "Best Things to Do in 2023 in Paris. Free Cancellation & Full Refund Available. Quick & Easy Purchase Process! Full Refund Available up to 24 Hours Before Your Tour Date. 24/7 Live Support. Verified Reviews. Skip the Line Tickets. Low Price...",
+      "source": "Viator",
+      "sitelinks": [
+        {
+          "title": "Increased Safety Measures",
+          "link": "https://www.viator.com/help/articles/81",
+          "snippets": [
+            "Keeping You Safe During Covid-19. Safety & Hygiene Measures & Info"
+          ]
+        },
+        {
+          "title": "Reserve Now & Pay Later",
+          "link": "https://www.viator.com/support/reserveNowPayLater?mcid=28353&tsem=true%7Bignore%7D&supbk=1&supfl=sl&supsc=%7Btargetid%7D&supag=%7Badgroupid%7D&supai=%7Bcreative%7D&supap=%7Badposition%7D&supdv=%7Bdevice%7D&supnt=%7Bnetwork%7D&supti=%7Btargetid%7D&suplp=%7Bloc_physical_ms%7D&supli=%7Bloc_interest_ms%7D",
+          "snippets": [
+            "Keep Your Plans Flexible. Reserve Your Activity & Pay Later"
+          ]
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "block_position": "top",
+      "title": "Must do in Paris - Top 10 Things to Do in 2023",
+      "link": "https://www.getyourguide.com/paris-l16/",
+      "displayed_link": "https://www.getyourguide.com › paris › activities",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiw1p7Mx8T-AhUkD7MAHeWtAGAYABAJGgJ5bQ&sig=AOD64_3KlnOAKpVOS-jelFmUEU0YLKLHcg&q=&ved=2ahUKEwiHmZPMx8T-AhWsD1kFHViJDywQh78CegQIChAB&adurl=",
+      "extensions": [
+        "GetYourGuide"
+      ],
+      "description": "Convenient and flexible cancellation up to 24 hours before your tour — no questions asked. Lose the printer. Conveniently download, store, and present...",
+      "source": "GetYourGuide",
+      "sitelinks": [
+        {
+          "title": "48 Hours in Paris",
+          "link": "https://www.getyourguide.com/paris-l16/itinerary-48-hours-in-paris/?cmp=ga"
+        },
+        {
+          "title": "The Best of Paris",
+          "link": "https://www.getyourguide.com/-l16/?cmp=ga"
+        },
+        {
+          "title": "Pariis Hop On Hop Off",
+          "link": "https://www.getyourguide.com/-t4059/?cmp=ga"
+        },
+        {
+          "title": "Top Hop-on Hop-off Tours",
+          "link": "https://www.getyourguide.com/-l16/-tc9/?cmp=ga"
+        }
+      ]
+    },
+    {
+        "position": 1,
+        "block_position": "top",
+        "title": "Holiday Inn Express Düsseldorf Airport, an IHG Hotel",
+        "thumbnail": "https://serpapi.com/searches/663d246531dccc332c9675d4/images/293102cbd6a4196e3a098cf4a19cc9bd.jpeg",
+        "tracking_link": "https://www.google.com/aclk?sa=l&ai=CYJO9cCQ9ZvD9BtS4nboPrtSI8ArLivSTdpPLnPe4Eqy5jvqgQggEEAEoHmDJBqAB...",
+        "price": "$85",
+        "extracted_price": 85,
+        "rating": 4.5,
+        "reviews": 569,
+        "extensions": [
+          "Free cancellation · Restaurant · Pet-friendly"
+        ],
+        "source": "Holiday Inn Express Düsseldorf Airport, an IHG Hotel"
+    },
+    {
+        "position": 1,
+        "block_position": "top",
+        "title": "Vehicles for sale",
+        "vehicles_for_sale": [
+          {
+            "title": "2019 Hyundai Tucson SE",
+            "thumbnail": "https://serpapi.com/searches/67292098cf2818efad683997/images/beb56449897c69bf5f7647195fe94345d1a10727b98370d54d9965dafbce87da90d3311816544c4e.webp",
+            "price": "$14,900",
+            "extracted_price": 14900,
+            "condition": "Used",
+            "mileage": "87k mi",
+            "extracted_mileage": 87000,
+            "dealership": "Covert Buick GMC Austin",
+            "location": "Austin",
+            "link": "https://www.google.com/aclk?sa=L&ai=DChcSEwi_9fLttMOJAxVQnloFHcTwMisYABAXGgJ2dQ&co=1&ase=2&gclid=EAIaIQobChMIv_Xy7bTDiQMVUJ5aBR3E8DIrEAQYASABEgLIcvD_BwE&sig=AOD64_2cmgNCmWKhyopcj1S1k8edAoLznA&ctype=303&q=&ved=2ahUKEwiOyu7ttMOJAxWESTABHS28DjIQiLoGegQIChAJ&adurl="
+          },
+          {
+            "title": "2019 Nissan Armada",
+            "thumbnail": "https://serpapi.com/searches/67292098cf2818efad683997/images/beb56449897c69bf5f7647195fe94345d1a10727b98370d5c15c738e54bf0236bfd54af84782f1da.webp",
+            "price": "$27,998",
+            "extracted_price": 27998,
+            "condition": "Used",
+            "mileage": "81k mi",
+            "extracted_mileage": 81000,
+            "dealership": "Covert Cadillac",
+            "location": "Austin",
+            "link": "https://www.google.com/aclk?sa=L&ai=DChcSEwi_9fLttMOJAxVQnloFHcTwMisYABAfGgJ2dQ&co=1&ase=2&gclid=EAIaIQobChMIv_Xy7bTDiQMVUJ5aBR3E8DIrEAQYAiABEgJW-PD_BwE&sig=AOD64_1_axbheNHO5o6_6Z3c_RCzVRVIOA&ctype=303&q=&ved=2ahUKEwiOyu7ttMOJAxWESTABHS28DjIQiLoGegQIChAU&adurl="
+          },
+          {
+            "title": "2019 Hyundai Tucson VALUE SPORT ...",
+            "thumbnail": "https://serpapi.com/searches/67292098cf2818efad683997/images/beb56449897c69bf5f7647195fe94345d1a10727b98370d5c4b86064100c151093e278934df95ea1.webp",
+            "price": "$16,590",
+            "extracted_price": 16590,
+            "condition": "Used",
+            "mileage": "78k mi",
+            "extracted_mileage": 78000,
+            "dealership": "Carvana",
+            "location": "Austin",
+            "link": "https://www.google.com/aclk?sa=L&ai=DChcSEwi_9fLttMOJAxVQnloFHcTwMisYABAhGgJ2dQ&co=1&ase=2&gclid=EAIaIQobChMIv_Xy7bTDiQMVUJ5aBR3E8DIrEAQYAyABEgIf7_D_BwE&sig=AOD64_26cQPGhUFREQ3eaYNNQFUHi6vQSg&ctype=303&q=&ved=2ahUKEwiOyu7ttMOJAxWESTABHS28DjIQiLoGegQIChAf&adurl="
+          }
+        ]
+    }
+    ],
+    "answer_box": {
+    "type": "calculator_result",
+    "result": "3.141592653589793",
+    "temperature": "96",
+    "unit": "Fahrenheit",
+    "precipitation": "2%",
+    "humidity": "43%",
+    "wind": "8 mph",
+    "location": "Dallas, TX",
+    "date": "Monday 2:00 PM",
+    "weather": "Partly cloudy",
+    "thumbnail": "<Image URL>",
+    "forecast": [
+        {
+        "day": "Monday",
+        "temperature": {
+            "high": "97",
+            "low": "81"
+        },
+        "thumbnail": "<Image URL>",
+        "weather": "Partly cloudy",
+        "humidity": "43%",
+        "precipitation": "0%",
+        "wind": "10 mph"
+        },
+        {
+        "day": "Tuesday",
+        "temperature": {
+            "high": "99",
+            "low": "81"
+        },
+        "thumbnail": "<Image URL>",
+        "weather": "Mostly sunny",
+        "humidity": "50%",
+        "precipitation": "10%",
+        "wind": "11 mph"
+        },
+        {
+        "day": "Wednesday",
+        "temperature": {
+            "high": "99",
+            "low": "80"
+        },
+        "thumbnail": "<Image URL>",
+        "weather": "Mostly sunny",
+        "humidity": "52%",
+        "precipitation": "10%",
+        "wind": "8 mph"
+        }
+    ],
+    "hourly_forecast": [
+        {
+        "time": "Monday 2:00 PM",
+        "thumbnail": "https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png",
+        "weather": "Partly cloudy",
+        "temperature": "96",
+        "precipitation": "2%",
+        "humidity": "43%",
+        "wind": "8 mph"
+        },
+        {
+        "time": "Monday 3:00 PM",
+        "thumbnail": "https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png",
+        "weather": "Partly cloudy",
+        "temperature": "96",
+        "precipitation": "2%",
+        "humidity": "43%",
+        "wind": "8 mph"
+        },
+        {
+        "time": "Monday 4:00 PM",
+        "thumbnail": "https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png",
+        "weather": "Partly cloudy",
+        "temperature": "97",
+        "precipitation": "1%",
+        "humidity": "41%",
+        "wind": "9 mph"
+        }
+    ],
+    "precipitation_forecast": [
+        {
+        "precipitation": "2%",
+        "day": "Monday",
+        "time": "3:00 PM",
+        "amount": "–",
+        "droplet_thumbnail": "https://ssl.gstatic.com/weather/osrp_icons/ic_droplet_clear_light.svg",
+        "droplet": "empty droplet"
+        },
+        {
+        "precipitation": "1%",
+        "day": "Monday",
+        "time": "4:00 PM",
+        "amount": "–",
+        "droplet_thumbnail": "https://ssl.gstatic.com/weather/osrp_icons/ic_droplet_clear_light.svg",
+        "droplet": "empty droplet"
+        },
+        {
+        "precipitation": "1%",
+        "day": "Monday",
+        "time": "5:00 PM",
+        "amount": "–",
+        "droplet_thumbnail": "https://ssl.gstatic.com/weather/osrp_icons/ic_droplet_clear_light.svg",
+        "droplet": "empty droplet"
+        }
+    ],
+    "wind_forecast": [
+        {
+        "angle": 107,
+        "direction": "From south",
+        "speed": "8 mph",
+        "time": "3 PM",
+        "thumbnail": "https://ssl.gstatic.com/weather/osrp_icons/wind_2.svg"
+        },
+        {
+        "angle": 111,
+        "direction": "From south",
+        "speed": "10 mph",
+        "time": "6 PM",
+        "thumbnail": "https://ssl.gstatic.com/weather/osrp_icons/wind_2.svg"
+        },
+        {
+        "angle": 120,
+        "direction": "From southeast",
+        "speed": "8 mph",
+        "time": "9 PM",
+        "thumbnail": "https://ssl.gstatic.com/weather/osrp_icons/wind_2.svg"
+        }
+    ],
+    "sources": [
+        {
+        "title": "weather.com",
+        "name": "United States Census Bureau",
+        "link": "https://www.weather.com/wx/today/?lat=32.78&lon=-96.80&locale=en_US&par=google&temp=f"
+        }
+    ],
+    "feels_like": "76",
+    "air_quality": {
+      "text": "Moderate",
+      "hex_color": "#FFFF00"
+    },
+    "humidity_forecast": [
+      {
+        "humidity": "86%",
+        "time": "NOW"
+      },
+      {
+        "humidity": "86%",
+        "time": "7 AM"
+      },
+      {
+        "humidity": "84%",
+        "time": "8 AM"
+      }
+    ],
+    "title": "Netflix Inc",
+    "exchange": "NASDAQ",
+    "stock": "NFLX",
+    "currency": "USD",
+    "price": 512.74,
+    "price_movement": {
+      "price": 3.92,
+      "percentage": 0.77,
+      "movement": "Up",
+      "date": "today"
+    },
+    "market": {
+      "closed": true,
+      "date": "Jun 24, 5:43 AM EDT",
+      "trading": "Pre-market",
+      "price": 515.56,
+      "price_movement": {
+        "price": 2.82,
+        "percentage": 0.55,
+        "movement": "Up"
+      }
+    },
+    "previous_close": 508.82,
+    "table": [
+      {
+        "name": "Open",
+        "value": 508.48
+      },
+      {
+        "name": "High",
+        "value": 516.63
+      },
+      {
+        "name": "Low",
+        "value": 508.2
+      }
+    ],
+    "link": "https://www.google.com/finance/quote/NFLX:NASDAQ?sa=X&ved=2ahUKEwjm2c6ajLDxAhUDba0KHRIBDgkQ3ecFMAB6BAgXEBI",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=NFLX:NASDAQ",
+    "place": "New York",
+    "population": "8.419 million",
+    "year": "2019",
+    "other": [
+      {
+        "place": "Los Angeles",
+        "population": "3.967 million"
+      },
+      {
+        "place": "Chicago",
+        "population": "2.71 million"
+      }
+    ],
+    "currency_converter": {
+      "from": {
+        "price": 100,
+        "currency": "Euro"
+      },
+      "to": {
+        "price": 112.79,
+        "currency": "United States Dollar"
+      }
+    },
+    "chart": [
+      {
+        "price": 1.15515,
+        "time": "2021-11-06 23:58 PM",
+        "unix_time": 1636243080
+      },
+      {
+        "price": 1.15687,
+        "time": "2021-11-07 23:58 PM",
+        "unix_time": 1636329480
+      },
+      {
+        "price": 1.15875,
+        "time": "2021-11-08 23:58 PM",
+        "unix_time": 1636415880
+      }
+    ],
+    "ad": "Save $106 – Nonstop flights from $697 if you fly to Tampa (TPA)",
+    "flights": [
+      {
+        "link": "https://www.google.com/flights?num=100&source=flun&uitype=cuAA&hl=en&gl=us&curr=USD&tfs=CAEQAhotEgoyMDIyLTAxLTIwKAAyAkFBagsIAhIHL20vMHZ6bXIMCAISCC9tLzBwbHkwGi0SCjIwMjItMDEtMjQoADICQUFqDAgCEggvbS8wcGx5MHILCAISBy9tLzB2em1IBHpoQ2pSSVMxTnNWMmh4VHpFemVqUkJSWFJSVkVGQ1J5MHRMUzB0TFMwdExYbHpZbXMwTWtGQlFVRkJSMGhOVUdaUlRubFhOVUZCRWdOdVFVRWFDd2lzOHdRUUFob0RWVk5FT0FOd3JQTUU&sa=X&ved=2ahUKEwjolIDj64j1AhWFj4kEHUdODDUQ1RUoAHoECAcQLg",
+        "icon": "https://serpapi.com/searches/61cc3df4e7d08a5fe565689c/images/7a45069d8927456ed6614256f8110301d65a1575461a537a0bf372bd965721c1.png",
+        "flight_info": [
+          "American",
+          "2h 32m",
+          "Nonstop",
+          "from $803"
+        ]
+      }
+    ],
+    "search_information": {
+      "trip_type": "Round Trip",
+      "non_stop": true,
+      "booking_class": "First",
+      "from": {
+        "departing_place": "Austin, TX",
+        "departing_airport": "AUS"
+      },
+      "to": {
+        "arriving_place": "Orlando, FL",
+        "arriving_airport": "All Airports"
+      }
+    },
+    "cheapest_flights": [
+      {
+        "departure_date": "2021-12-30",
+        "return_date": "2022-01-03",
+        "price": "$1,081",
+        "percentage_of_highest_price": 95.32628,
+        "booking_class": "T"
+      },
+      {
+        "departure_date": "2021-12-31",
+        "return_date": "2022-01-04",
+        "price": "$1,081",
+        "percentage_of_highest_price": 95.32628,
+        "booking_class": "F"
+      },
+      {
+        "departure_date": "2022-01-01",
+        "return_date": "2022-01-05",
+        "price": "$1,037",
+        "percentage_of_highest_price": 91.44621000000001,
+        "booking_class": "S"
+      }
+    ],
+    "duration": "5h 10m",
+    "stops": "Nonstop flight",
+    "direction": "Seattle, WA (SEA) to New York, NY (all airports)",
+    "query": {
+      "location": "Boston, MA",
+      "days": [
+        "Wed, Nov 24",
+        "Thu, Nov 25"
+      ],
+      "people": 2
+    },
+    "hotels": [
+      {
+        "link": "https://www.google.com/travel/hotels/Boston/entity/CgoI7Lu82-XY3ZQdEAE?g2lb=4306835,4258168,4640247,4401769,4659631,4317915,4371335,4659204,2502548,2503781,4518326,4624411,4605861,2503771,4641139,4419364,4644940,4597339,4270442,4644488,4570331,4596364,4284970,4270859,4291517&hl=en-US&gl=us&ssta=1&ap=aAE&grf=Er8ICiwIDhIoEiZyJCoiCgcI5Q8QCxgYEgcI5Q8QCxgZIAAwHkDKAkoHCOUPEAsYEBILCCkoAToF0gICCAESCggNKAE6BGoCCAESCggHKAE6BDoCIAESCggCKAE6BBICCAESDAgKEAIoAToEWgIIBhIMCAoQAigBOgRaAggEEgwIChACKAE6BFoCCAkSDAgKEAIoAToEWgIICBIMCAoQAigBOgRaAggKEgwIChACKAE6BFoCCAISDAgKEAIoAToEWgIIARIMCAoQAigBOgRaAggDEgwIChACKAE6BFoCCAcSCggEKAE6BCICEAESCwgoKAE6BcoCAggBEgsIEygCOgWaAQIIARIECB8oAxpKCAoSBgoEWgIIBhIGCgRaAggEEgYKBFoCCAkSBgoEWgIICBIGCgRaAggKEgYKBFoCCAISBgoEWgIIARIGCgRaAggDEgYKBFoCCAcaAggCGgIIDRoCCAQaCwgTEgcKBZoBAggBGgIIDhpCCAcSDgoMOgoKAwiWARoDVVNEEg4KDDoKCgMIyAEaA1VTRBIOCgw6CgoDCPoBGgNVU0QSDgoMOgoKAwisAhoDVVNEGoIFCB8SCQoFggICCCEgARILCgeCAgQICBghIAESCQoFggICCBIgAhIMCgiCAgUImwEYEiABEgsKB4ICBAhoGBIgARIJCgWCAgIIFCAFEgsKB4ICBAhwGBQgAhILCgeCAgQIGxgUIAISCwoHggIECE4YFCABEgoKBoICAwihAiABEgkKBYICAggcIBgSCwoHggIECFEYHCAEEgsKB4ICBAhYGBwgARILCgeCAgQIcxgcIAYSCwoHggIECEcYHCADEgsKB4ICBAg2GBwgAxILCgeCAgQIJBgcIAESCwoHggIECE0YHCAFEgwKCIICBQidAhgcIAESCQoFggICCCUgBhILCgeCAgQIdxglIAESCwoHggIECHkYJSACEgsKB4ICBAh6GCUgAxIJCgWCAgIIESANEgsKB4ICBAhAGBEgAhILCgeCAgQIOBgRIAQSCwoHggIECFcYESABEgsKB4ICBAgCGBEgARILCgeCAgQIfxgRIAMSCwoHggIECCsYESACEgkKBYICAgguICgSDAoIggIFCIABGC4gAxILCgeCAgQIPBguIAESCwoHggIECDsYLiACEgsKB4ICBAhWGC4gBxILCgeCAgQIOhguIAMSDAoIggIFCIcBGC4gAhILCgeCAgQISBguIAESCwoHggIECD0YLiAEEgwKCIICBQiBARguIAESDAoIggIFCIMBGC4gARILCgeCAgQISxguIAcSCwoHggIECAMYLiABEgsKB4ICBAgMGC4gAhILCgeCAgQIKBguIAISDAoIggIFCIkBGC4gARILCgeCAgQIJxguIAISCQoFggICCDUgAhILCgeCAgQICxg1IAESCwoHggIECDIYNSABIgIgAQ&q=hotels+in+boston&rp=EOy7vNvl2N2UHRC3zNfasIjQq8UBEOrC3KWfqOfmlwEQ6IWohK-tzZFIOAFAAEgCogEKQm9zdG9uLCBNQcABA8gBAA&ictx=1",
+        "image": "<URL to image>",
+        "original_price": "$129",
+        "price": "$115",
+        "title": "Hilton Boston Downtown/Faneuil Hall",
+        "rating": 4.3,
+        "reviews": 1800,
+        "sale": "20% less than usual",
+        "deal": "DEAL"
+      },
+      {
+        "link": "https://www.google.com/travel/hotels/Boston/entity/CgsIt8zX2rCI0KvFARAB?g2lb=4306835,4258168,4640247,4401769,4659631,4317915,4371335,4659204,2502548,2503781,4518326,4624411,4605861,2503771,4641139,4419364,4644940,4597339,4270442,4644488,4570331,4596364,4284970,4270859,4291517&hl=en-US&gl=us&ssta=1&ap=aAE&grf=Er8ICiwIDhIoEiZyJCoiCgcI5Q8QCxgYEgcI5Q8QCxgZIAAwHkDKAkoHCOUPEAsYEBILCCkoAToF0gICCAESCggNKAE6BGoCCAESCggHKAE6BDoCIAESCggCKAE6BBICCAESDAgKEAIoAToEWgIIBhIMCAoQAigBOgRaAggEEgwIChACKAE6BFoCCAkSDAgKEAIoAToEWgIICBIMCAoQAigBOgRaAggKEgwIChACKAE6BFoCCAISDAgKEAIoAToEWgIIARIMCAoQAigBOgRaAggDEgwIChACKAE6BFoCCAcSCggEKAE6BCICEAESCwgoKAE6BcoCAggBEgsIEygCOgWaAQIIARIECB8oAxpKCAoSBgoEWgIIBhIGCgRaAggEEgYKBFoCCAkSBgoEWgIICBIGCgRaAggKEgYKBFoCCAISBgoEWgIIARIGCgRaAggDEgYKBFoCCAcaAggCGgIIDRoCCAQaCwgTEgcKBZoBAggBGgIIDhpCCAcSDgoMOgoKAwiWARoDVVNEEg4KDDoKCgMIyAEaA1VTRBIOCgw6CgoDCPoBGgNVU0QSDgoMOgoKAwisAhoDVVNEGoIFCB8SCQoFggICCCEgARILCgeCAgQICBghIAESCQoFggICCBIgAhIMCgiCAgUImwEYEiABEgsKB4ICBAhoGBIgARIJCgWCAgIIFCAFEgsKB4ICBAhwGBQgAhILCgeCAgQIGxgUIAISCwoHggIECE4YFCABEgoKBoICAwihAiABEgkKBYICAggcIBgSCwoHggIECFEYHCAEEgsKB4ICBAhYGBwgARILCgeCAgQIcxgcIAYSCwoHggIECEcYHCADEgsKB4ICBAg2GBwgAxILCgeCAgQIJBgcIAESCwoHggIECE0YHCAFEgwKCIICBQidAhgcIAESCQoFggICCCUgBhILCgeCAgQIdxglIAESCwoHggIECHkYJSACEgsKB4ICBAh6GCUgAxIJCgWCAgIIESANEgsKB4ICBAhAGBEgAhILCgeCAgQIOBgRIAQSCwoHggIECFcYESABEgsKB4ICBAgCGBEgARILCgeCAgQIfxgRIAMSCwoHggIECCsYESACEgkKBYICAgguICgSDAoIggIFCIABGC4gAxILCgeCAgQIPBguIAESCwoHggIECDsYLiACEgsKB4ICBAhWGC4gBxILCgeCAgQIOhguIAMSDAoIggIFCIcBGC4gAhILCgeCAgQISBguIAESCwoHggIECD0YLiAEEgwKCIICBQiBARguIAESDAoIggIFCIMBGC4gARILCgeCAgQISxguIAcSCwoHggIECAMYLiABEgsKB4ICBAgMGC4gAhILCgeCAgQIKBguIAISDAoIggIFCIkBGC4gARILCgeCAgQIJxguIAISCQoFggICCDUgAhILCgeCAgQICxg1IAESCwoHggIECDIYNSABIgIgAQ&q=hotels+in+boston&rp=EOy7vNvl2N2UHRC3zNfasIjQq8UBEOrC3KWfqOfmlwEQ6IWohK-tzZFIOAFAAEgCogEKQm9zdG9uLCBNQcABA8gBAA&ictx=1",
+        "image": "<URL to image>",
+        "price": "$111",
+        "title": "Omni Boston Hotel at the Seaport",
+        "rating": 4.6,
+        "reviews": 89,
+        "features": [
+          "Outdoor pool",
+          "Hot tub"
+        ]
+      }
+    ],
+    "map_results": [
+      {
+        "price": "$159",
+        "latitude": "42.33364",
+        "longitude": "-71.08167"
+      },
+      {
+        "price": "$100",
+        "latitude": "42.32709",
+        "longitude": "-71.05955"
+      }
+    ],
+    "syllables": "trans·par·ent",
+    "pronunciation_audio": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/transparent--_us_2.mp3",
+    "phonetic": "/transˈperənt/",
+    "word_type": "adjective",
+    "definitions": [
+      "(of a material or article) allowing light to pass through so that objects behind can be distinctly seen.",
+      "easy to perceive or detect.",
+      "having thoughts, feelings, or motives that are easily perceived.",
+      "(of an organization or its activities) open to public scrutiny.",
+      "transmitting heat or other electromagnetic rays without distortion.",
+      "(of a process or interface) functioning without the user being aware of its presence."
+    ],
+    "examples": [
+      "transparent blue water",
+      "a transparent plastic film",
+      "the residents will see through any transparent attempt to buy their votes",
+      "the symbolism of this myth is transparent",
+      "you'd be no good at poker—you're too transparent",
+      "if you had transparent government procurement, corruption would go away",
+      "parliament should render government transparent"
+    ],
+    "extras": [
+      "synonyms:see-through, clear, translucent, pellucid, crystal clear, crystalline, limpid, glassy, glasslike, liquid; Moreunclouded, uncloudy; raretranspicuous \"a transparent plastic film\"",
+      "antonyms:opaque, cloudy",
+      "synonyms:obvious, explicit, unambiguous, unequivocal, clear, lucid, straightforward, plain, (as) plain as the nose on your face, apparent, unmistakable, manifest, conspicuous, patent, indisputable, self-evident; raretranspicuous \"the symbolism of this myth is transparent\"",
+      "antonyms:obscure, ambiguous",
+      "synonyms:frank, open, candid, honest, direct, forthright, unreserved, plain-spoken, straight, straightforward, ingenuous, innocent, guileless, simple, artless; Moreaccountable; informalupfront \"parliament should render government transparent\"",
+      "antonyms:cunning, secretive"
+    ],
+    "snippet": "DirectionsIn a small bowl, combine cinnamon, nutmeg, and sugar and set aside briefly.In a 10-inch or 12-inch skillet, melt butter over medium heat. Whisk together cinnamon mixture, eggs, milk, and vanilla and pour into a shallow container such as a pie plate. Dip bread in egg mixture.",
+    "list": [
+      "In a small bowl, combine cinnamon, nutmeg, and sugar and set aside briefly.",
+      "In a 10-inch or 12-inch skillet, melt butter over medium heat. Whisk together cinnamon mixture, eggs, milk, and vanilla and pour into a shallow container such as a pie plate. Dip bread in egg mixture."
+    ],
+    "refinements": [
+      "no milk",
+      "good",
+      "sweet",
+      "without eggs",
+      "bread",
+      "stuffed",
+      "casserole",
+      "cinnamon roll"
+    ],
+    "expanded_list": [
+        {
+          "title": "Team Liquid",
+          "thumbnail": "https://serpapi.com/searches/6691727a10a071fb2530a93b/images/4be41d7a72ac727a01e6c4b93d4bd626741297003df279f9a02a03b32b8e700e87871097b493904b.png"
+        },
+        {
+          "title": "FaZe Clan",
+          "thumbnail": "https://serpapi.com/searches/6691727a10a071fb2530a93b/images/4be41d7a72ac727a01e6c4b93d4bd626741297003df279f9a7c3709000c3630c16cf6e81adc8bb1b.png"
+        },
+        {
+          "title": "Fnatic",
+          "thumbnail": "https://serpapi.com/searches/6691727a10a071fb2530a93b/images/4be41d7a72ac727a01e6c4b93d4bd626741297003df279f91dcf2621bc91b8c7dbce73807cfb2e87.png"
+        }
+      ],
+    "displayed_link": "https://www.medicalnewstoday.com › articles",
+    "about_this_result": {
+      "source": {
+        "description": "Medical News Today is a web-based outlet for medical information and news, targeted at both the general public and physicians. All posted content is available online, and the earliest available article dates from May 2003. The website has been owned by Healthline Media since 2016.",
+        "icon": "https://serpapi.com/searches/62cef4d8e7d08a2a19a66368/images/817075856624c045dc67593005e2e98effdea56fd64f9f1f80aea4149ff5e1060f5b83ca85987129b7d261b512322da4.png"
+      },
+      "keywords": [
+        "what",
+        "banana",
+        "fruit",
+        "known",
+        "for"
+      ],
+      "related_keywords": [
+        "bananas"
+      ],
+      "languages": [
+        "English"
+      ],
+      "regions": [
+        "the United States"
+      ]
+    },
+    "snippet_highlighted_words": [
+      "English physicist and mathematician"
+    ],
+    "images": [
+      "https://serpapi.com/searches/62cf047ce7d08a3ff30e7de8/images/be4c60d26e9a3cbfd3a8410ae2a001474a2877ba0b607ff3.jpeg",
+      "https://serpapi.com/searches/62cf047ce7d08a3ff30e7de8/images/be4c60d26e9a3cbfd3a8410ae2a0014713d19189f88aae68.jpeg",
+      "https://serpapi.com/searches/62cf047ce7d08a3ff30e7de8/images/be4c60d26e9a3cbfd3a8410ae2a00147306c86a864d8d1f8.jpeg"
+    ],
+    "subjects_of_study": "Newtonian reflector Newton’s ...",
+    "notable_works": "“Opticks” “The Mathematical Pr...",
+    "died": "March 31, 1727 (aged 84) London Engla...",
+    "born": "January 4, 1643 England",
+    "about_page_link": "https://www.google.co.uk/search?q=About+https://www.britannica.com/biography/Isaac-Newton&tbm=ilp&ilps=ADNMCi2QO8PaOOSlTdPi4gxx3ZjzBGUEYA",
+    "contents": {
+      "table": [
+        [
+          "Company",
+          "Bonnier Corporation"
+        ],
+        [
+          "Website",
+          "bonniercorp.com"
+        ],
+        [
+          "Country",
+          "United States"
+        ],
+        [
+          "Revenue",
+          "100M-200M"
+        ],
+        [
+          "Company Size",
+          "500-1000"
+        ]
+      ]
+    },
+    "answer": "Neptune Township, NJ",
+    "favicon": "https://serpapi.com/searches/6644a17ede98343536253cfe/images/910ee896890e57f6d46bf4732e05c1f7c7ed0dcbd405bbfc.png",
+    "people_also_search_for": [
+      {
+        "name": "Rhea Perlman",
+        "image": "https://serpapi.com/searches/6644a17ede98343536253cfe/images/910ee896890e57f68f6f1b34ca17631ee5416ef85cdfbbb096f6122a34e4ef8a4867ae7d738890711eb8115fdcdba8fc.jpeg",
+        "link": "https://www.google.com/search?sca_esv=50a3c251fb54b13c&sca_upv=1&gl=us&hl=en&q=rhea+perlman+place+of+birth&stick=H4sIAAAAAAAAAONgFuLQz9U3KLTMTlHiBLGM8gyLi7T4AlKLivPzgjNTUssTK4sXMSpkJ1vpF6TmF-SkAimQnFVBTmJyqkJ-mkJSZlFJxiJW6aKM1EQFoGRObmKeAqosABQOriZoAAAA&sa=X&ved=2ahUKEwjTp7zKy4-GAxU3kokEHRuKB8MQxA16BAggEAY",
+        "extension": "New York, NY"
+      }
+    ],
+    "webfacts": [
+      {
+        "title": "Date of birth",
+        "snippet": "November 17, 1944",
+        "link": "https://www.google.com/search?sca_esv=50a3c251fb54b13c&sca_upv=1&gl=us&hl=en&q=Danny+DeVito+date+of+birth&sa=X&ved=2ahUKEwjTp7zKy4-GAxU3kokEHRuKB8MQqtEKKAB6BAgdECg"
+      },
+      {
+        "title": "Age",
+        "snippet": "79 years",
+        "link": "https://www.google.com/search?sca_esv=50a3c251fb54b13c&sca_upv=1&gl=us&hl=en&q=Danny+DeVito+age&sa=X&ved=2ahUKEwjTp7zKy4-GAxU3kokEHRuKB8MQqtEKKAF6BAgdECk"
+      },
+      {
+        "title": "Parent",
+        "snippet": "Julia DeVito",
+        "link": "https://www.google.com/search?sca_esv=50a3c251fb54b13c&sca_upv=1&gl=us&hl=en&q=Julia+DeVito&sa=X&ved=2ahUKEwjTp7zKy4-GAxU3kokEHRuKB8MQqtEKKAJ6BAgdECo",
+        "thumbnail": "https://serpapi.com/searches/6644a17ede98343536253cfe/images/910ee896890e57f6fc0ec9f8ff5208affdb04a422f52aaa00991f67bca489c26.jpeg"
+      }
+    ],
+    "translation": {
+         "source": {
+            "language": "English - detected",
+            "text": "hello",
+            "pronunciation": "həˈlō"
+         },
+         "target": {
+            "language": "Spanish",
+            "text": "Hola"
+         },
+         "interjection": [
+            {
+               "title": "¡Hola!",
+               "values": [
+                  "Hello!",
+                  "Hi!",
+                  "Hey!",
+                  "Hullo!",
+                  "Hallo!",
+                  "Hoy!"
+               ]
+            },
+            {
+               "title": "¡Caramba!",
+               "values": [
+                  "Gee!",
+                  "Well!",
+                  "Good gracious!",
+                  "Well I never!",
+                  "By jingo!",
+                  "By gum!"
+               ]
+            },
+            {
+               "title": "¡Oiga!",
+               "values": [
+                  "Listen!",
+                  "Hello!",
+                  "Hullo!",
+                  "Hallo!",
+                  "I say!",
+                  "See here!"
+               ]
+            }
+         ]
+    },
+    "from": "Manor, Texas",
+    "to": "Austin, Texas",
+    "routes": [
+        {
+          "changes": "0 changes",
+          "itinerary": [
+            {
+              "service_by": "Amtrak",
+              "transport_number": "Acela 2151",
+              "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.amtrak.com&client=TRANSPORTATION&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=1",
+              "departure_location": "South Station",
+              "arrival_location": "Newark - Penn Station",
+              "departure_time": "5:05 AM",
+              "arrival_time": "9:13 AM",
+              "duration": "4h 8m"
+            }
+          ],
+          "tickets_details": [
+            {
+              "url": "https://www.google.com/travel/clk/tr?pcurl=https://www.amtrak.com/tickets/departure.html?service_date%253D%25255B%25252220241003%252522%25255D%2526from_ticketing_stop_time_id%253D%25255B%252522BOS%252522%25255D%2526to_ticketing_stop_time_id%253D%25255B%252522NWK%252522%25255D%2526boarding_time%253D%25255B%2525222024-10-03T05:05:00%252522%25255D%2526arrival_time%253D%25255B%2525222024-10-03T09:13:00%252522%25255D%2526cmp%253Dgoogle-transport-module&pc=ChMI_aKw0rLgiAMVDMvyBx1cchhPEgl1c19hbXRyYWsgASoBATIFZW4tVVM6AnVzQAFIAVJQCk4SA0JPUxoDTldLIgcI6A8QChgDKg0I6A8QChgDIAkoBUIAMg0I6A8QChgDIA0oDUIAOP2KhI7f6LeQpgFA98Toq5C3pKQESgJVU1ICVVNaCAoDVVNEENkBYpwCaHR0cHM6Ly93d3cuYW10cmFrLmNvbS90aWNrZXRzL2RlcGFydHVyZS5odG1sP3NlcnZpY2VfZGF0ZT0lNUIlMjIyMDI0MTAwMyUyMiU1RCZmcm9tX3RpY2tldGluZ19zdG9wX3RpbWVfaWQ9JTVCJTIyQk9TJTIyJTVEJnRvX3RpY2tldGluZ19zdG9wX3RpbWVfaWQ9JTVCJTIyTldLJTIyJTVEJmJvYXJkaW5nX3RpbWU9JTVCJTIyMjAyNC0xMC0wM1QwNTowNTowMCUyMiU1RCZhcnJpdmFsX3RpbWU9JTVCJTIyMjAyNC0xMC0wM1QwOToxMzowMCUyMiU1RCZjbXA9Z29vZ2xlLXRyYW5zcG9ydC1tb2R1bGU",
+              "company": "Amtrak.com",
+              "price": "$217"
+            }
+          ],
+          "time": "5:57 AM - 6:41 AM",
+          "duration": "45 min",
+          "fare": "$3.50",
+          "info": "5:57 AM from Manor Park and Ride",
+          "summary": "22 min (14.5 mi) via 290 Toll",
+          "formatted": {
+            "duration": "22 min",
+            "distance": "14.5 mi",
+            "via": "290 Toll"
+          },
+          "link": "https://www.google.com/maps/dir/Manor,+Texas/Austin,+Texas/data=!4m8!4m7!1m2!1m1!1s0x8644c0c487d2a4db:0x7486e48c8c2d3407!1m2!1m1!1s0x8644b599a0cc032f:0x5d9b464bd469d57a!3e0?sa=X&ved=2ahUKEwjR9ICngPWHAxU9r5UCHZ2DGhAQox16BAgpEAA&hl=en&gl=us"
+        }
+    ],
+    "time": "Anytime",
+    "climate_friendly": true,
+    "solve_for": "area",
+    "solve_for_alternatives": [
+      "base (a)",
+      "base (b)",
+      "height"
+    ],
+    "answer_alternatives": [
+      "m²",
+      "km²",
+      "cm²"
+    ],
+    "parameters": [
+      {
+        "symbol": "a",
+        "name": "Base",
+        "value": 5,
+        "unit": "in"
+      },
+      {
+        "symbol": "b",
+        "name": "Base",
+        "value": 4,
+        "unit": "in"
+      },
+      {
+        "symbol": "h",
+        "name": "Height",
+        "value": 3,
+        "unit": "in"
+      }
+    ],
+    "solutions": [
+      "A=(((a+b)/2)*h)"
+    ],
+    "unit_type": "Digital Storage",
+    "formula": "multiply the digital storage value by 1000",
+    "description": "Rockefeller Center, Monday hours",
+    "hours_list": [
+      {
+        "title": "Rockefeller Center",
+        "items": [
+          {
+            "day": "Monday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Thursday",
+            "hours": "Open 24 hours"
+          }
+        ]
+      },
+      {
+        "title": "1 Rockefeller Plaza",
+        "items": [
+          {
+            "day": "Monday",
+            "hours": "10:30 AM–4:30 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "10:30 AM–4:30 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "10:30 AM–4:30 PM"
+          }
+        ]
+      },
+      {
+        "title": "SLim Dental Rockefeller Center",
+        "items": [
+          {
+            "day": "Monday",
+            "hours": "8 AM–5 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "8 AM–5 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "9 AM–6 PM"
+          }
+        ]
+      }
+    ],
+    "local_hours_results": [
+      {
+        "title": "1 Rockefeller Plaza",
+        "link": "https://www.google.com/search?q=1+Rockefeller+Plaza&ludocid=250211502183433163&gsas=1&lsig=AB86z5XRpHZe_3Q73xXH6EOOYN6G&sa=X&ved=2ahUKEwihoNXLutj9AhVJD1kFHTxvACgQnbkBegQICRAF",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&lsig=AB86z5XRpHZe_3Q73xXH6EOOYN6G&ludocid=250211502183433163&q=1+Rockefeller+Plaza",
+        "hours": "10:30 AM–4:30 PM"
+      },
+      {
+        "title": "SLim Dental Rockefeller Center",
+        "link": "https://www.google.com/search?q=SLim+Dental+Rockefeller+Center&ludocid=16721026813527913726&gsas=1&lsig=AB86z5WlupY8ho4QItDb51PCaDU9&sa=X&ved=2ahUKEwihoNXLutj9AhVJD1kFHTxvACgQnbkBegQICRAH",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&lsig=AB86z5WlupY8ho4QItDb51PCaDU9&ludocid=16721026813527913726&q=SLim+Dental+Rockefeller+Center",
+        "hours": "8 AM–5 PM"
+      }
+    ],
+    "alerts": [
+      {
+        "title": "M 7.5",
+        "details": "4 miles from Suzu, Ishikawa, Japan",
+        "link": "https://www.google.com/search?q=earthquake&sourceid=chrome-mobile&ie=UTF-8&stick=H4sIAAAAAAAAAOOQVeLVT9c3NCzLTjLJKzcoecR4hJFb4OWPe8JSuxh3nW2s5uHi4uLQz9U3MCqyNJ-05uQ1xkWMXFyuiUUlGYWlidmpSqVGobsuTTvH5i_IAAR_JgY5SGloCXKxueTnJmbmCQq7MDpk_H1vryXMxRGSWJGfl59bKbhn2f96PaCgkgRIk8IpDycHCWYFBg0GQyD3AVv8r_1aDEFwWw8wMjXtW3GIjZuDUYDBiJWDQYiRzYpJgzGInwvi-IyqCtMUY-OqBsbOvp0z3q5sZuZZxMqVCncjAD87XvHmAAAA&sa=X&ved=2ahUKEwiagdTm8cGDAxWjfDABHYleAXMQuqkBKAB6BAgWEAU",
+        "thumbnail": "https://serpapi.com/searches/6595acda10a07184141498f1/images/45fda570d55b7abea37f8516412f1d8646f0b0c8dd020451e6f8fb1818479cb0.png",
+        "date": "Jan 1, 2:10 AM"
+      },
+      {
+        "title": "M 4.1",
+        "details": "11 miles from Rancho Palos Verdes, CA",
+        "link": "https://www.google.com/search?q=earthquake&sourceid=chrome-mobile&ie=UTF-8&stick=H4sIAAAAAAAAAOOQVeLVT9c3NMxJLsgzy64qf8R4hJFb4OWPe8JSuxh3nW2s5uHi4uLQz9U3MCqyNJ-05uQ1xkWMXFyuiUUlGYWlidmpSqVGobsuTTvH5i_IAAR_JgY5SGloCXKxueTnJmbmCQq7MDpk_H1vryXMxRGSWJGfl59bKbhn2f96PaCgkgRIk8IpDycHCWYFBg0GQyD3AVv8r_1aDEFwWw8wMjXtW3GIjZuDUYDBiJWDQYiRzYpJgzGInwvi-IyqCtMUY-OqBsbOvp0z3q5sZuZZxMqVCncjAGwCm5PmAAAA&sa=X&ved=2ahUKEwiagdTm8cGDAxWjfDABHYleAXMQuqkBKAF6BAgWEAY",
+        "thumbnail": "https://serpapi.com/searches/6595acda10a07184141498f1/images/45fda570d55b7abea37f8516412f1d86602cc12d6d1866e81b2bbca2bf473129.png",
+        "date": "Jan 1, 11:27 AM"
+      },
+      {
+        "title": "M 6.2",
+        "details": "3 miles from Anamizu, Ishikawa, Japan",
+        "link": "https://www.google.com/search?q=earthquake&sourceid=chrome-mobile&ie=UTF-8&stick=H4sIAAAAAAAAAOOQVeLVT9c3NMxJLsg2qigpecR4hJFb4OWPe8JSuxh3nW2s5uHi4uLQz9U3MCqyNJ-05uQ1xkWMXFyuiUUlGYWlidmpSqVGobsuTTvH5i_IAAR_JgY5SGloCXKxueTnJmbmCQq7MDpk_H1vryXMxRGSWJGfl59bKbhn2f96PaCgkgRIk8IpDycHCWYFBg0GQyD3AVv8r_1aDEFwWw8wMjXtW3GIjZuDUYDBiJWDQYiRzYpJgzGInwvi-IyqCtMUY-OqBsbOvp0z3q5sZuZZxMqVCncjANeaEU_mAAAA&sa=X&ved=2ahUKEwiagdTm8cGDAxWjfDABHYleAXMQuqkBKAJ6BAgWEAc",
+        "thumbnail":
+        "https://serpapi.com/searches/6595acda10a07184141498f1/images/45fda570d55b7abea37f8516412f1d86288a531067f4fe21cf45612ffb2a8383.png",
+        "date": "Jan 1, 2:18 AM"
+      }
+    ]
+
+    },
+    "available_on": [
+    {
+      "name": "Hulu",
+      "link": "https://www.hulu.com/watch/913f9947-7057-48c5-a8d7-973f4f0227ff",
+      "price": "Premium subscription",
+      "thumbnail": "https://serpapi.com/searches/60e6d8f1de983400978f8e1f/images/996bf28d095f2f454a71713795ca517d6bb12284e3ee25f5fda528374327cf69.png"
+    },
+    {
+      "name": "Disney+",
+      "link": "https://www.disneyplus.com/video/f4add311-5f2a-4d79-a6c3-588a1765b7d9?distributionPartner=google",
+      "price": "Subscription",
+      "thumbnail": "https://serpapi.com/searches/60e6d8f1de983400978f8e1f/images/996bf28d095f2f4512e06acdbad9eb61810c31bad3436b9f64b642c0e9982c0e.png"
+    },
+    {
+      "name": "Sling TV",
+      "link": "https://watch.sling.com/1/program/db84239422c94960a1f709e7f7c841bc/watch?trackingid=google-feed",
+      "price": "Premium subscription",
+      "thumbnail": "https://serpapi.com/searches/60e6d8f1de983400978f8e1f/images/996bf28d095f2f45589243f3501f264f31adb868782ab5bbdd4c1843798ef42f.png"
+    }
+    ],
+    "broaden_searches": [
+    {
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRLxaqqA9Zylz1nlujiB7tvVd3QewViF6laDInEz3j62kBWKRxO5fg\u0026s=0",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKoDE9YhCrdArLzSYmvn6yV8dh-Iz_x1CQDSI9C06t8IlQGr98yTTo\u0026s=0",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7yE47Vxq60_vpEBE8ipPm26k8jJnBBqlU77xH5jxcmHndKw-vBX9c\u0026s=0"
+      ],
+      "title": "What has Charli d amelio been in",
+      "link": "https://google.com/search?q=What+has+Charli+d+amelio+been+in\u0026stick=H4sIAAAAAAAAAOOQMVIoz0gsUchILFZIzkgsyslUSFFIzE3NycxXSEpNzVPIzIsSQ5coy0xJzS8-xcirn65vaFhUXBBflW5QBuOnpZXFVyUVGcL5JeXJZilZ5jB-RlqheXZyStYvRoVwmNXO2K1uYGFcxEpQ1S02SYYLQrPOSzaqLalmlJIz23A2MWZ_65qHabx2ADWCRHLhAAAA\u0026sa=X\u0026ved=2ahUKEwiku7nNq5H2AhXYpnIEHRiiCGAQpKcGKAB6BAgQEAA",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+TX%2C+Texas%2C+United+States&q=What+has+Charli+d+amelio+been+in&stick=H4sIAAAAAAAAAOOQMVIoz0gsUchILFZIzkgsyslUSFFIzE3NycxXSEpNzVPIzIsSQ5coy0xJzS8-xcirn65vaFhUXBBflW5QBuOnpZXFVyUVGcL5JeXJZilZ5jB-RlqheXZyStYvRoVwmNXO2K1uYGFcxEpQ1S02SYYLQrPOSzaqLalmlJIz23A2MWZ_65qHabx2ADWCRHLhAAAA"
+    },
+    {
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJMZXKn7_awtiHcZOImBq1zsXwQo68p1gSpQ7XZsZq0gueVOv3_gjq\u0026s=0",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfmfqO-5eyaYxj6pBXJrtbUGuzzasTyc_rh5LxaHiBqsW3guj-Nogc\u0026s=0"
+      ],
+      "title": "Tik Tok artists",
+      "link": "https://google.com/search?q=Tik+Tok+artists\u0026stick=H4sIAAAAAAAAAOOQMeIvycxWKMnPVkgsKsksLimOEkvOSCzKyVRIUUjMTc3JzFcoy0xJzS8-xcirn65vaJhlnp1UmGJQAuPn5iWbZ5cbGsD4GQZllYVJFnkwfpp5kWmlcbIxXL9BvEWlaUU5jJ9sblpZkF4ONz8tr9jIIr2i6hQjt36uvoGhUVZ8klEFTDapwrLSwrgMbnqGkUmaYXxZ8i9G_hCgP0IQ_ljEii5yi02S4YLQrPNa7wz_2Hxmlb0ewWydG1Hw96fNHAYAsc-YEAkBAAA\u0026sa=X\u0026ved=2ahUKEwiku7nNq5H2AhXYpnIEHRiiCGAQpKcGKAB6BAgNEAA",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+TX%2C+Texas%2C+United+States&q=Tik+Tok+artists&stick=H4sIAAAAAAAAAOOQMeIvycxWKMnPVkgsKsksLimOEkvOSCzKyVRIUUjMTc3JzFcoy0xJzS8-xcirn65vaJhlnp1UmGJQAuPn5iWbZ5cbGsD4GQZllYVJFnkwfpp5kWmlcbIxXL9BvEWlaUU5jJ9sblpZkF4ONz8tr9jIIr2i6hQjt36uvoGhUVZ8klEFTDapwrLSwrgMbnqGkUmaYXxZ8i9G_hCgP0IQ_ljEii5yi02S4YLQrPNa7wz_2Hxmlb0ewWydG1Hw96fNHAYAsc-YEAkBAAA"
+    }
+    ],
+    "buying_guide": {
+    "title": "Buying guide: Drip Coffee Makers",
+    "questions": [
+      {
+        "topic": "price",
+        "question": "How much do drip coffee makers cost?",
+        "snippet": "Below you'll find reviews for 10 top-performing drip coffee makers, with prices from about $25 to $220.",
+        "date": "Feb 19, 2021",
+        "link": "https://www.consumerreports.org/coffee-makers/best-drip-coffee-makers-consumer-reports-tests/#:~:text=Below%20you'll%20find%20reviews,from%20about%20%2425%20to%20%24220.",
+        "title": "Best Drip Coffee Makers of 2021 - Consumer Reports",
+        "displayed_link": "https://www.consumerreports.org › coffee-makers › best-..."
+      },
+      {
+        "topic": "features",
+        "question": "What are the benefits of a drip coffee maker?",
+        "snippet": "Maximum Control of Flavor and Strength Controlling the flow of the water while brewing allows the user to tailor the brewing process to bring out the full flavors of the beans, while also fostering a sense of appreciation for the brewing process itself.",
+        "date": "Mar 6, 2018",
+        "link": "https://willowandeverett.com/blogs/blog/drip-coffee-makers-offer-both-convenience-and-efficient-brewing#:~:text=Maximum%20Control%20of%20Flavor%20and%20Strength&text=Controlling%20the%20flow%20of%20the,for%20the%20brewing%20process%20itself.",
+        "title": "Convenience of Drip Coffee Makers | WillowAndEverett.com ...",
+        "displayed_link": "https://willowandeverett.com › blogs › blog › drip-coffee-..."
+      },
+      {
+        "topic": "sizes",
+        "question": "What size does drip coffee maker come in?",
+        "snippet": "✔️Size: Most drip coffee makers can brew about 10 to 14 cups of coffee, with 12 cups being the most common, but smaller, typically less expensive, options are available for single-coffee drinker homes or small spaces.",
+        "link": "https://www.goodhousekeeping.com/appliances/coffee-maker-reviews/g37432967/best-drip-coffee-makers/",
+        "title": "11 Best Drip Coffee Makers and Machines 2022",
+        "displayed_link": "https://www.goodhousekeeping.com › appliances › best-d..."
+      },
+      {
+        "topic": "maintenance",
+        "question": "What maintenance does a drip coffee maker need?",
+        "snippet": "On a daily basis the carafe should be rinsed and the coffee grounds should be removed from the filter. Every three months, you should give your coffee maker a thorough cleaning to remove mineral deposits and buildup.",
+        "link": "https://www.wayfair.com/sca/ideas-and-advice/rooms/coffee-maker-buying-guide-T1064",
+        "title": "Coffee Maker Buying Guide | Wayfair",
+        "displayed_link": "https://www.wayfair.com › sca › ideas-and-advice › rooms"
+      }
+    ]
+    },
+    "complementary_results": {
+    "name": "David Heinemeier Hansson",
+    "label": "Chief technology officer of Basecamp",
+    "thumbnail": "https://serpapi.com/searches/672a6868cf281810f13d792f/images/22c6ddb4438a1b7a9f883e493833bcd1752723ecb57326b5a344cc6e1291e4a3.jpeg",
+    "link": "https://www.google.com/search?sca_esv=3571e5df92edb3af&gl=us&hl=en&q=David+Heinemeier+Hansson&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LzIuFg2XtTPajBAThbnW-7sPB0TTF2jXsRQApSAbOvHJ22KfSg%3D%3D&sa=X&ved=2ahUKEwiv6Om97cWJAxXrv4kEHZ4fDcwQ-pgMegQIERAB",
+    "sitelinks": [
+      {
+        "title": "Books",
+        "link": "https://www.google.com/search?sca_esv=3571e5df92edb3af&gl=us&hl=en&q=david+heinemeier+hansson+books&si=ACC90ny01_oQj607VqUhs83ZrDqFRkBtoifDHyDeFMQIha9CNb0Z5fWey6OsfNxwSoDNwZhy5pZO6qclQNlGDjfLReJUqlGA5uPMNvzoregrF0WbuGobTUI%3D&sa=X&ved=2ahUKEwiv6Om97cWJAxXrv4kEHZ4fDcwQ_JgMegQIERAK"
+      }
+    ]
+    },
+    "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In response to multiple complaints we received under the US Digital Millennium Copyright Act, we have removed 2 results from this page. If you wish, you may read the DMCA complaints that caused the removals at LumenDatabase.org: Complaint, Complaint.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/support/answer/1386831",
+            "text": "US Digital Millennium Copyright Act"
+          },
+          {
+            "link": "https://lumendatabase.org/notices/34114295",
+            "text": "Complaint"
+          },
+          {
+            "link": "https://lumendatabase.org/notices/34283729",
+            "text": "Complaint"
+          }
+        ]
+      }
+    ]
+    },
+    "discover_more_places": [
+    {
+      "title": "Takeout",
+      "snippet": "The Baked Potato Shop, Union of Genius, and more",
+      "link": "https://www.google.com/search?tbm=lcl&q=takeout+food&rflfq=1&num=10&uule=w+CAQQCFISCQs2MuSEtepUEUK33kOSuTsc&lsspp=CVfmXfWe4jNn&rlt=Takeout&owsq=Coffee&sa=X&ved=2ahUKEwiW98GA6Yv0AhU0nGoFHQBQC3AQ9s8CegQIIxAE",
+      "images": [
+        "https://lh3.googleusercontent.com/QE3L93qm5Lz1UMlSZwPP_DREG4xig_H6_qMqcER9_vPPskpTePFHDhuILq1Cwk0=w157-h157-n"
+      ]
+    },
+    {
+      "title": "Delivery",
+      "link": "https://www.google.com/search?tbm=lcl&q=Delivery+Food&rflfq=1&num=10&uule=w+CAQQCFISCQs2MuSEtepUEUK33kOSuTsc&lsspp=&rlt=Delivery&owsq=Coffee&sa=X&ved=2ahUKEwiW98GA6Yv0AhU0nGoFHQBQC3AQ9s8CegQIIxAG",
+      "images": [
+        "https://lh3.googleusercontent.com/t204sQ6xcx_aUaQET-81rKJRika8r7Q2Dr3zl3UyXNgDkeorQDpIGeR5EGLssZmW=w157-h157-n"
+      ]
+    },
+    {
+      "title": "Best coffee",
+      "link": "https://www.google.com/search?tbm=lcl&q=best+coffee&rflfq=1&num=10&uule=w+CAQQCFISCQs2MuSEtepUEUK33kOSuTsc&lsspp=CTw9DtLTjJt0&rlt=Best+coffee&owsq=Coffee&sa=X&ved=2ahUKEwiW98GA6Yv0AhU0nGoFHQBQC3AQ9s8CegQIIxAI",
+      "images": [
+        "https://lh5.googleusercontent.com/p/AF1QipOqu0mcJoqknJDkm7cl6W4WR5eAWgHnJObKcAY0=w157-h157-n-k-no"
+      ]
+    }
+    ],
+    "discussions_and_forums": [
+    {
+      "title": "Best magnesium supplement? - Reddit",
+      "link": "https://www.reddit.com/r/Supplements/comments/19807nb/best_magnesium_supplement/",
+      "date": "4mo",
+      "extensions": [
+        "r/Supplements",
+        "40+ comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "Best magnesium supplement : r/blueprint_ - Reddit",
+      "link": "https://www.reddit.com/r/blueprint_/comments/1cr5mvf/best_magnesium_supplement/",
+      "date": "4w",
+      "extensions": [
+        "r/blueprint_",
+        "20+ comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "What is the best state of magnesium to take in a form of supplement? I ... - Quora",
+      "link": "https://www.quora.com/What-is-the-best-state-of-magnesium-to-take-in-a-form-of-supplement-I-am-currently-using-magnesium-chloride-hexahydrate-is-that-effective",
+      "date": "5mo",
+      "extensions": [
+        "4 answers"
+      ],
+      "source": "Quora"
+    }
+    ],
+    "events_results": [
+    {
+      "title": "Austin Grilled Cheese Festival",
+      "date": {
+        "start_date": "Feb 8",
+        "when": "Sat, 12:30 – 8:00 PM"
+      },
+      "address": [
+        "Austin",
+        "Austin, TX"
+      ],
+      "link": "https://www.google.com/search?hl=en&q=events+in+austin&gl=us&ibp=htl;events&rciv=evn&sa=X&ved=2ahUKEwiphoqc8bfnAhWqct8KHTQTB9sQ5bwDMAB6BAgKEAE#fpstate=tldetail&htidocid=MPRVijJT0SU5iP4iJpA8-A%3D%3D&htivrt=events",
+      "thumbnail": "<URL to image>"
+    },
+    {
+      "title": "Downtown Restaurants Austin Kid Friendly & Late...",
+      "date": {
+        "start_date": "Jan 29",
+        "when": "Jan 29 – Feb 8"
+      },
+      "address": [
+        "The Driskill, 604 Brazos St",
+        "Austin, TX"
+      ],
+      "link": "https://www.google.com/search?hl=en&q=events+in+austin&gl=us&ibp=htl;events&rciv=evn&sa=X&ved=2ahUKEwiphoqc8bfnAhWqct8KHTQTB9sQ5bwDMAF6BAgPEAE#fpstate=tldetail&htidocid=yhc9PN7HQH_3TCPXJpA8-A%3D%3D&htivrt=events",
+      "thumbnail": "<URL to image>"
+    },
+    {
+      "title": "From Way Downtown",
+      "date": {
+        "start_date": "Feb 9",
+        "when": "Sun, 7 – 8 PM"
+      },
+      "address": [
+        "Fallout Theater, 616 Lavaca St",
+        "Austin, TX"
+      ],
+      "link": "https://www.google.com/search?hl=en&q=events+in+austin&gl=us&ibp=htl;events&rciv=evn&sa=X&ved=2ahUKEwiphoqc8bfnAhWqct8KHTQTB9sQ5bwDMAJ6BAgMEAE#fpstate=tldetail&htidocid=O_B-d6Y3O2yGvqAJJpA8-A%3D%3D&htivrt=events",
+      "thumbnail": "<URL to image>"
+    },
+    {
+      "title": "WIND - SAIL RACING FILM FESTIVAL",
+      "date": "mar. 4 févr.",
+      "time": "19:30",
+      "venue": "Le Grand Rex",
+      "link": "https://www.google.fr/search?gl=fr&hl=fr&q=wind+-+sail+racing+film+festival,+le+grand+rex,+4+f%C3%A9vrier&stick=H4sIAAAAAAAAAOPgEOLQz9U3MC0syVLi1U_XNzRMK0irNCwqM9VSzU620s_JT04syczP00_OLKksyS_PsyotSM7PzcxLV0gtS80rKU4SSEyzNE9MMjM2NjOzTDFINHrEeJGRW-Dlj3vCUscZJ605eY3xACMXcYYJuXGxueaVAGWFpLh4pOBO02CQ4uKC86QUlLh4a97KyYqufp3GqCXEyb_9EZt83jN3wYQpPRmHm7hZlLyN7HddmnaOzVJQa-mHbPbJ4Q5SnIJh27gOCP59b6-kyMlwUE_B6sd7e0HG2v_2dbfCHCRYFBg0GAwD3f_XLxf3ddBiaNq34hAbCwejAIMVkwYjzyJWq_LMvBQFXYXixMwchaLEZJCr0zJzchXSUotLMssSc3QUclIV0osSgaqKUit0FEwU0g6vLCvKTC0CABm858ZmAQAA&sa=X&ved=2ahUKEwjxsZHK9LfnAhXLo1kKHV-jD-wQri4wG3oECBEQLQ"
+    }
+    ],
+    "find_results_on": [
+    {
+      "title": "Domestic cleaner in Edinburgh",
+      "link": "https://www.gumtree.com/business-services/property-shipping-services/cleaning-services/domestic-cleaning-services/uk/edinburgh",
+      "thumbnail": "https://serpapi.com/searches/66f4187110a07187be355018/images/09b2823edea1044a0a7bee356a29447023f2cb6cdd7490e362f3684b824b8f07.jpeg",
+      "source": "Gumtree",
+      "source_icon": "https://serpapi.com/searches/66f4187110a07187be355018/images/09b2823edea1044a0a7bee356a2944700ae47c9eba4a3e194893f4f73a634331.png"
+    },
+    {
+      "title": "Cleaning Services Edinburgh | Professional Domestic Cleaners in ...",
+      "link": "https://www.bark.com/en/gb/cleaners/edinburgh/",
+      "source": "bark",
+      "source_icon": "https://serpapi.com/searches/66f4187110a07187be355018/images/09b2823edea1044a0a7bee356a294470c0e92bc5807101ecb37af518bc540dfe.png"
+    },
+    {
+      "title": "Professional Cleaning Services in Edinburgh by Local Specialists",
+      "link": "https://www.fantasticservices.com/domestic-cleaning-services-edinburgh/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYq7NNVEQ7MWrWZ8EQvVufYjsAnubjX7rwCdP6jJV_oC1WIQY9GP9NH8Q&s",
+      "source": "fantasticservices",
+      "source_icon": "https://serpapi.com/searches/66f4187110a07187be355018/images/09b2823edea1044a0a7bee356a294470a638467edd2227ff2d3ce82201f18b2d.png"
+    }
+    ],
+    "grammar_check": {
+    "suggested_text": "I am here to gather their supplies",
+    "suggested_replacements": [
+      "I am",
+      "their"
+    ]
+    },
+    "immersive_products": [
+    {
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSPgIqNpl05jdL-sMbOB73btXtZDTlFhTxtJuSs36T8sZEngKJvIeZwX6YbJDCpvxl9VN69V9PFSD7xyePIkWdYCWefkS7L7UNlGJR_nKo",
+      "source_logo": "https://serpapi.com/searches/63dce986770844ea945f8a70/images/10ac77c5f790baa8b7be334a83d82f523212311fd1c9c3af758981116c9c7a195f41392ad9d988fb.png",
+      "source": "Best Buy",
+      "title": "ASUS L210",
+      "snippets": [
+        {
+          "text": "All-day battery life · Wouldn't expect them to be very expensive",
+          "link": "https://liliputing.com/asus-introduces-e210-e410-and-e510-budget-laptops-with-light-weight-designs/",
+          "source": "Liliputing"
+        }
+      ],
+      "rating": 4.4,
+      "reviews": 3000,
+      "price": "$109.99",
+      "extracted_price": 109.99,
+      "original_price": "$230",
+      "extracted_original_price": 230,
+      "extensions": [
+        "SALE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6ImgtbmNZNkRxTzZUS2tQSVBuT2U5LUFNIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTg0NDA4NzIxNjg0NDY2Nzk4NjMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MjcxODMyOTg4NzE3NzA2MzkiLCJpbWFnZURvY2lkIjoiNTE3Mzg5NzkxNzMwMjczNTk1OSIsInJkcyI6IlBDXzE2MDc3MTYyNTM4MDE0NTkyNTc0fFBST0RfUENfMTYwNzcxNjI1MzgwMTQ1OTI1NzQiLCJxdWVyeSI6ImxhcHRvcHMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImgtbmNZNkRxTzZUS2tQSVBuT2U5LUFNIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTg0NDA4NzIxNjg0NDY2Nzk4NjMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MjcxODMyOTg4NzE3NzA2MzkiLCJpbWFnZURvY2lkIjoiNTE3Mzg5NzkxNzMwMjczNTk1OSIsInJkcyI6IlBDXzE2MDc3MTYyNTM4MDE0NTkyNTc0fFBST0RfUENfMTYwNzcxNjI1MzgwMTQ1OTI1NzQiLCJxdWVyeSI6ImxhcHRvcHMifQ%3D%3D"
+    },
+    {
+        "category": "Shirts & Tops",
+        "thumbnail": "https://serpapi.com/searches/665811d3437af2429e07de54/images/6779a73f2be4203ae7fbb83bb4c0f781ff0e0843885086c3c41ad4caf7eaf90c.webp",
+        "source": "Chico's",
+        "title": "Chico's Women's No Iron Stretch Shirt",
+        "rating": 4.6,
+        "reviews": 126,
+        "price": "$59.99",
+        "extracted_price": 59.99,
+        "original_price": "$90",
+        "extracted_original_price": 90,
+        "location": "12 mi · In stock",
+        "delivery": "$7.95 by 6/17",
+        "returns": "60-day returns",
+        "extensions": [
+          "32% OFF"
+        ],
+        "immersive_product_page_token": "eyJlaSI6IjFoRllacmZSTVlTU3dia1Awb3l1dUE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTgxMjA4MDQ4MzA0NjUyNTAyOTQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExODMxMzE3NDE3MzM3MjkwMjM5IiwiaW1hZ2VEb2NpZCI6IjE3MTIwNTIxNDEwMTgyNTI0Nzc5IiwicmRzIjoiUENfMjMyNjY5MTMxMTUyNzYwMDY5NnxQUk9EX1BDXzIzMjY2OTEzMTE1Mjc2MDA2OTYiLCJxdWVyeSI6InNob3ArZGVhbHMifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjFoRllacmZSTVlTU3dia1Awb3l1dUE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTgxMjA4MDQ4MzA0NjUyNTAyOTQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExODMxMzE3NDE3MzM3MjkwMjM5IiwiaW1hZ2VEb2NpZCI6IjE3MTIwNTIxNDEwMTgyNTI0Nzc5IiwicmRzIjoiUENfMjMyNjY5MTMxMTUyNzYwMDY5NnxQUk9EX1BDXzIzMjY2OTEzMTE1Mjc2MDA2OTYiLCJxdWVyeSI6InNob3ArZGVhbHMifQ%3D%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTru3Oi7Jcivz_oXoeldOZRRkFHujrayy1d4UhjN0ttwva2mdKGbrfJ9IHQhW_mmvyWJPhDUmPI46hJKpwKRrvK38_VeWsXBmweae9LFs3jmqOnTVNVMIh58w",
+      "source_logo": "https://serpapi.com/searches/63dce986770844ea945f8a70/images/10ac77c5f790baa8b7be334a83d82f52d7ad7fd200dbdeae01e993a67968b2204354283616346f76.png",
+      "source": "Walmart - T and A Trading Inc",
+      "title": "Microsoft Surface Laptop Go",
+      "snippets": [
+        {
+          "text": "Solid performance · Prone to overheating",
+          "link": "https://www.techadvisor.com/article/723342/best-budget-laptop.html",
+          "source": "Tech Advisor"
+        }
+      ],
+      "rating": 4.5,
+      "reviews": 2000,
+      "price": "$475.00",
+      "extracted_price": 475,
+      "immersive_product_page_token": "eyJlaSI6ImgtbmNZNkRxTzZUS2tQSVBuT2U5LUFNIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE4MTg3NTQ5NjM3MzYwNTcwNTQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjIyMjYyMDc2ODQ1NjgwNjQwNTkiLCJpbWFnZURvY2lkIjoiMTcyMjU5MjMxMTM2MTA4MDEyNyIsInJkcyI6IlBDXzI3NTg0NzUyMjg3MTg3MTA2Mjh8UFJPRF9QQ18yNzU4NDc1MjI4NzE4NzEwNjI4IiwicXVlcnkiOiJsYXB0b3BzIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImgtbmNZNkRxTzZUS2tQSVBuT2U5LUFNIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE4MTg3NTQ5NjM3MzYwNTcwNTQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjIyMjYyMDc2ODQ1NjgwNjQwNTkiLCJpbWFnZURvY2lkIjoiMTcyMjU5MjMxMTM2MTA4MDEyNyIsInJkcyI6IlBDXzI3NTg0NzUyMjg3MTg3MTA2Mjh8UFJPRF9QQ18yNzU4NDc1MjI4NzE4NzEwNjI4IiwicXVlcnkiOiJsYXB0b3BzIn0%3D"
+    },
+    {
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRH-aM3UNBkOTm8ltoYy90-RePwWGvTpoA8f1ArKiF1ipVkEQDLg6_pjOdo8wiRxQsVZ7PbQG_u8ePZH_MCywln1_n1xHtcElUECyzOmq6dP2cRJN4tr0mZOg",
+        "source": "Newegg.com - AcerRecertified",
+        "title": "Acer Aspire 5 Laptop, 15.6” inch Full HD (1920 x 1080), AMD Ryzen 3 3200u, 4GB Ram, 128GB Ssd, Windows 10 S, Size: 10 in, Silver",
+        "rating": 4.4,
+        "reviews": 2000,
+        "price": "$249.99",
+        "extracted_price": 249.99,
+        "extensions": [
+          "Refurbished"
+        ],
+        "immersive_product_page_token": "eyJlaSI6InlzclpZNkwwTFlxaTVOb1AzYjZfOEF3IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODc3MDc0MjY5NzExMzE1NDQzIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNTQ3MTI4NjI3OTQ3MjA0NzE0NSIsImltYWdlRG9jaWQiOiI0MTc0MTA1NzY2NjE1MTY0MTE3IiwicmRzIjoiUENfMTYzMjI0MjUzNjE2NDc3ODMyMXxQUk9EX1BDXzE2MzIyNDI1MzYxNjQ3NzgzMjEiLCJxdWVyeSI6ImxhcHRvcHMifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InlzclpZNkwwTFlxaTVOb1AzYjZfOEF3IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODc3MDc0MjY5NzExMzE1NDQzIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNTQ3MTI4NjI3OTQ3MjA0NzE0NSIsImltYWdlRG9jaWQiOiI0MTc0MTA1NzY2NjE1MTY0MTE3IiwicmRzIjoiUENfMTYzMjI0MjUzNjE2NDc3ODMyMXxQUk9EX1BDXzE2MzIyNDI1MzYxNjQ3NzgzMjEiLCJxdWVyeSI6ImxhcHRvcHMifQ%3D%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSJMKK_AjLxi5a-YSjoMpVNQGeDRAkDSPPv3ISxlNL15bcOJd8nRBWOW724_2A0ZdocWTWMA32C5JXmvwf_vR8ISWGjpx-afibGfv0ePh_-zUh7V4CspQBjNQ",
+      "source_logo": "https://serpapi.com/searches/63dce986770844ea945f8a70/images/10ac77c5f790baa8b7be334a83d82f526d90e2df30faff6706fa43970fa5d9b1f8a6e850c01da259.png",
+      "source": "hp.com",
+      "title": "HP - Envy x360 2-in-1 15.6” Touch-Screen Laptop - AMD Ryzen 5 5625u - 8GB Memory - 256GB SSD - Nightfall Black",
+      "snippets": [
+        {
+          "text": "Best-in-class performance · Heavy",
+          "link": "https://www.techradar.com/reviews/hp-envy-x360-15-2021",
+          "source": "TechRadar"
+        }
+      ],
+      "rating": 4.5,
+      "reviews": 6000,
+      "price": "$669.99",
+      "extracted_price": 669.99,
+      "original_price": "$850",
+      "extracted_original_price": 850,
+      "extensions": [
+        "SALE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6ImgtbmNZNkRxTzZUS2tQSVBuT2U5LUFNIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODU2ODA2MDI3NTM0Njg1MzMxNCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTExMzYzMjc5MzQ2NjQzNjI0NTQiLCJpbWFnZURvY2lkIjoiMTQ3MzQwMDQyMjQ5NTU2MTA3ODMiLCJyZHMiOiJQQ183Mzc5NzI5MTAxNjgzOTgyNDA4fFBST0RfUENfNzM3OTcyOTEwMTY4Mzk4MjQwOCIsInF1ZXJ5IjoibGFwdG9wcyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImgtbmNZNkRxTzZUS2tQSVBuT2U5LUFNIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODU2ODA2MDI3NTM0Njg1MzMxNCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTExMzYzMjc5MzQ2NjQzNjI0NTQiLCJpbWFnZURvY2lkIjoiMTQ3MzQwMDQyMjQ5NTU2MTA3ODMiLCJyZHMiOiJQQ183Mzc5NzI5MTAxNjgzOTgyNDA4fFBST0RfUENfNzM3OTcyOTEwMTY4Mzk4MjQwOCIsInF1ZXJ5IjoibGFwdG9wcyJ9"
+    }
+    ],
+    "inline_images_suggested_searches": [
+    {
+      "name": "String - Suggested searches name",
+      "link": "String - Google search link original",
+      "chips": "String - Google chips parameter value",
+      "serpapi_link": "String - Link to SerpApi to fetch the suggested searches",
+      "thumbnail": "String - URL of an image"
+    }
+    ],
+    "inline_images" : [
+    {
+      "link": "https://www.google.com/search?q=red+apple&tbm=isch&source=iu&ictx=1&fir=mloJwUc7l49CLM%253A%252C2zoOd3WfXEH9kM%252C_&vet=1&usg=AI4_-kSthucEyhXTCveZxP8PXtnIGjPoDA&sa=X&ved=2ahUKEwiA5",
+      "source": "https://theoliveandthestone.com/red-apple-balsamic/",
+      "thumbnail": "<URL to thumbnail>",
+      "original": "<URL to original image>",
+      "title": "<Title of the source>"
+    }
+    ],
+    "shopping_results": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Wrangler Five Star Regular Fit Jean Dk Stonewash Size 34/L32",
+      "price": "$24.99",
+      "extracted_price": 24.99,
+      "link": "https://www.wrangler.com/shop/five-star-regular-fit-jeandk-stonewash3432-96501DS%3A34%3A32.html",
+      "source": "Wrangler",
+      "rating": 4.6,
+      "reviews": 1000,
+      "reviews_original": "1k+",
+      "thumbnail": "https://serpapi.com/searches/645b53c194489338fd994208/images/b3cf4756e442d01bfa5592cea2ec058f460b086ea72d3096e725ec7464da23f9.webp",
+      "extensions": [
+        "Cotton, Denim",
+        "Dark Stonewash",
+        "Regular",
+        "Zipper",
+        "Cotton, Denim",
+        "Dark Stonewash",
+        "Regular",
+        "Zipper"
+      ]
+    },
+    {
+        "position": 1,
+        "block_position": "top",
+        "title": "Redragon - For Gaming - M908 Impact RGB LED MMO Mouse with Side Buttons Optical Wired Gaming Mouse with 12,400DPI, High Precision, 20 Programmable Mouse Buttons",
+        "price": "$32.89",
+        "extracted_price": 32.89,
+        "link": "https://www.amazon.com/Redragon-Impact-Buttons-Precision-Programmable/dp/B07HC4NBQ8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2FK9EP27A6ZE6",
+        "source": "Amazon.com",
+        "shipping": "Free shipping",
+        "thumbnail": "https://serpapi.com/searches/645b557194489338fd99420a/images/ac11292de2f58aa235fc8abbfd12e2154be6bc5c41efe9d9b6e73be9a7e022b1.webp",
+        "extensions": [
+          "Free shipping",
+          "Black",
+          "18 Button",
+          "Wired",
+          "12,400 DPI",
+          "Black",
+          "18 Button",
+          "Wired",
+          "12,400 DPI"
+        ]
+    },
+    {
+    "position": 1,
+    "block_position": "top",
+    "title": "Skip-the-Line Paris Catacombs Special Access Tour",
+    "price": "$110",
+    "extracted_price": 110,
+    "link": "https://www.viator.com/en/paris/d479-ttd",
+    "source": "Viator",
+    "rating": 4.8,
+    "reviews": 480,
+    "reviews_original": "480",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwerquAfaCx875DBgzPrVveXr2oKJneE_f1f10odCfOR1f&s=4",
+    "extensions": [
+        "Free cancellation"
+    ]
+    }
+    ],
+    "inline_videos": [
+    {
+      "position": 1,
+      "title": "How To Make A Multiseed Sourdough Masterclass",
+      "link": "https://www.youtube.com/watch?v=UouZYyxhb1k",
+      "thumbnail": "<URL to image>",
+      "channel": "ilovecookingireland",
+      "duration": "9:52",
+      "platform": "YouTube",
+      "date": "Apr 23, 2018",
+      "key_moments": [
+        {
+          "time": "00:07",
+          "title": "MULTISEED SOURDOUGH",
+          "link": "https://www.youtube.com/watch?v=UouZYyxhb1k&t=7",
+          "thumbnail": "<URL to image>",
+          "percentage": 1
+        },
+        {
+          "time": "01:12",
+          "title": "RYE FLOUR 50g",
+          "link": "https://www.youtube.com/watch?v=UouZYyxhb1k&t=72",
+          "thumbnail": "<URL to image>",
+          "percentage": 12
+        },
+        {
+          "time": "01:37",
+          "title": "MIXED SEEDS 100g",
+          "link": "https://www.youtube.com/watch?v=UouZYyxhb1k&t=97",
+          "thumbnail": "<URL to image>",
+          "percentage": 16
+        }
+      ]
+    }
+    ],
+    "inline_video_tags": [
+    {
+      "title": "fighting",
+      "link": "https://www.google.com/search?q=bruce+lee+fighting+video&gl=us&hl=en-US&prmd=vni&chips=oq:bruce+lee+video;rq:bruce+lee+fighting+video;ss:fighting,fighting&tbm=vid&sa=X&ved=2ahUKEwiRo7CTvbP2AhXFQjABHa51DTsQ1L8FKAB6BAgOEAI",
+      "serpapi_link": "https://serpapi.com/search.json?chips=oq%3Abruce+lee+video&device=mobile&engine=google&gl=us&google_domain=google.com&hl=en-US&location=Austin%2C+Texas%2C+United+States&q=bruce+lee+fighting+video&tbm=vid"
+    }
+    ],
+    "jobs_results": {
+    "location": "Near Austin, TX",
+    "link": "https://www.google.com/search?oq=developer+careers&q=developer+careers&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwiDm77E3Yf6AhWAl2oFHXf-AZQQudcGKAJ6BAgXECs",
+    "link_text": "100+ more jobs",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=developer%20careers&uule=w%20CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+    "filters": [
+      {
+        "title": "Past 3 days",
+        "link": "https://www.google.com/search?oq=developer+careers&q=developer+careers&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&rciv=jb&chips=date_posted:3days&schips=gcat_category.id,job_family_1,city,date_posted;3days:Past3days,requirements,employment_type,industry.id,organization_mid&sa=X&ved=2ahUKEwiDm77E3Yf6AhWAl2oFHXf-AZQQiJcCKAB6BAgXEAs#htichips=date_posted:3days&htischips=gcat_category.id,job_family_1,city,date_posted;3days:Past3days,requirements,employment_type,industry.id,organization_mid",
+        "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&device=desktop&engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=developer%20careers&uule=w%20CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM"
+      },
+      {
+        "title": "Full-time",
+        "link": "https://www.google.com/search?oq=developer+careers&q=developer+careers&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&rciv=jb&chips=employment_type:FULLTIME&schips=gcat_category.id,job_family_1,city,date_posted,requirements,employment_type;FULLTIME:Fulltime,industry.id,organization_mid&sa=X&ved=2ahUKEwiDm77E3Yf6AhWAl2oFHXf-AZQQiJcCKAF6BAgXEA4#htichips=employment_type:FULLTIME&htischips=gcat_category.id,job_family_1,city,date_posted,requirements,employment_type;FULLTIME:Fulltime,industry.id,organization_mid",
+        "serpapi_link": "https://serpapi.com/search.json?chips=employment_type%3AFULLTIME&device=desktop&engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=developer%20careers&uule=w%20CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM"
+      },
+      {
+        "title": "Work from home",
+        "link": "https://www.google.com/search?oq=developer+careers&q=developer+careers&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&rciv=jb&ltype=1&sa=X&ved=2ahUKEwiDm77E3Yf6AhWAl2oFHXf-AZQQiJcCKAJ6BAgXEBE#htiltype=1",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_jobs&gl=us&google_domain=google.com&hl=en&q=developer%20careers&uule=w%20CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+        "trending": true
+      }
+    ],
+    "jobs": [
+      {
+        "title": "Swift Developer",
+        "link": "https://www.google.com/search?oq=developer+careers&q=developer+careers&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwiDm77E3Yf6AhWAl2oFHXf-AZQQkd0GegQIGhAB#fpstate=tldetail&htivrt=jobs&htiq=developer+careers&htidocid=A9xNXb2f0hkAAAAAAAAAAA%3D%3D",
+        "company_name": "Apple",
+        "location": "Austin, TX",
+        "via": "via Careers At Apple",
+        "extensions": [
+          "17 days ago",
+          "Full-time"
+        ],
+        "detected_extensions": {
+          "posted_at": "17 days ago",
+          "schedule_type": "Full-time"
+        }
+      },
+      {
+        "title": "Software Developer(00026502)",
+        "link": "https://www.google.com/search?oq=developer+careers&q=developer+careers&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwiDm77E3Yf6AhWAl2oFHXf-AZQQkd0GegQIGBAB#fpstate=tldetail&htivrt=jobs&htiq=developer+careers&htidocid=W3MRNJPVbwcAAAAAAAAAAA%3D%3D",
+        "company_name": "Texas Department of Insurance",
+        "location": "Austin, TX",
+        "via": "via Glassdoor",
+        "extensions": [
+          "3 days ago",
+          "Full-time",
+          "Health insurance",
+          "Paid time off"
+        ],
+        "detected_extensions": {
+          "posted_at": "3 days ago",
+          "schedule_type": "Full-time",
+          "health_insurance": true,
+          "paid_time_off": true
+        }
+      },
+      {
+        "title": "Senior Software Developer",
+        "link": "https://www.google.com/search?oq=developer+careers&q=developer+careers&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwiDm77E3Yf6AhWAl2oFHXf-AZQQkd0GegQIGRAB#fpstate=tldetail&htivrt=jobs&htiq=developer+careers&htidocid=g7bNpRVT8NgAAAAAAAAAAA%3D%3D",
+        "company_name": "Unity Technologies",
+        "location": "Austin, TX",
+        "via": "via Unity Careers",
+        "extensions": [
+          "11 days ago",
+          "Full-time",
+          "No degree mentioned"
+        ],
+        "detected_extensions": {
+          "posted_at": "11 days ago",
+          "schedule_type": "Full-time",
+          "no_degree_mentioned": true
+        }
+      }
+    ]
+    },
+    "local_ads": {
+    "title": "40+ plumbers nearby",
+    "link": "https://www.google.com/search?q=Plumbing&gl=us&hl=en&sabvi=Cih4Y2F0OnNlcnZpY2VfYXJlYV9idXNpbmVzc19wbHVtYmVyOmVuLVVT&sab=ChMIh_zYuaH38wIVF6CzCh1VZgJmErUBCAQQARoMCL-Ix7cBENr2zbMJIKulshIqmwEJpmVN2aTjjD8RZ7fwqzGR7j8ZIoJ_geHLiD8hAAAAIItAAMApAAAA4CAh9b8xpmVN2aTjjD85IoJ_geHLiD9Brq2uL2p36z9Jrq2uL2p36z9RpmVN2aTjjD9ZAAAAwIei7L9hAAAAQEH7-j9pAAAAYKN4vT9xe6TPdP02Mz95e6TPdP02Mz-BAQAAAED6ef6_iQEAAACAHOsYwBK0AQgEEAIaCwj87q9xEN7riasJIPyA3Q8qmwEJg-2_07q0gj8RxAGPPxzw6D8Z0PQLO7khej8hAAAAIHyQ_r8pAAAAIMsS_r8xVLaFHBw_kD85Zta_DKxthz9BN5Wuxv9Z5j9JbCx_BaoS5z9Rg-2_07q0gj9ZAAAAgBKy7L9hAAAAgMiz6j9pAAAAACwodz9xz_K7xZuDKT95T3P_2y6LOD-BAQAAAGANj_q_iQEAAAAAX4kbwBK0AQgEEAMaCwjCyooMEK-M9KwJIPSd9RAqmwEJcsPKKacQfT8R2VQacu6z6z8ZQrPynCLfdT8hAAAAAMTrAMApAAAAgAas_r8xWjCzb7g7ij85iPnJBPnwgz9BfsNpPIcU6D9JCojNqCtT6D9RcsPKKacQfT9ZAAAAgHIW7b9hAAAAoEOd8D9pAAAAIEDZsj9xtFevWXnBIT95F68a6e_2ND-BAQAAAIDiFP2_iQEAAAAAMlscwBiBx7n-sw4YhIv5vpcPGOTeo_X0Dg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_local_services&hl=en&place_id=ChIJb_YqMe-l44kRZAqn9NL_Y_k&q=Plumbing",
+    "see_more_text": "More plumbers in Dracut",
+    "ads": [
+      {
+        "title": "Denommee Plumbing, Heating & Cooling, Inc.",
+        "link": "https://www.google.com/search?q=Plumbing&cs=0&gsas=1&sabplaceid=ChIJb_YqMe-l44kRZAqn9NL_Y_k&sabpi=ChIIv4jHtwEQ2vbNswkY_8evoCUSKHhjYXQ6c2VydmljZV9hcmVhX2J1c2luZXNzX3BsdW1iZXI6ZW4tVVMahAEvYWNsaz9zYT1MJmFpPURDaGNTRXdpSF9OaTVvZmZ6QWhVWG9MTUtIVlZtQW1ZWUFCQU9HZ0p4YmcmbGFiZWw9Z2xzX21lc3NhZ2VfY2xpY2tfZnJlZSZzaWc9QU9ENjRfMWhIRERYQnJ3YllxaU42eGNEM3d4bjlJR05qQSZhZHVybD0ify9hY2xrP3NhPUwmYWk9RENoY1NFd2lIX05pNW9mZnpBaFVYb0xNS0hWVm1BbVlZQUJBR0dnSnhiZyZsYWJlbD1wcm9maWxlX3ZpZXdfZnJlZSZzaWc9QU9ENjRfMFpNMHAwRWJpNjFWUGFtSWwxVk91amthTWpuUSZhZHVybD0qfi9hY2xrP3NhPUwmYWk9RENoY1NFd2lIX05pNW9mZnpBaFVYb0xNS0hWVm1BbVlZQUJBTEdnSnhiZyZsYWJlbD1jYWxsX2J1dHRvbl9mcmVlJnNpZz1BT0Q2NF8wTTVUZ1RjUHJHVXFjYXg2RkVuRU5jbmJDX3d3JmFkdXJsPTKBAS9hY2xrP3NhPUwmYWk9RENoY1NFd2lIX05pNW9mZnpBaFVYb0xNS0hWVm1BbVlZQUJBREdnSnhiZyZsYWJlbD1nbHNfY2FsbF9jbGlja19mcmVlJnNpZz1BT0Q2NF8zRmVka3JkY1R4YmkxRDBwTGd5TDR3ODhEbDhRJmFkdXJsPTqBAS9hY2xrP3NhPUwmYWk9RENoY1NFd2lIX05pNW9mZnpBaFVYb0xNS0hWVm1BbVlZQUJBUkdnSnhiZyZsYWJlbD1nbHNfYm9va19jbGlja19mcmVlJnNpZz1BT0Q2NF8xN2hlZWRtYmNjRVNRN2dhUkhTRy01aDFCX09RJmFkdXJsPUITCIf82Lmh9_MCFRegswodVWYCZkgEUAE",
+        "rating": 4.8,
+        "badge": "GOOGLE GUARANTEED",
+        "service_area": "Serves Dracut",
+        "hours": "Open now",
+        "years_in_business": "22 years in business"
+      },
+      {
+        "title": "A. Fagundes Plumbing and Heating",
+        "link": "https://www.google.com/search?q=Plumbing&cs=0&gsas=1&sabplaceid=ChIJb_YqMe-l44kRZAqn9NL_Y_k&sabpi=ChEI_O6vcRDe64mrCRjN5MmrCRIoeGNhdDpzZXJ2aWNlX2FyZWFfYnVzaW5lc3NfcGx1bWJlcjplbi1VUxqEAS9hY2xrP3NhPUwmYWk9RENoY1NFd2lIX05pNW9mZnpBaFVYb0xNS0hWVm1BbVlZQUJBTUdnSnhiZyZsYWJlbD1nbHNfbWVzc2FnZV9jbGlja19mcmVlJnNpZz1BT0Q2NF8wd1FaSlIxTU54c2F5Z2RzUnN1a3FKNmxxZjZBJmFkdXJsPSJ_L2FjbGs_c2E9TCZhaT1EQ2hjU0V3aUhfTmk1b2ZmekFoVVhvTE1LSFZWbUFtWVlBQkFJR2dKeGJnJmxhYmVsPXByb2ZpbGVfdmlld19mcmVlJnNpZz1BT0Q2NF8yNVFDVlRZbjROWnlPeENXVjROMzY0dHRKVkVRJmFkdXJsPSp-L2FjbGs_c2E9TCZhaT1EQ2hjU0V3aUhfTmk1b2ZmekFoVVhvTE1LSFZWbUFtWVlBQkFKR2dKeGJnJmxhYmVsPWNhbGxfYnV0dG9uX2ZyZWUmc2lnPUFPRDY0XzFXYWE2TW9LYnkwcHQ4Ny1wdzltbEZsY3VDTmcmYWR1cmw9MoEBL2FjbGs_c2E9TCZhaT1EQ2hjU0V3aUhfTmk1b2ZmekFoVVhvTE1LSFZWbUFtWVlBQkFFR2dKeGJnJmxhYmVsPWdsc19jYWxsX2NsaWNrX2ZyZWUmc2lnPUFPRDY0XzI0U3ZqdmFMcmlVSXBpNWdDXzBBSjl4elQxbVEmYWR1cmw9OoEBL2FjbGs_c2E9TCZhaT1EQ2hjU0V3aUhfTmk1b2ZmekFoVVhvTE1LSFZWbUFtWVlBQkFQR2dKeGJnJmxhYmVsPWdsc19ib29rX2NsaWNrX2ZyZWUmc2lnPUFPRDY0XzBCMG9SQWJHNVd4UGtUM3EwRk9CV01DaGVTMFEmYWR1cmw9QhMIh_zYuaH38wIVF6CzCh1VZgJmSARQAg",
+        "rating": 4.8,
+        "badge": "GOOGLE GUARANTEED",
+        "service_area": "Serves Dracut",
+        "hours": "Open 24/7",
+        "years_in_business": "16 years in business"
+      },
+      {
+        "title": "Papalia Home Services",
+        "link": "https://www.google.com/search?q=Plumbing&cs=0&gsas=1&sabplaceid=ChIJb_YqMe-l44kRZAqn9NL_Y_k&sabpi=ChEIwsqKDBCvjPSsCRjPh9ytCRIoeGNhdDpzZXJ2aWNlX2FyZWFfYnVzaW5lc3NfcGx1bWJlcjplbi1VUxqEAS9hY2xrP3NhPUwmYWk9RENoY1NFd2lIX05pNW9mZnpBaFVYb0xNS0hWVm1BbVlZQUJBTkdnSnhiZyZsYWJlbD1nbHNfbWVzc2FnZV9jbGlja19mcmVlJnNpZz1BT0Q2NF8yeld5TEU1NkxvVmlyLWVQeHFtTWVKd0U2OElRJmFkdXJsPSJ_L2FjbGs_c2E9TCZhaT1EQ2hjU0V3aUhfTmk1b2ZmekFoVVhvTE1LSFZWbUFtWVlBQkFIR2dKeGJnJmxhYmVsPXByb2ZpbGVfdmlld19mcmVlJnNpZz1BT0Q2NF8wNkxwdE1TU2kyQ3ZRMzczZ0loN01LNUVmX1hnJmFkdXJsPSp-L2FjbGs_c2E9TCZhaT1EQ2hjU0V3aUhfTmk1b2ZmekFoVVhvTE1LSFZWbUFtWVlBQkFLR2dKeGJnJmxhYmVsPWNhbGxfYnV0dG9uX2ZyZWUmc2lnPUFPRDY0XzEtb2h1QjBSOVRyVzFWc2R6WHJGREZwM1d6eVEmYWR1cmw9MoEBL2FjbGs_c2E9TCZhaT1EQ2hjU0V3aUhfTmk1b2ZmekFoVVhvTE1LSFZWbUFtWVlBQkFGR2dKeGJnJmxhYmVsPWdsc19jYWxsX2NsaWNrX2ZyZWUmc2lnPUFPRDY0XzI5eGstZG5JQTJkUlNFS05JcnpfMG00alJtV1EmYWR1cmw9OoEBL2FjbGs_c2E9TCZhaT1EQ2hjU0V3aUhfTmk1b2ZmekFoVVhvTE1LSFZWbUFtWVlBQkFRR2dKeGJnJmxhYmVsPWdsc19ib29rX2NsaWNrX2ZyZWUmc2lnPUFPRDY0XzBHMFRsRVY0SnNxMXpsZDlzWERXZnRlTElQbFEmYWR1cmw9QhMIh_zYuaH38wIVF6CzCh1VZgJmSARQAw",
+        "rating": 4.7,
+        "badge": "GOOGLE GUARANTEED",
+        "service_area": "Serves Dracut",
+        "hours": "Open now",
+        "years_in_business": "30 years in business",
+        "phone": "+442033536353"
+      }
+    ],
+    "badge": "GOOGLE GUARANTEEDSponsored These results show select local businesses that serve your area, and some of them are ads – businesses that pay Google to appear in these results. These results are ads:Plumbing Immediately - West LondonPlumbing Immediately - South East LondonBusinesses with the 'Google guaranteed' badge are screened, and are guaranteed to get the job done right or your money back with a lifetime cap of £1,500. Terms & policies If you click to call an advertiser via Local Services, the call is routed through Google. Learn more about call data Results without the badge are less extensively screened and aren’t guaranteed by Google. Learn more"
+    },
+    "local_news": [
+    {
+      "source": "KXAN Austin",
+      "thumbnail": "https://serpapi.com/searches/6617965215afff6e16ee90db/images/9f63ab635e267876cd204f64da4768dd501aea80cdc449c1.jpeg",
+      "title": "Austin Fire Department investigating fire in east Austin home",
+      "link": "https://www.kxan.com/news/local/austin/austin-fire-department-responding-to-heavy-fire-in-east-austin-home/",
+      "date": "5 hours ago"
+    },
+    {
+      "source": "KEYE",
+      "thumbnail": "https://serpapi.com/searches/6617965215afff6e16ee90db/images/9f63ab635e26787673ed1ccbd91961815e136da54b5ddaac.jpeg",
+      "title": "Crews respond to house heavily on fire in East Austin",
+      "link": "https://cbsaustin.com/news/local/crews-respond-to-house-heavily-on-fire-in-east-austin",
+      "date": "4 hours ago"
+    },
+    {
+      "source": "The Austin Chronicle",
+      "thumbnail": "https://serpapi.com/searches/6617965215afff6e16ee90db/images/9f63ab635e267876a20d9a19521c622527d7a7beb645f993.jpeg",
+      "title": "Will Austin ISD Push Out a Highly Regarded Partner?",
+      "link": "https://www.austinchronicle.com/news/2024-04-12/will-austin-isd-push-out-a-highly-regarded-partner/",
+      "date": "2 hours ago"
+    },
+    {
+      "source": "FOX 7 Austin",
+      "thumbnail": "https://serpapi.com/searches/6617965215afff6e16ee90db/images/9f63ab635e267876933be12e181069dd12bce7ba2ac027c7.jpeg",
+      "title": "Texas lawmakers, DEI advocates speak out against UT's decision to terminate division",
+      "link": "https://www.fox7austin.com/news/texas-lawmakers-dei-advocates-speak-out-against-uts-decision-to-terminate-division",
+      "date": "5 hours ago"
+    }
+    ],
+    "menu_highlights": [
+    {
+      "title": "Wine",
+      "thumbnails": [
+        "https://lh5.googleusercontent.com/p/AF1QipPc0kHOQrITfbKbQpxujXEBEVQ1PQZhtDw84DXJ=w640-h640-n-k-no"
+      ],
+      "reviews": 87,
+      "photos": 5,
+      "link": "https://www.google.com/local/place/offerings?g2lbs=AOHF13kCiwiZ3nvoEzHkq9mnujvnIJwArfdkcfuh2BgCOJzc533Yj76Ys84ZqSWN8Jhyz8E5SMns&hl=en-US&gl=us&ssta=1&oid=/g/11vszm6j9b&fid=0x89c259937f4eb1af:0xe49ad5dc628370bb&on=Wine&mid=/g/11bbwz4b3z&ord=1"
+    },
+    {
+      "title": "Tiramisu",
+      "thumbnails": [
+        "https://lh5.googleusercontent.com/proxy/_OS3YgWFaaG6FlGIb7ToCQ4xkJ7HhQjRZ_M85RlkPDWgw9yVd_hj7Ocz60Uz2aPBGDYC1za3tXIogztWJFc3CtxDNiEzZHKMeh5Dw8PmLVTCXtYJg1aDKkVElODsNz3aaM0M4nE8qQRiLnJ-VKbFc3DTkRoXNF0=w640-h640-n-k-no"
+      ],
+      "reviews": 38,
+      "photos": 52,
+      "price_range": [
+        15,
+        15
+      ],
+      "link": "https://www.google.com/local/place/offerings?g2lbs=AOHF13lPagn-X8H7Q_Dh5VhP9GOfyuQXBq2NJE7f3oFSUaoDhX6KGjSk8m_2w4nv1jQtsseM347E&hl=en-US&gl=us&ssta=1&oid=/g/11h4p3jmmd&fid=0x89c259937f4eb1af:0xe49ad5dc628370bb&on=Tiramisu&mid=/g/11bbwz4b3z&ord=1"
+    },
+    {
+      "title": "Insalata Verde",
+      "thumbnails": [
+        "https://lh5.googleusercontent.com/p/AF1QipNjtfYMzJRuSSqi6Kaz0CnuqtxpxVPvpgEA9pd7=w640-h640-n-k-no",
+        "https://lh5.googleusercontent.com/p/AF1QipPsUHfGPo86HZeAPJ_X5g-T3HKfu2GAhkFIJurI=w640-h640-n-k-no"
+      ],
+      "reviews": 27,
+      "photos": 60,
+      "price_range": [
+        22,
+        22
+      ],
+      "link": "https://www.google.com/local/place/offerings?g2lbs=AOHF13lssv5F7lsnAosNNtUrnc0X5HdEFYTRPjTmmtXTvpse9TKDpUv2Y2lAwgb7reM2otMYxEzh&hl=en-US&gl=us&ssta=1&oid=/g/11q846gkbj&fid=0x89c259937f4eb1af:0xe49ad5dc628370bb&on=Insalata+Verde&mid=/g/11bbwz4b3z&ord=1"
+    }
+    ],
+    "news_results": [
+    {
+      "position": 1,
+      "link": "https://www.foxnews.com/politics/bidens-war-hunting-faces-blowback-republicans-sportsmen-groups",
+      "title": "Biden's war on hunting faces blowback from Republicans, sportsmen groups",
+      "source": "Fox News",
+      "date": "1 day ago",
+      "snippet": "The Biden administration is set to expand its prohibition on lead \nammunition usage across wildlife refuge area, sparking condemnation from...",
+      "thumbnail": "https://serpapi.com/searches/644f8c64944893007712bc82/images/2614cf34f27afc8aa52bc530be76a421bfe571cdcaa75a11190cd7db9fd28a29.jpeg"
+    },
+    {
+      "position": 2,
+      "link": "https://www.theguardian.com/commentisfree/2023/may/01/biden-fossil-fuel-climate-crisis-voters",
+      "title": "Biden is still not doing nearly enough about the climate crisis",
+      "source": "The Guardian",
+      "date": "55 mins ago",
+      "snippet": "The president is trying to appeal to climate-conscious young voters and \nappease the fossil fuel industry. It won't work.",
+      "thumbnail": "https://serpapi.com/searches/644f8c64944893007712bc82/images/2614cf34f27afc8a2295d06c388babd870d911d6f654996ae11026bdd054e169.jpeg"
+    },
+    {
+      "position": 3,
+      "link": "https://www.cnn.com/2023/05/01/politics/hunter-biden-what-to-know/index.html",
+      "title": "What to know about Monday's Hunter Biden court hearing in Arkansas",
+      "source": "CNN",
+      "date": "52 mins ago",
+      "snippet": "President Joe Biden's son Hunter Biden is expected to appear in court \nMonday morning in northeast Arkansas for a hearing related to a...",
+      "thumbnail": "https://serpapi.com/searches/644f8c64944893007712bc82/images/2614cf34f27afc8ab859b4968a6bd4399e08b59d4bb6c1438f77a6a5a67d755c.jpeg"
+    }
+    ],
+    "people_also_search_for": [
+    {
+      "name": "News about Joe Biden, White House Correspondents",
+      "news_results": [
+        {
+          "position": 1,
+          "link": "https://www.npr.org/2023/04/30/1172923281/biden-makes-fun-of-his-age-at-the-white-house-correspondents-dinner",
+          "title": "Biden makes fun of his age at the White House Correspondents' dinner",
+          "source": "NPR",
+          "date": "1 day ago",
+          "thumbnail": "https://serpapi.com/searches/644f8c64944893007712bc82/images/a92b1b5e7962ddfbd0f289a065a81e9e681bb794b03a23eb1497292af08a45cdb62dab4f74ca74c0292c51e13316fcf74f957cb3a0eee06a.jpeg"
+        },
+        {
+          "position": 2,
+          "link": "https://www.washingtonpost.com/lifestyle/2023/04/30/biden-white-house-correspondents-dinner/",
+          "title": "President Biden appears at the White House correspondents' dinner",
+          "source": "The Washington Post",
+          "date": "1 day ago",
+          "thumbnail": "https://serpapi.com/searches/644f8c64944893007712bc82/images/a92b1b5e7962ddfbd0f289a065a81e9e681bb794b03a23eb1497292af08a45cd36f44dc48299ae42f33f3c61faef3e6101115a54bd46e616.jpeg"
+        },
+        {
+          "position": 3,
+          "link": "https://www.nytimes.com/2023/04/30/us/politics/biden-fox-carlson-cnn-lemon.html",
+          "title": "Biden Pokes Fun at Fox, CNN, and Himself at Correspondents’ Dinner",
+          "source": "The New York Times",
+          "date": "1 day ago",
+          "thumbnail": "https://serpapi.com/searches/644f8c64944893007712bc82/images/a92b1b5e7962ddfbd0f289a065a81e9e681bb794b03a23eb1497292af08a45cd46bbcfa9d94f24a82f77c22d5d8270e082dd4039ad3ad6ec.jpeg"
+        }
+      ],
+      "view_full_coverage_link": "https://www.google.com/search?ucbcb=1&tbm=nws&uule=w+CAIQICIdQXVzdGluLFRYLFRleGFzLFVuaXRlZCBTdGF0ZXM&q=Biden&hl=en&gl=us&story=GiEIpQEaHAoTc3RvcnlfbGFiZWxfcGFydGlhbBIFQmlkZW4yMAomhKyDopGbpuOuAcXd8JmegNPwApTW8cvi4eqwEcj9rsqpmISPkwEQ7v6orAcYBVgC&fcs=AGY3Bfs6CcE2d26qPwB8A22gRKv3ZshVZQ&sa=X&ved=2ahUKEwixq4i68tP-AhUIjYkEHRwSAlYQ7IUHegQIBxAF"
+    }
+    ],
+    "perspectives": [
+    {
+      "author": "Barbara Krasnoff",
+      "source": "The Verge",
+      "thumbnails": [
+        "https://serpapi.com/searches/6565ab4c15afff06e23843b3/images/3e3cebfc31d67730f346828097a56d06a2a3165bd19a196912e8c9fdf2ecabfe.jpeg"
+      ],
+      "title": "The best Cyber Monday deals for some of The Verge staff's favorite stuff",
+      "snippet": "Black Friday may be in the past, but Cyber Monday sales are still underway (although not for long). For more deals we recommend across all...",
+      "link": "https://www.theverge.com/23969272/black-friday-cyber-monday-tech-deals-verge-staff-favorites",
+      "date": "5 hours ago"
+    },
+    {
+      "author": "Die, Workwear! —",
+      "thumbnails": [
+        "https://serpapi.com/searches/6565ab4c15afff06e23843b3/images/3e3cebfc31d6773045682a751408db2a7e4b26b365e30e6bca8b32d27b4cfd7f.jpeg"
+      ],
+      "title": "A Dozen Great Black Friday Sales — Die, Workwear!",
+      "snippet": "You used to have to muscle your way into stores and stand in long lines to take advantage of Black Friday promotions.",
+      "link": "https://dieworkwear.com/2023/11/24/a-dozen-great-black-friday-sales/",
+      "date": "3 days ago"
+    },
+    {
+      "author": "Gerald Ortiz",
+      "source": "GQ",
+      "thumbnails": [
+        "https://serpapi.com/searches/6565ab4c15afff06e23843b3/images/3e3cebfc31d6773088fc5b97f40a37d23bf0f59438e39d2a09f5aeb698288dff.jpeg"
+      ],
+      "title": "72 Best Cyber Monday Clothing Deals 2023: Every Menswear Sale We've Found So Far",
+      "snippet": "All the best men's Cyber Monday clothing deals 2023 has to offer—including jackets, sweaters, and watches—are here to jolt you out of your weekend food...",
+      "link": "https://www.gq.com/story/best-cyber-monday-clothing-deals-2023",
+      "date": "1 day ago"
+    }
+    ],
+    "places_sites": [
+    {
+      "position": 1,
+      "title": "Paris hair salons, our best addresses",
+      "link": "https://www.sortiraparis.com/en/what-to-do-in-paris/sport-wellness/guides/149136-paris-hair-salons-our-best-addresses",
+      "source": "Sortir à Paris",
+      "source_thumbnail": "https://serpapi.com/searches/65f9ba2d10a0710bef2dd7e3/images/607c26eddd1d2abe74953c2b15835825319182bdb8743a39cf05e64083f541d6.png"
+    },
+    {
+      "position": 2,
+      "title": "THE BEST 10 Hair Salons in PARIS, FRANCE - Last Updated March 2024",
+      "link": "https://m.yelp.com/search?cflt=hair&find_loc=Paris",
+      "source": "Yelp",
+      "source_thumbnail": "https://serpapi.com/searches/65f9ba2d10a0710bef2dd7e3/images/607c26eddd1d2abe1caff20cca7c37eb55335dbc704af10938455ff2eb9536fa.png"
+    },
+    {
+      "position": 3,
+      "title": "Top 20 Coiffeurs et salons de coiffure à Paris",
+      "link": "https://www.treatwell.fr/salons/soins-groupe-coiffure/offre-type-local/dans-paris-france/",
+      "source": "Treatwell",
+      "source_thumbnail": "https://serpapi.com/searches/65f9ba2d10a0710bef2dd7e3/images/607c26eddd1d2abee3a07ec67ed40882a4fa1054102e55229b53162065b8304c.png"
+    }
+    ],
+    "popular_destinations": {
+    "destinations": [
+      {
+        "title": "Malé",
+        "link": "https://www.google.com/travel/explore?g2lb=4419364,4597339,2503771,4596364,4644488,4641139,4306835,4605861,4270442,4317915,4659204,4624411,4401769,4258168,4640247,4371334,2502548,2503781,4284970,4291517,4270859&hl=en-US&gl=us&ssta=1&tfs=CB4QAxoOagwIAxIIL20vMHQ4dmQaDnIMCAMSCC9tLzB0OHZkQAFIAVIDVVNEcAKYAQGyARgSCC9tLzBmcTl5KgwIAxIIL20vMGZxOXk&curr=USD&sa=X&ved=2ahUKEwj69Jz2r730AhWZlGoFHZdACkcQ68IGKAB6BAgCEAE",
+        "description": "Islamic Centre mosque & fish market",
+        "flight_price": "$1,155",
+        "extracted_flight_price": 1155,
+        "hotel_price": "$80",
+        "extracted_hotel_price": 80,
+        "thumbnail": "https://serpapi.com/searches/61a102f0de983400b10650f1/images/9f1a9c26bbdace189bec57bb8cb5d037be202cd780aedbae3d19c6dd7bee3e285dcb98b62dca0f2ca2c8640b66b433a8.jpeg"
+      },
+      {
+        "title": "Addu Atoll",
+        "link": "https://www.google.com/travel/explore?g2lb=4419364,4597339,2503771,4596364,4644488,4641139,4306835,4605861,4270442,4317915,4659204,4624411,4401769,4258168,4640247,4371334,2502548,2503781,4284970,4291517,4270859&hl=en-US&gl=us&ssta=1&tfs=CB4QAxoOagwIAxIIL20vMHQ4dmQaDnIMCAMSCC9tLzB0OHZkQAFIAVIDVVNEcAKYAQGyARoSCS9tLzA3MG54OCoNCAMSCS9tLzA3MG54OA&curr=USD&sa=X&ved=2ahUKEwj69Jz2r730AhWZlGoFHZdACkcQ68IGKAF6BAgCEAI",
+        "description": "Remote atoll with a city & airport",
+        "flight_price": "$5,968",
+        "extracted_flight_price": 5968,
+        "hotel_price": "$133",
+        "extracted_hotel_price": 133,
+        "thumbnail": "https://serpapi.com/searches/61a102f0de983400b10650f1/images/9f1a9c26bbdace189bec57bb8cb5d037be202cd780aedbae3d19c6dd7bee3e28ac54763818f3c6cef00cdfb9f8fa7d21.jpeg"
+      },
+      {
+        "title": "Lhaviyani Atoll",
+        "link": "https://www.google.com/travel/explore?g2lb=4419364,4597339,2503771,4596364,4644488,4641139,4306835,4605861,4270442,4317915,4659204,4624411,4401769,4258168,4640247,4371334,2502548,2503781,4284970,4291517,4270859&hl=en-US&gl=us&ssta=1&tfs=CB4QAxoOagwIAxIIL20vMHQ4dmQaDnIMCAMSCC9tLzB0OHZkQAFIAVIDVVNEcAKYAQGyARoSCS9tLzA3MG03cioNCAMSCS9tLzA3MG03cg&curr=USD&sa=X&ved=2ahUKEwj69Jz2r730AhWZlGoFHZdACkcQ68IGKAJ6BAgCEAM",
+        "description": "Manta rays, scuba diving, and snorkeling",
+        "flight_price": "$1,155",
+        "extracted_flight_price": 1155,
+        "hotel_price": "$96",
+        "extracted_hotel_price": 96,
+        "thumbnail": "https://serpapi.com/searches/61a102f0de983400b10650f1/images/9f1a9c26bbdace189bec57bb8cb5d037be202cd780aedbae3d19c6dd7bee3e2835648116a4a9cd130fec629ce00ddfd4.png"
+      }
+    ],
+    "show_more_link": "https://www.google.com/travel/explore?g2lb=2503771,4645481,4644488,4596364,4597339,4419364,4270442,4317915,4371335,4306835,4641139,4524134,4401769,4624411,4258168,4605862,2503781,2502548,4640247,4284970,4270859,4291517&hl=en-US&gl=us&ssta=1&tfs=CB4QAxocagwIAxIIL20vMHQ4dmRyDAgEEggvbS8wNHR5OBocagwIBBIIL20vMDR0eThyDAgDEggvbS8wdDh2ZEABSAFSA1VTRHACmAEB&curr=USD&sa=X&ved=2ahUKEwj_ieS5sbb0AhXMlGoFHdR4BHgQ7MIGegQIAhAF"
+    },
+    "product_result": {
+      "title": "Dyson V8 Cordless Vacuum",
+      "reviews": 22000,
+      "rating": 4.5,
+      "pricing": [
+        {
+          "price": "$349.99",
+          "extracted_price": 349.99,
+          "original_price": "$470",
+          "extracted_original_price": 470,
+          "link": "https://www.dyson.com/vacuum-cleaners/cordless/v8/silver-nickel?utm_source=google_shopping&utm_medium=organic",
+          "thumbnail": "https://serpapi.com/searches/65cde9ce2c2c2a1e775313c6/images/301c680e8421b6a086ad3b9ad03e80e21941fdffce63a6ded12191705c38638fb9f462fdee33c5cb.png",
+          "name": "Dyson Official",
+          "description": "Dyson V8",
+          "buying_options": [
+            "In stock online",
+            "Free delivery Feb 20 – 26",
+            "Contact for availability·14.4 mi"
+          ],
+          "tag": "25% off"
+        },
+        {
+          "price": "$349.00",
+          "extracted_price": 349,
+          "link": "https://www.amazon.com/Dyson-Cordless-Stick-Vacuum-Cleaner/dp/B09YS9N7H2?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
+          "thumbnail": "https://serpapi.com/searches/65cde9ce2c2c2a1e775313c6/images/301c680e8421b6a086ad3b9ad03e80e25f42f7e942ced4bc8e9789220bd2586bf95ab86ae65985fe.png",
+          "name": "Amazon.com",
+          "description": "Dyson V8 Cordless Vacuum Cleaner",
+          "buying_options": [
+            "In stock online",
+            "Free delivery",
+            "Prime members get fast shipping on eligible items, exclusive deals & more"
+          ]
+        },
+        {
+          "price": "$349.99",
+          "extracted_price": 349.99,
+          "original_price": "$470",
+          "extracted_original_price": 470,
+          "link": "https://www.homedepot.com/p/Dyson-Dyson-V8-Cordless-Stick-Vacuum-Cleaner-400473-01/320448352?source=shoppingads&locale=en-US&srsltid=AfmBOooAxY2I-MkIc7OBCXt391R4l-oGXf6OPqyeKkkKEM-pONGEv1cFRO4",
+          "thumbnail": "https://serpapi.com/searches/65cde9ce2c2c2a1e775313c6/images/301c680e8421b6a086ad3b9ad03e80e21f7304f4277063eb737932733df2a1b29defc29646313a7c.png",
+          "name": "Home Depot",
+          "description": "Dyson V8 Cordless Stick Vacuum Cleaner",
+          "buying_options": [
+            "In stock online",
+            "Free delivery"
+          ],
+          "tag": "25% off"
+        }
+      ],
+      "typical_price": "Typically $289–$470",
+      "description": "The DYSON V8 Broom Vacuum Cleaner in Nickel/Silver is a powerful and versatile cleaning appliance that is ideal for keeping your home spotless.",
+      "thumbnails": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTO959oAb5AuMlbtq0-wmCaeIBusS4qjVEi5tCN1NZdBOdf98HYgX9E3-blfXMygbQvpwFcxkOBi5ewUnAo1rk_mPpcYVVhtxnrnofv989n",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRjogIw8eDH3C99qUu44-ChAM3WgkDgmumF73j-GCIdan_Ron4KdIhjpsCdti-bJvXFk6jYbNWeKceDzmFNe54810qfpteUDwjJkHdwjWM",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTU_NQeXyfeAQD9YwkwELetSbHOXMJWH88tRQm7olypfzwJrH7wUCeIu7Nnt67Vf2aBq6P0zq1cGvmZEtemC6xeT-OXK5VzUc61fVqOZho"
+      ],
+      "reviews_results": {
+        "user_reviews": {
+          "rating": 4.5,
+          "reviews_original": "22K reviews",
+          "reviews": 22000,
+          "review": [
+            {
+              "snippet": "We have a dog and cat that shed constantly and this vacuum picks up everything.",
+              "avatar": "https://lh3.googleusercontent.com/shsm/AGYqVK0wg7SlJii9UXummwkmjYaH6QL_wh8ByV6lQsSYqM_Jk7dKC7GWn_Bmqsf3rR9b=w40-h40-c0x00000000-cc"
+            },
+            {
+              "snippet": "It’s so easy to grab for a spot vacuum or a quick clean up through the house.",
+              "avatar": "https://lh3.googleusercontent.com/shsm/AGYqVK23ZR1KBtpJHAA0VxFu7ZMo4fL6PIrijNG820634_l5scY16FFI96yruoreXRKY=w40-h40-c0x00000000-cc"
+            }
+          ]
+        }
+      }
+    },
+    "product_sites": [
+    {
+      "position": 1,
+      "title": "Nike Air Force 1 '07",
+      "link": "https://www.idealo.fr/prix/1370489/nike-air-force-1-07.html",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMk1uEDhSMya4aaQFqo9aENt2OmQVvQns&s=0",
+      "source": "Idealo",
+      "source_thumbnail": "https://serpapi.com/searches/66694a209656228589395b55/images/1a6a25c04b485fb1e31e541b996d270679c82162066556e85bfbf739bc97388d410a81bb5df8434e.jpeg"
+    },
+    {
+      "position": 2,
+      "title": "Nike Air Force 1 '07 (Homme)",
+      "link": "https://ledenicheur.fr/product.php?p=1216035",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlUo3RY2NyF6gGssnJTPZPPvaGbsZRBxw&s=0",
+      "source": "leDénicheur",
+      "source_thumbnail": "https://serpapi.com/searches/66694a209656228589395b55/images/1a6a25c04b485fb1230833e42d9abf8413e72165605cd4073d418f6d58c2b84425624dcca1c5d59f.png"
+    },
+    {
+      "position": 3,
+      "title": "Nike Air Force 1 (Homme)",
+      "link": "https://ledenicheur.fr/product.php?p=2721962",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcNr0IYS-AU-62qXbCVdnFoIDPPOW12P8&s=0",
+      "source": "leDénicheur",
+      "source_thumbnail": "https://serpapi.com/searches/66694a209656228589395b55/images/1a6a25c04b485fb1d0def63cc2b5b340c34e2ba8aa375cd50d79c0068d820a67e70b8f4ef25be303.png"
+    }
+    ],
+    "questions_and_answers": [
+    {
+      "link": "https://www.quora.com/What-is-the-common-ratio-of-GP-9-3-and-1",
+      "source": "Quora",
+      "question": "What is the common ratio of GP 9, 3, and 1?",
+      "answer": "In GP for this question your first term is a= 9 and second term is at= 3 and third term is ar^2 to find the ratio second term is divided by first term and third term is divided by second term and so on 3/9= 1/3 1/3=1/3 therefore its common ratio is 1/3",
+      "votes": 0
+    },
+    {
+      "link": "https://www.toppr.com/ask/question/what-is-the-common-ratio-of-the-geometric-sequence-81-27-9-3/",
+      "source": "Toppr",
+      "question": "What is the common ratio of the geometric sequence 81, 27, 9, 3, ... ?",
+      "answer": "Given GP is 81,27,9,3,.... Common ratio = second numberfirst number = 2781 = 13 So, the common ratio is 13 .",
+      "votes": 16
+    },
+    {
+      "link": "https://study.com/academy/answer/find-the-8th-term-of-the-g-p-9-3-1.html",
+      "source": "Study.com",
+      "question": "Find the8thterm of the G.P.9,3,1...Find the8thterm of the G.P.9,3,1...",
+      "answer": "We are given a geometric progression 9,3,1,...9,3,1,... and we are asked to find the 8th term. We can find the nth term in a geometric progression if we use the formula written below. an=a1rn−1an=a1rn−1 The term a1a1 here represents the first term of the sequence and rr is the common ratio. For this particular sequence, we know that the first term is a1=9a1=9. As for the common ratio, we can simply solve it by dividing the second term by the first term. r=a2a1=39=13r=a2a1=39=13 We can now solve for the 8th term by substituting n=8n=8 and the other required values in the formula. a8=9(13)8−1=9(12187)=92187=1243a8=9(13)8−1=9(12187)=92187=1243 Therefore, the 8th term of the sequence is 12431243.",
+      "votes": 0
+    }
+    ],
+    "recipes_results": [
+    {
+      "title": "The BEST Cheesecake Recipe",
+      "link": "https://sugarspunrun.com/best-cheesecake-recipe/",
+      "source": "Sugar Spun Run",
+      "rating": 5.0,
+      "reviews": 187,
+      "total_time": "1 hr 35 min",
+      "ingredients": [
+        "Sour cream",
+        "graham cracker crumbs",
+        "brown sugar",
+        "butter",
+        "vanilla extract"
+      ],
+      "thumbnail": "<URL to image>"
+    },
+    {
+      "title": "Cheesecake",
+      "link": "https://www.foodnetwork.com/recipes/food-network-kitchen/cheesecake-recipe2-2011459",
+      "source": "Food Network",
+      "rating": 3.8,
+      "reviews": 49,
+      "total_time": "1 hr 20 min",
+      "ingredients": [
+        "Cream cheese",
+        "sour cream",
+        "graham cracker crumbs",
+        "raspberry sauce",
+        "heavy cream"
+      ],
+      "thumbnail": "<URL to image>"
+    },
+    {
+      "title": "How to Make Perfect Cheesecake",
+      "link": "https://www.thekitchn.com/how-to-make-perfect-cheesecake-recipe-cooking-lessons-from-the-kitchen-110760",
+      "source": "The Kitchn",
+      "rating": 3.5,
+      "reviews": 710,
+      "ingredients": [
+        "Cream cheese",
+        "sour cream",
+        "graham cracker",
+        "butter",
+        "lemon juice"
+      ],
+      "thumbnail": "<URL to image>"
+    }
+    ],
+    "refine_by_brand": [
+    {
+      "link": "https://www.google.com/search?gl=us&hl=en&q=samsung+4k+tv&sa=X&ved=2ahUKEwjl9uvRmJfmAhXkMn0KHR57Dj0Q_sUBKAAwIHoECBMQAg",
+      "title": "Samsung",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQDun_UXwqti_nu1ETshL-XGMp3X86POayPFfVOJHnp7hvmohgRyf1Wtx8-_llKoewJcgUZhUKqS-kPVBsPvdtexVClLnIUdG7ADJNxDetoBRNGXnKTEV9owA"
+    },
+    {
+      "link": "https://www.google.com/search?gl=us&hl=en&q=lg+4k+tv&sa=X&ved=2ahUKEwjl9uvRmJfmAhXkMn0KHR57Dj0Q_sUBKAEwIHoECBMQAw",
+      "title": "LG",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSgIo_cBrEbRuapbpCnN5lu66zyM8Yr6rvS6xfk7iIExqJSx13vpQgXi0OvOSCWslUdox5mZl26Xu5QUDpsGJxkKG0YZaVwu_QHYq2oH0tzf4LHwx3OlXlPTg"
+    },
+    {
+      "link": "https://www.google.com/search?gl=us&hl=en&q=sony+4k+tv&sa=X&ved=2ahUKEwjl9uvRmJfmAhXkMn0KHR57Dj0Q_sUBKAIwIHoECBMQBA",
+      "title": "Sony",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRXa5XcW3uRgtmt7lrq25V5_oExB2NtVvDH3z2mKA5ZcH5G0nliTraVfAUhocTxPdwr4wNbQNFXlmAlQ5f9druNMKTkKIw7NjO5mJDjUU_SayxCDe49324a"
+    }
+    ],
+    "refine_by_item_types": [
+    {
+      "title": "Women",
+      "link": "https://www.google.com/search?hl=en&q=women+spring+dresses&gl=us&sa=X&ved=2ahUKEwijuYv32M_4AhWefTABHYpADGgQip4GKAB6BAgDEAM",
+      "thumbnail": "https://serpapi.com/searches/62bab7407708440c7b3fdb5c/images/6f5c96310e228bebc14efee40bac51af1c95b088591996c51fb73644598f78e62c6e83ab66f6f466.webp"
+    },
+    {
+      "title": "Girls",
+      "link": "https://www.google.com/search?hl=en&q=girls+spring+dresses&gl=us&sa=X&ved=2ahUKEwijuYv32M_4AhWefTABHYpADGgQip4GKAF6BAgDEAQ",
+      "thumbnail": "https://serpapi.com/searches/62bab7407708440c7b3fdb5c/images/6f5c96310e228bebc14efee40bac51af7fe0a105f0e6fdeebb9b92aaeb5eef1c1899bf1c745eb0f3.webp"
+    },
+    {
+      "title": "Maxi",
+      "link": "https://www.google.com/search?hl=en&q=maxi+spring+dresses&gl=us&sa=X&ved=2ahUKEwijuYv32M_4AhWefTABHYpADGgQip4GKAJ6BAgDEAU",
+      "thumbnail": "https://serpapi.com/searches/62bab7407708440c7b3fdb5c/images/6f5c96310e228bebc14efee40bac51af60731257df4c859e93ea2fcd0d7c1a8e14d698ef4e5bd84b.webp"
+    }
+    ],
+    "refine_this_search": [
+    {
+      "query": "What did the mark of Cain look like",
+      "link": "https://www.google.com/search?gl=uk&q=What+did+the+mark+of+Cain+look+like&sa=X&ved=2ahUKEwi25dPOxd_9AhX8mmoFHYk4BHkQwLAHKAB6BAhWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=uk&google_domain=google.com&q=What+did+the+mark+of+Cain+look+like",
+      "thumbnail": "https://serpapi.com/searches/64cb35df15afff1e436740f0/images/5ea7f50545d01ed53e0082359b2ebd519066f11161b009e877ff554d3b1d42a5.webp"
+    },
+    {
+      "query": "Mark of Cain verse",
+      "link": "https://www.google.com/search?gl=uk&q=Mark+of+Cain+verse&sa=X&ved=2ahUKEwi25dPOxd_9AhX8mmoFHYk4BHkQwLAHKAB6BAhLEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=uk&google_domain=google.com&q=Mark+of+Cain+verse"
+    },
+    {
+      "query": "Mark of Cain in the Bible kjv",
+      "link": "https://www.google.com/search?gl=uk&q=Mark+of+Cain+in+the+Bible+kjv&sa=X&ved=2ahUKEwi25dPOxd_9AhX8mmoFHYk4BHkQwLAHKAB6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=uk&google_domain=google.com&q=Mark+of+Cain+in+the+Bible+kjv"
+    }
+    ],
+    "related_categories": [
+    {
+      "title": "Electric Cars",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRXwLVEauL2nBEdVdQg9FLxKKRzVOtiIM4FVWQ1BzM65GicRstQ_g_QkRJBLi3pwEJQJFVKUV0xiW54RmaBdcYYlwx1paRCfsiAuXJC3HuHB9an7yhCzGas0A&fopt=w146-h118-n-v2",
+      "link": "https://www.google.com/search?sca_esv=72c864a1bde62694&gl=us&hl=en&q=shop+electric+cars+near+me&sa=X&ved=2ahUKEwiUsMLu3raJAxXEMtAFHbo-PC0Qpo4LegQIRRAD",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=shop+electric+cars+near+me"
+    },
+    {
+      "title": "Auto Parts",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcR5ZRxsKnS-U4ScQLaHmPRJlAmaBjjvspxIHw9B4Dx-ELN3Qv2fFn4VQKeWOxfVe--5yOC54tIBcOZARN1hgmVYL7tFhElsuXrccVwEzDb_1JC0iPFXXCWTwg&fopt=w146-h118-n-v2",
+      "link": "https://www.google.com/search?sca_esv=72c864a1bde62694&gl=us&hl=en&q=shop+auto+parts+near+me&sa=X&ved=2ahUKEwiUsMLu3raJAxXEMtAFHbo-PC0Qpo4LegQIRRAF",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=shop+auto+parts+near+me"
+    },
+    {
+      "title": "Auto Accessories",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRjMfAG_xu8hMZTDZClOakqfgORK6SeiBoMhGvcj0QvtGTi7WsdgjXlJHUki6mWOeq_llPT40VwCswtskfODP-F3stVHGcc047O8rhsnsI5bnoBkfor0Zcj-w&fopt=w146-h118-n-v2",
+      "link": "https://www.google.com/search?sca_esv=72c864a1bde62694&gl=us&hl=en&q=shop+auto+accessories+near+me&sa=X&ved=2ahUKEwiUsMLu3raJAxXEMtAFHbo-PC0Qpo4LegQIRRAH",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=shop+auto+accessories+near+me"
+    }
+    ],
+    "scholarly_articles": {
+    "title": "Scholarly articles for coronavirus effect research",
+    "link": "https://scholar.google.com/scholar?q=coronavirus+effect+research&hl=en&as_sdt=0&as_vis=1&oi=scholart",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar&hl=en&q=coronavirus+effect+research",
+    "articles": [
+      {
+        "title": "Effect of Coronavirus disease (COVID-19) to tourism …",
+        "link": "http://journal-repository.theshillonga.com/index.php/ijaers/article/view/1858/1742",
+        "author": "Bakar",
+        "cited_by": "Cited by 477",
+        "highlight_words": [
+          "Effect",
+          "Coronavirus",
+          "COVID"
+        ]
+      },
+      {
+        "title": "The effect of Coronavirus (COVID-19) in the tourism …",
+        "link": "https://www.academia.edu/download/63337191/Covid-19_Tourism20200517-45513-2wbn20.pdf",
+        "author": "Hoque",
+        "cited_by": "Cited by 460",
+        "highlight_words": [
+          "effect",
+          "Coronavirus",
+          "COVID"
+        ]
+      },
+      {
+        "title": "Rapid review for the anti-coronavirus effect of …",
+        "link": "https://www.jstage.jst.go.jp/article/ddt/14/2/14_2020.01015/_pdf",
+        "author": "Li",
+        "cited_by": "Cited by 77",
+        "highlight_words": [
+          "coronavirus effect"
+        ]
+      }
+    ]
+    },
+    "short_videos": [
+    {
+      "position": 1,
+      "title": "Tom Hanks Sings To Florence Pugh!💖 #Shorts by The Graham Norton Show on YouTube. Play on YouTube. 36 seconds",
+      "source": "YouTube",
+      "date": "4mo",
+      "source_logo": "https://serpapi.com/searches/655eb553b68f8b98c837f425/images/a8f081158d86949e55255e5aad3380895371a18e5e975d0e4e6891d8e10b1786.png",
+      "profile_picture": "https://serpapi.com/searches/655eb553b68f8b98c837f425/images/a8f081158d86949ebaed4205f969b0ab20364d1fe7c39dce2f794b0340ccf11b.jpeg",
+      "profile_name": "The Graham Norton Show",
+      "extensions": [
+        "The Graham Norton Show"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Sa5y9t819qw/hqdefault.jpg?sqp=-oaymwEGCJsBEM4B&rs=AMzJL3kjgKeyluAu2Di4jbpB5A3YvZmS3Q",
+      "link": "https://www.youtube.com/shorts/Sa5y9t819qw"
+    },
+    {
+      "position": 2,
+      "title": "Tom Hanks on filming Saving Private Ryan 🪖 by ReelBlend Podcast on YouTube. Play on YouTube. 1 minute",
+      "source": "YouTube",
+      "date": "4mo",
+      "source_logo": "https://serpapi.com/searches/655eb553b68f8b98c837f425/images/a8f081158d86949ed966e09c917aac70d29d0db69ca75a36a5fdf25765c605b3.png",
+      "profile_picture": "https://serpapi.com/searches/655eb553b68f8b98c837f425/images/a8f081158d86949e95333b7373ec32149676080d0a6a4109b8697083e7225b60.png",
+      "profile_name": "ReelBlend Podcast",
+      "extensions": [
+        "ReelBlend Podcast"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/XgixcxlpvAs/hqdefault.jpg?sqp=-oaymwEGCJsBEM4B&rs=AMzJL3niFzF5aQOJcOTINAuMuKeQ3JqhxA",
+      "link": "https://www.youtube.com/shorts/XgixcxlpvAs"
+    },
+    {
+      "position": 3,
+      "title": "Tom Hanks loves In-N-Out! | Tom Hanks | Last Meals with the legend himself, Tom Hanks! | By Mythical Kitchen by Mythical Kitchen on Facebook. Play on Facebook. 37 seconds",
+      "source": "Facebook",
+      "date": "9mo",
+      "source_logo": "https://serpapi.com/searches/655eb553b68f8b98c837f425/images/a8f081158d86949e1290073b0edf22c0b8a7928bcc27312dcf620294aff21da5.png",
+      "profile_picture": "https://serpapi.com/searches/655eb553b68f8b98c837f425/images/a8f081158d86949ec4caa82e46d92bbb7cace0ccdf0df87fa9a3bf6d443a40e8.jpeg",
+      "profile_name": "Mythical Kitchen",
+      "extensions": [
+        "Mythical Kitchen"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRITe0wMdVinMOslndBqs2LEMdP0LGgrpB8gOzFddb8dYma-A&s",
+      "link": "https://www.facebook.com/MythicalKitchen/videos/tom-hanks-loves-in-n-out/732607431907351/"
+    }
+    ],
+    "showtimes": [
+    {
+      "day": "Today",
+      "date": "Nov 8",
+      "theaters": [
+        {
+          "name": "Alamo Drafthouse Cinema South Lamar",
+          "link": "https://www.google.com/search?q=alamo+drafthouse+cinema+south+lamar&stick=H4sIAAAAAAAAAOPgFeLSz9U3yElJK8_KkOLVT9c3NMwwrjCpMjQrThI2tDQzNjKzNLQwMjA2NTE3MjQx2MTEosVUWryIVTkxJzE3XyGlKDGtJCO_tDhVITkzLzU3UaE4v7QkQwEomVgEADpHpZ9fAAAA&sa=X&ved=2ahUKEwiYnMLe3Yj0AhWvgGoFHYilB7UQySZ6BAhOEAs",
+          "distance": "1.5 mi",
+          "address": "1120 South Lamar, Austin, TX 78704",
+          "showing": [
+            {
+              "time": [
+                "6:00pm",
+                "7:00pm",
+                "9:55pm",
+                "10:10pm",
+                "10:45pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Alamo Drafthouse Cinema Mueller",
+          "link": "https://www.google.com/search?q=alamo+drafthouse+cinema+mueller&stick=H4sIAAAAAAAAAOPgFeLVT9c3NEw2yiu0yDXLkYJwM4wrTKoMzYqThM1MDM0NTcwNjC0sLUxNDI1NDY02MbFoMZUWL2KVT8xJzM1XSClKTCvJyC8tTlVIzsxLzU1UyC1NzclJLQIADHa9N14AAAA&sa=X&ved=2ahUKEwiYnMLe3Yj0AhWvgGoFHYilB7UQySZ6BAhOEBM",
+          "distance": "3.2 mi",
+          "address": "Suite 102, 1911 Aldrich Street, Austin, TX 78723",
+          "showing": [
+            {
+              "time": [
+                "2:40pm",
+                "3:25pm",
+                "6:35pm",
+                "7:25pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Barton Creek Square 14",
+          "link": "https://www.google.com/search?q=amc+barton+creek+square+14&stick=H4sIAAAAAAAAAOPgFeLWT9c3LDc2MTdIt5TiBXEMM4wrTKoMzYqTRAwNzQ0MDIxMLUwNzAzNzI3MjI1NNjGxaDGVFi9ilUrMTVZISiwqyc9TSC5KTc1WKC4sTSxKVTA0AQAZeIHHWAAAAA&sa=X&ved=2ahUKEwiYnMLe3Yj0AhWvgGoFHYilB7UQySZ6BAhOEBo",
+          "distance": "4.0 mi",
+          "address": "2901 Capital Of Texas Hwy., Austin, TX 78746",
+          "showing": [
+            {
+              "time": [
+                "3:15pm",
+                "6:45pm",
+                "7:15pm",
+                "8:15pm"
+              ],
+              "type": "Standard"
+            },
+            {
+              "time": [
+                "12:45pm",
+                "4:15pm",
+                "7:45pm"
+              ],
+              "type": "IMAX"
+            },
+            {
+              "time": [
+                "1:45pm",
+                "5:15pm",
+                "8:45pm"
+              ],
+              "type": "Dolby Cinema"
+            }
+          ]
+        }
+      ]
+    }
+    ],
+    "sports_results": {
+    "title": "Manchester United F.C.",
+    "rankings": "8th in Premier League",
+    "thumbnail": "https://serpapi.com/searches/6666cf1f67a8a21aa86e52f6/images/086427660de30b3b559f597ee0c8a98ff77286d82db4dc449bc9354c06e240b1.png",
+    "games": [
+      {
+        "tournament": "FA Cup",
+        "stage": "Final Round",
+        "stadium": "Wembley Stadium",
+        "stadium_kgmid": "/m/027pds6",
+        "status": "FT",
+        "date": "May 25",
+        "video_highlights": {
+          "link": "https://www.youtube.com/watch?v=_MinG6_9FWI&feature=onebox",
+          "thumbnail": "https://serpapi.com/searches/6666cf1f67a8a21aa86e52f6/images/086427660de30b3b02818a83d0f2f34d82e8c8d479f2ff70a59930e71b10b7acc2d03b687d5bea5f07ed62c605a846b95cfc09e7db9ffb2d.jpeg",
+          "duration": "10:58"
+        },
+        "teams": [
+          {
+            "name": "Man City",
+            "score": "1",
+            "kgmid": "/m/01634x",
+            "thumbnail": "https://serpapi.com/searches/6666cf1f67a8a21aa86e52f6/images/086427660de30b3b02818a83d0f2f34da458eaa222569f8f7ffd12ef6c216d97be7e9d60708ac9bfb9f0c36a8f682818.png"
+          },
+          {
+            "name": "Man United",
+            "score": "2",
+            "kgmid": "/m/050fh",
+            "thumbnail": "https://serpapi.com/searches/6666cf1f67a8a21aa86e52f6/images/086427660de30b3b02818a83d0f2f34da458eaa222569f8fc69d64d5c03dc6777903d108fab9eac42a54ccfdfc55fcf6.png"
+          }
+        ]
+      },
+      {
+        "tournament": "Premier League",
+        "stadium": "Falmer Stadium",
+        "stadium_kgmid": "/m/041m7v",
+        "status": "FT",
+        "date": "May 19",
+        "video_highlights": {
+          "link": "https://www.youtube.com/watch?v=_Z8cHDO8oEg&feature=onebox",
+          "thumbnail": "https://serpapi.com/searches/6666cf1f67a8a21aa86e52f6/images/086427660de30b3b02818a83d0f2f34d1bc4d2d11194efb16d95b4d881552f24aa8b8dc4789d6613ee31695b87824ca1abd792eabbca9cff.jpeg",
+          "duration": "15:20"
+        },
+        "teams": [
+          {
+            "name": "Brighton",
+            "score": "0",
+            "kgmid": "/m/0j2pg",
+            "thumbnail": "https://serpapi.com/searches/6666cf1f67a8a21aa86e52f6/images/086427660de30b3b02818a83d0f2f34d31fef77b67c1165bd5b34cfc6221d7fe11d1a2f487434d93e2011f470526dc74.png"
+          },
+          {
+            "name": "Man United",
+            "score": "2",
+            "kgmid": "/m/050fh",
+            "thumbnail": "https://serpapi.com/searches/6666cf1f67a8a21aa86e52f6/images/086427660de30b3b02818a83d0f2f34d31fef77b67c1165bb18691d6d29e0e28eec854084c0e43973f2206afe00323c9.png"
+          }
+        ]
+      },
+      {
+        "tournament": "Premier League",
+        "stadium": "Old Trafford",
+        "stadium_kgmid": "/m/030lpl",
+        "status": "FT",
+        "date": "May 15",
+        "video_highlights": {
+          "link": "https://www.youtube.com/watch?v=3a_6WH1De0Q&feature=onebox",
+          "thumbnail": "https://serpapi.com/searches/6666cf1f67a8a21aa86e52f6/images/086427660de30b3b02818a83d0f2f34dd8d16d3dc80983563309c884c690ac5763427db3a5cf676d3ff918c4488a789b82f628e5e8251648.jpeg",
+          "duration": "12:29"
+        },
+        "teams": [
+          {
+            "name": "Man United",
+            "score": "3",
+            "kgmid": "/m/050fh",
+            "thumbnail": "https://serpapi.com/searches/6666cf1f67a8a21aa86e52f6/images/086427660de30b3b02818a83d0f2f34d9c060786796853b15149499b901457afe5691bfbb344abc2e46f47d06affb9da.png"
+          },
+          {
+            "name": "Newcastle",
+            "score": "2",
+            "kgmid": "/m/0fvly",
+            "thumbnail": "https://serpapi.com/searches/6666cf1f67a8a21aa86e52f6/images/086427660de30b3b02818a83d0f2f34d9c060786796853b11842dfe6e8fb83be57a94f9f8bc6045073fe6e7a312f34de.png"
+          }
+        ]
+      }
+    ]
+    },
+    "things_to_know": {
+    "web_results": [
+      {
+        "title": "Price",
+        "snippet": "8 ounces",
+        "link": "https://presto-coffee.com/blogs/coffee/how-much-ground-coffee-to-use-per-cup#:~:text=While%20using%20scoops%20or%20tablespoons,the%20correct%20ratio%20from%20there."
+      },
+      {
+        "title": "Ph level",
+        "snippet": "5",
+        "link": "https://www.verenastreet.com/blogs/all-about-coffee/what-is-coffee-acidity#:~:text=Black%20coffee%20generally%20lands%20around,acidic%20by%20way%20of%20dilution."
+      },
+      {
+        "title": "Inventor",
+        "snippet": "Melitta Bentz",
+        "link": "https://coffee.org/pages/history-of-the-coffee-maker#:~:text=Ever%20wonder%20who%20invented%20the,the%20quick%20and%20easy%20answer."
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Energy Amount",
+        "subtitle": "How Many Calories In Coffee",
+        "images": [
+          "https://serpapi.com/searches/640056fcd5ecf4f8807cf57e/images/99611c3fcc205f334357660c65d137aafa48a275c4c07411baacfa91f844a674.webp"
+        ],
+        "table": [
+          [
+            "Amount Per 1 fl oz (29.6 g)100 grams6 fl oz (178 g)1 cup (8 fl oz) (237 g)1 cup (8 fl oz) (237 g)"
+          ],
+          [
+            "Calories 1"
+          ]
+        ],
+        "search_link": "https://www.google.com/search?gl=us&q=how+many+calories+in+coffee&sa=X&ved=2ahUKEwj47feIgcn9AhVrnWoFHe8OADoQrooIegQIXBAF",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=us&google_domain=google.com&q=how+many+calories+in+coffee"
+      },
+      {
+        "text": "Food Nutrition",
+        "subtitle": "Nutritional Value Of Coffee",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRalPAx50vb0fI0zYgDSh70SSARWxG1T04vO6dmee-WDup4o2WSTj_o0ujM91YY26QGBz42YCrQ9fODtZT4sOco8J1wSUEkOBQBpUOj2lMIUFVEzOYlC_Rc&usqp=CAc"
+        ],
+        "table": [
+          [
+            "% Daily Value*",
+            "% Daily Value*"
+          ],
+          [
+            "Total Fat 0 g",
+            "0%"
+          ],
+          [
+            "Saturated fat 0 g",
+            "0%"
+          ],
+          [
+            "Trans fat regulation 0 g"
+          ],
+          [
+            "Cholesterol 0 mg",
+            "0%"
+          ],
+          [
+            "Sodium 5 mg",
+            "0%"
+          ],
+          [
+            "Potassium 116 mg",
+            "3%"
+          ],
+          [
+            "Total Carbohydrate 0 g",
+            "0%"
+          ],
+          [
+            "Dietary fiber 0 g",
+            "0%"
+          ],
+          [
+            "Sugar 0 g"
+          ],
+          [
+            "Protein 0.3 g",
+            "0%"
+          ],
+          [
+            "Caffeine 95 mg"
+          ],
+          [
+            "Vitamin C",
+            "0%",
+            "Calcium",
+            "0%"
+          ],
+          [
+            "Iron",
+            "0%",
+            "Vitamin D",
+            "0%"
+          ],
+          [
+            "Vitamin B6",
+            "0%",
+            "Cobalamin",
+            "0%"
+          ],
+          [
+            "Magnesium",
+            "1%"
+          ],
+          [
+            "*Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs."
+          ]
+        ],
+        "formatted": [
+          {
+            "daily_value": "0%"
+          },
+          {
+            "daily_value": "0%"
+          },
+          {
+            "daily_value": "Trans fat regulation 0 g"
+          },
+          {
+            "daily_value": "0%"
+          },
+          {
+            "daily_value": "0%"
+          },
+          {
+            "daily_value": "3%"
+          },
+          {
+            "daily_value": "0%"
+          },
+          {
+            "daily_value": "0%"
+          },
+          {
+            "daily_value": "Sugar 0 g"
+          },
+          {
+            "daily_value": "0%"
+          },
+          {
+            "daily_value": "Caffeine 95 mg"
+          },
+          {
+            "daily_value": "0%"
+          },
+          {
+            "daily_value": "0%"
+          },
+          {
+            "daily_value": "0%"
+          },
+          {
+            "daily_value": "1%"
+          },
+          {
+            "daily_value": "*Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs."
+          }
+        ],
+        "search_link": "https://www.google.com/search?gl=us&q=nutritional+value+of+coffee&sa=X&ved=2ahUKEwj47feIgcn9AhVrnWoFHe8OADoQrooIegQIXBAJ",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=us&google_domain=google.com&q=nutritional+value+of+coffee"
+      },
+      {
+        "text": "Types",
+        "subtitle": "Coffee Drink Types",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRalPAx50vb0fI0zYgDSh70SSARWxG1T04vO6dmee-WDup4o2WSTj_o0ujM91YY26QGBz42YCrQ9fODtZT4sOco8J1wSUEkOBQBpUOj2lMIUFVEzOYlC_Rc&usqp=CAc"
+        ],
+        "title": "Different Types of Coffee Explained | NESCAFÉ India",
+        "link": "https://www.nescafe.com/in/coffee-types#:~:text=From%20the%20well%2Dknown%20cappuccino,which%20one%20is%20your%20favourite.",
+        "displayed_link": "https://www.nescafe.com › coffee-t...",
+        "snippet": "From the well-known cappuccino, espresso, and latte, to the lungo, ristretto, café au lait and cold brew, there are so many types of coffee to enjoy. Give them all a try and find out which one is your favourite.",
+        "snippet_highlighted_words": [
+          "cappuccino, espresso, and latte, to the lungo, ristretto, café au lait and cold brew"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "This result comes from www.nescafe.com",
+            "source_info_link": "https://www.nescafe.com/in/coffee-types",
+            "security": "secure",
+            "icon": "https://serpapi.com/searches/640056fcd5ecf4f8807cf57e/images/99611c3fcc205f331d8c1eddff13431f7c19e1650e9670a36ef2745e85550a1d529bd4eeecd5c885a8881f5494aae332.png"
+          },
+          "regions": [
+            "search terms"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search?q=About+https://www.nescafe.com/in/coffee-types&tbm=ilp&ilps=AB_Lh3oUMfRhUIejjVEq7V1KClEb4lyU1g",
+        "search_link": "https://www.google.com/search?gl=us&q=coffee+drink+types&sa=X&ved=2ahUKEwj47feIgcn9AhVrnWoFHe8OADoQrooIegQIXBAN",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=us&google_domain=google.com&q=coffee+drink+types"
+      },
+      {
+        "text": "Benefits",
+        "subtitle": "Benefits Of Coffee",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRalPAx50vb0fI0zYgDSh70SSARWxG1T04vO6dmee-WDup4o2WSTj_o0ujM91YY26QGBz42YCrQ9fODtZT4sOco8J1wSUEkOBQBpUOj2lMIUFVEzOYlC_Rc&usqp=CAc"
+        ],
+        "title": "9 Health Benefits of Coffee, Based on Science - Healthline",
+        "link": "https://www.healthline.com/nutrition/top-evidence-based-health-benefits-of-coffee",
+        "displayed_link": "https://www.healthline.com › top-ev...",
+        "snippet": "9 Unique Benefits of Coffee",
+        "snippet_highlighted_words": [
+          "9 Unique Benefits of Coffee"
+        ],
+        "list": [
+          "Boosts energy levels. ... ",
+          "May be linked to a lower risk of type 2 diabetes. ... ",
+          "Could support brain health. ... ",
+          "May promote weight management. ... ",
+          "Linked to a lower risk of depression. ... ",
+          "Could protect against liver conditions. ... ",
+          "Supports heart health. ... ",
+          "Could increase longevity."
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Healthline Media, Inc. is an American website and provider of health information headquartered in San Francisco, California. It was founded in 1999, relaunched in 2006, and established as a standalone entity in January 2016.",
+            "source_info_link": "https://www.healthline.com/nutrition/top-evidence-based-health-benefits-of-coffee",
+            "security": "secure",
+            "icon": "https://serpapi.com/searches/640056fcd5ecf4f8807cf57e/images/99611c3fcc205f3346075eca3566aaf4d82cfd506811ba5438ba1a41f9dd9c31ba9579a1507223ebbe5b6bd4fb220f55.png"
+          },
+          "regions": [
+            "Terms"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search?q=About+https://www.healthline.com/nutrition/top-evidence-based-health-benefits-of-coffee&tbm=ilp&ilps=AB_Lh3qfGaP-aQfnaKJgNlx7nDttVz3SWw",
+        "search_link": "https://www.google.com/search?gl=us&q=benefits+of+coffee&sa=X&ved=2ahUKEwj47feIgcn9AhVrnWoFHe8OADoQrooIegQIXBAU",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=us&google_domain=google.com&q=benefits+of+coffee"
+      },
+      {
+        "text": "Protein content",
+        "subtitle": "How Much Protein Is In Coffee",
+        "images": [
+          "https://serpapi.com/searches/640056fcd5ecf4f8807cf57e/images/99611c3fcc205f33cf91a62f4c6af9cce5988eaaae656d604c42e66244b965f6.webp"
+        ],
+        "title": "Protein Coffee (Proffee Recipe) - Healthy With a Chance of Sprinkles",
+        "link": "https://healthywithachanceofsprinkles.com/protein-coffee/#:~:text=WHAT%20IS%20PROTEIN%20COFFEE%3F,or%20post%20workout%20muscle%20recovery.",
+        "displayed_link": "https://healthywithachanceofsprinkles.com › ...",
+        "date": "Sep 27, 2021",
+        "snippet": "WHAT IS PROTEIN COFFEE? Proffee is exactly what it sounds like. Coffee that is combined with protein powder or a prepared protein shake, usually served over ice, and sometimes flavored syrups are added. It's a delicious drink for anyone who wants to up their protein intake or post workout muscle recovery.",
+        "snippet_highlighted_words": [
+          "Coffee that is combined with protein powder or a prepared protein shake, usually served over ice, and sometimes flavored syrups are added"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "This result comes from healthywithachanceofsprinkles.com",
+            "source_info_link": "https://healthywithachanceofsprinkles.com/protein-coffee/",
+            "security": "secure",
+            "icon": "https://serpapi.com/searches/640056fcd5ecf4f8807cf57e/images/99611c3fcc205f33cf91a62f4c6af9cc79793e313649617f4d6580a29d591b882ebfb9225b0221477c8e9d924f1bb2dc.jpeg"
+          },
+          "regions": [
+            "search terms"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search?q=About+https://healthywithachanceofsprinkles.com/protein-coffee/&tbm=ilp&ilps=AB_Lh3qhlC5JQzJ21xD7msFBLF9_n-FyEQ",
+        "search_link": "https://www.google.com/search?gl=us&q=how+much+protein+is+in+coffee&sa=X&ved=2ahUKEwj47feIgcn9AhVrnWoFHe8OADoQrooIegQIXBAZ",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=us&google_domain=google.com&q=how+much+protein+is+in+coffee"
+      },
+      {
+        "text": "Brands",
+        "subtitle": "Coffee Brands",
+        "images": [
+          "https://serpapi.com/searches/640056fcd5ecf4f8807cf57e/images/99611c3fcc205f33012f60154e0e8720acbe9b967a6bff04b319bf8688999658.webp"
+        ],
+        "title": "Top 10 Coffee Brands In The World",
+        "link": "https://www.feedough.com/top-10-coffee-brands-in-the-world/",
+        "displayed_link": "https://www.feedough.com › top-10...",
+        "about_this_result": {
+          "source": {
+            "description": "This result comes from www.feedough.com",
+            "source_info_link": "https://www.feedough.com/top-10-coffee-brands-in-the-world/",
+            "security": "secure",
+            "icon": "https://serpapi.com/searches/640056fcd5ecf4f8807cf57e/images/99611c3fcc205f33012f60154e0e872011c0cf663135b1537c0e6e13787d97af99530b0ee57c9daba019a9ef3a048e20.png"
+          },
+          "regions": [
+            "search terms"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search?q=About+https://www.feedough.com/top-10-coffee-brands-in-the-world/&tbm=ilp&ilps=AB_Lh3oelTyJ-9ALug6NI1NcJ-4fpF-lAg",
+        "table": [
+          [
+            "Brand",
+            "Revenue (in Billion USD)"
+          ],
+          [
+            "Starbucks",
+            "23.52"
+          ],
+          [
+            "Keurig Dr Pepper",
+            "11.62"
+          ],
+          [
+            "Nescafé",
+            "9.2"
+          ],
+          [
+            "Peet's Coffee",
+            "7.6"
+          ]
+        ],
+        "formatted": [
+          {
+            "brand": "Starbucks",
+            "revenue_in_billion_usd": "23.52"
+          },
+          {
+            "brand": "Keurig Dr Pepper",
+            "revenue_in_billion_usd": "11.62"
+          },
+          {
+            "brand": "Nescafé",
+            "revenue_in_billion_usd": "9.2"
+          },
+          {
+            "brand": "Peet's Coffee",
+            "revenue_in_billion_usd": "7.6"
+          }
+        ],
+        "search_link": "https://www.google.com/search?gl=us&q=coffee+brands&sa=X&ved=2ahUKEwj47feIgcn9AhVrnWoFHe8OADoQrooIegQIXBAd",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=us&google_domain=google.com&q=coffee+brands"
+      }
+    ]
+    },
+    "top_insights": {
+    "title": "Samsung Galaxy S23 Ultra 5G",
+    "insights": [
+      {
+        "title": "Camera",
+        "details": "12 MP front camera, Wide Angle, Ultra Wide Angle, Telephoto, 200 MP rear camera, Accelerometer, Ambient Light Sensor, Proximity Sensor, 12 zoom, Barometer, Gyro Sensor, Hall Sensor, Geomagnetic Sensor",
+        "inline_sitelinks": [
+          {
+            "title": "Samsung Galaxy S23 Ultra Camera test | DXOMARK",
+            "snippet": "Exposure in photo was generally well managed, except when it came to challenging backlit situations, where low contrast gave faces an unnatural…",
+            "link": "https://www.dxomark.com/samsung-galaxy-s23-ultra-camera-test/#:~:text=Exposure%20in%20photo%20was,faces%20an%20unnatural%20appearance.",
+            "source": "DxOMark",
+            "tag": "Exposure"
+          },
+          {
+            "title": "Phones with Displays of 2023 — Immersive Visual Delights | by The Digital Hunts",
+            "snippet": "The high refresh rate ensures smooth visuals, while HDR support enhances contrast and dynamic range.",
+            "link": "https://medium.com/@thedigitalhunts/phones-with-displays-of-2023-immersive-visual-delights-bf2ea7e113ea#:~:text=The%20high%20refresh%20rate,contrast%20and%20dynamic%20range.",
+            "source": "Medium",
+            "tag": "HDR"
+          },
+          {
+            "title": "Samsung Galaxy S23 Ultra review - is it still the best camera phone?",
+            "snippet": "Low light images are taken care of by the phone's ``Night'' mode, which is both selectable and automatically activates when low light levels are…",
+            "link": "https://amateurphotographer.com/review/samsung-galaxy-s23-ultra-review/#:~:text=Low%20light%20images%20are,light%20levels%20are%20detected.",
+            "source": "Amateur Photographer",
+            "tag": "Night Mode"
+          }
+        ],
+        "reviews": [
+          {
+            "title": "Quality camera",
+            "source": "GoodTimes on samsung.com",
+            "date": "4 months ago",
+            "snippet": "…The camera on this phone is amazing. It has a 10x optical zoom that lets me capture distant objects with clarity and detail. The photos and videos look stunning…",
+            "total_reviews": 8822
+          }
+        ]
+      },
+      {
+        "title": "Design",
+        "inline_sitelinks": [
+          {
+            "title": "The best phone 2024: top smartphones in the US right now",
+            "snippet": "Design: The Galaxy S23 Ultra has a smooth plane of glass on the front and back, with a gently curved display leading to the frame.",
+            "link": "https://www.techradar.com/news/best-phone#:~:text=Design%3A%20The%20Galaxy%20S23,leading%20to%20the%20frame.",
+            "source": "TechRadar",
+            "tag": "Back"
+          },
+          {
+            "title": "Best Ultrawide Camera Phones of 2023",
+            "snippet": "This phone is huge and is not meant for those who seek compact phones.",
+            "link": "https://www.smartprix.com/bytes/best-ultrawide-camera-phones/#:~:text=This%20phone%20is%20huge,who%20seek%20compact%20phones.",
+            "source": "Smartprix",
+            "tag": "Size"
+          },
+          {
+            "title": "Samsung Galaxy S23 Ultra Review",
+            "snippet": "Putting the size of the phone aside, the design of it is sleek and attractive, with nicely rounded corners and a generally smooth finish that is nice…",
+            "link": "https://www.photographyblog.com/reviews/samsung_galaxy_s23_ultra_review#:~:text=Putting%20the%20size%20of,nice%20to%20look%20at.",
+            "source": "Photography Blog",
+            "tag": "Design"
+          },
+          {
+            "title": "Samsung Galaxy S23 Ultra review: More phone than you need",
+            "snippet": "Samsung has raised the location of the camera lenses on the back of the phone, preventing most camera cutouts from fitting around them.",
+            "link": "https://www.androidpolice.com/samsung-galaxy-s23-ultra-review/#:~:text=Samsung%20has%20raised%20the,from%20fitting%20around%20them.",
+            "source": "Android Police",
+            "tag": "Camera"
+          }
+        ]
+      }
+    ]
+    },
+    "top_sights": {
+    "categories": [
+      {
+        "title": "Local favorites",
+        "link": "https://www.google.com/travel/things-to-do/see-all?g2lb=4641139,4306835,4605861,4317915,4270442,4419364,4652001,4597339,2503771,4596364,4644488,4518327,4640247,4371334,2502548,2503781,4671798,4624411,4401769,4258168,4291517,4270859,4284970&hl=en-US&gl=us&ssta=1&dest_mid=/m/05qtj&dest_state_type=sattd&dest_src=ts&rf=EhEKDS9nLzExZnNteThiZ2QoAQ&sa=X&ved=2ahUKEwjEqJjHyL30AhXWm2oFHTvrCGkQ64UEKAB6BAgKEAY"
+      },
+      {
+        "title": "Kid-friendly",
+        "link": "https://www.google.com/travel/things-to-do/see-all?g2lb=4641139,4306835,4605861,4317915,4270442,4419364,4652001,4597339,2503771,4596364,4644488,4518327,4640247,4371334,2502548,2503781,4671798,4624411,4401769,4258168,4291517,4270859,4284970&hl=en-US&gl=us&ssta=1&dest_mid=/m/05qtj&dest_state_type=sattd&dest_src=ts&rf=EhEKDS9nLzExYzcxaHZmdDAoAQ&sa=X&ved=2ahUKEwjEqJjHyL30AhXWm2oFHTvrCGkQ64UEKAF6BAgKEAk"
+      },
+      {
+        "title": "Art & Culture",
+        "link": "https://www.google.com/travel/things-to-do/see-all?g2lb=4641139,4306835,4605861,4317915,4270442,4419364,4652001,4597339,2503771,4596364,4644488,4518327,4640247,4371334,2502548,2503781,4671798,4624411,4401769,4258168,4291517,4270859,4284970&hl=en-US&gl=us&ssta=1&dest_mid=/m/05qtj&dest_state_type=sattd&dest_src=ts&rf=EgsKBy9tLzBqancoAQ&sa=X&ved=2ahUKEwjEqJjHyL30AhXWm2oFHTvrCGkQ64UEKAJ6BAgKEAw"
+      }
+    ],
+    "sights": [
+      {
+        "title": "Eiffel Tower",
+        "link": "https://www.google.com/travel/things-to-do/see-all?g2lb=4641139,4306835,4605861,4317915,4270442,4419364,4652001,4597339,2503771,4596364,4644488,4518327,4640247,4371334,2502548,2503781,4671798,4624411,4401769,4258168,4291517,4270859,4284970&hl=en-US&gl=us&ssta=1&dest_mid=/m/05qtj&dest_state_type=sattd&dest_src=ts&poi_mid=/m/02j81&sa=X&ved=2ahUKEwjEqJjHyL30AhXWm2oFHTvrCGkQ69EBKAB6BAgKECI",
+        "description": "Landmark 324m-high 19th-century tower",
+        "rating": 4.6,
+        "reviews": 273384,
+        "thumbnail": "https://serpapi.com/searches/61a4c6b2de983400a8951991/images/1119f95ceab974f9dd086301fb884460d971bcaaaf3182d1fde075783dc5a411.jpeg"
+      },
+      {
+        "title": "Louvre Museum",
+        "link": "https://www.google.com/travel/things-to-do/see-all?g2lb=4641139,4306835,4605861,4317915,4270442,4419364,4652001,4597339,2503771,4596364,4644488,4518327,4640247,4371334,2502548,2503781,4671798,4624411,4401769,4258168,4291517,4270859,4284970&hl=en-US&gl=us&ssta=1&dest_mid=/m/05qtj&dest_state_type=sattd&dest_src=ts&poi_mid=/m/04gdr&sa=X&ved=2ahUKEwjEqJjHyL30AhXWm2oFHTvrCGkQ69EBKAF6BAgKECQ",
+        "description": "Landmark art museum with vast collection",
+        "rating": 4.7,
+        "reviews": 224973,
+        "thumbnail": "https://serpapi.com/searches/61a4c6b2de983400a8951991/images/1119f95ceab974f9dd086301fb884460fc370aebc07626ae6b67ab74bb6f0e3e.jpeg"
+      },
+      {
+        "title": "Cathédrale Notre-Dame de Paris",
+        "link": "https://www.google.com/travel/things-to-do/see-all?g2lb=4641139,4306835,4605861,4317915,4270442,4419364,4652001,4597339,2503771,4596364,4644488,4518327,4640247,4371334,2502548,2503781,4671798,4624411,4401769,4258168,4291517,4270859,4284970&hl=en-US&gl=us&ssta=1&dest_mid=/m/05qtj&dest_state_type=sattd&dest_src=ts&poi_mid=/m/0gtxh&sa=X&ved=2ahUKEwjEqJjHyL30AhXWm2oFHTvrCGkQ69EBKAJ6BAgKECY",
+        "description": "Iconic Gothic church with literary link",
+        "rating": 4.7,
+        "reviews": 44050,
+        "thumbnail": "https://serpapi.com/searches/61a4c6b2de983400a8951991/images/1119f95ceab974f9dd086301fb884460faf94de813b58f53a21eb28fcd004211.jpeg"
+      }
+    ],
+    "show_more_link": "https://www.google.com/travel/things-to-do?g2lb=4641139,4306835,4605861,4317915,4270442,4419364,4652001,4597339,2503771,4596364,4644488,4518327,4640247,4371334,2502548,2503781,4671798,4624411,4401769,4258168,4291517,4270859,4284970&hl=en-US&gl=us&ssta=1&dest_mid=/m/05qtj&dest_state_type=main&dest_src=ts&q=top+sights+Paris&sa=X&ved=2ahUKEwjEqJjHyL30AhXWm2oFHTvrCGkQuL0BegQIChA1"
+    },
+    "top_stories": [
+    {
+      "title": "Hannity exclusive: McConnell says 'zero chance' Trump is removed, 'one or two Democrats' could vote to acquit",
+      "link": "https://www.google.comhttps://www.foxnews.com/media/hannity-exclusive-senate-majority-leader-mcconnell-says-theres-no-chance-president-trump-is-removed",
+      "source": "Fox News",
+      "date": "11 hours ago",
+      "thumbnail": "<URL to image>"
+    },
+    {
+      "title": "5 things Republicans tried to change in the impeachment articles against Trump",
+      "link": "https://www.google.comhttps://www.usatoday.com/story/news/politics/2019/12/13/trump-impeachment-judiciary-republicans-tried-change-articles/4414880002/",
+      "source": "USATODAY.com",
+      "date": "4 hours ago",
+      "thumbnail": "<URL to image>"
+    },
+    {
+      "title": "Biden calls Boris Johnson 'a physical and emotional clone' of Trump | TheHill",
+      "link": "https://www.google.comhttps://thehill.com/homenews/campaign/474419-biden-calls-boris-johnson-a-physical-and-emotional-clone-of-trump",
+      "source": "TheHill",
+      "date": "31 mins ago",
+      "thumbnail": "<URL to image>"
+    }
+    ],
+    "twitter_results": {
+    "title": "Naval (@naval) · Twitter",
+    "link": "https://twitter.com/naval?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "displayed_link": "https://twitter.com/naval",
+    "tweets": [
+      {
+        "link": "https://twitter.com/naval/status/1390216106384584704?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+        "snippet": "The three big decisions - what you do, where you live, and who you’re with.",
+        "published_date": "14 hours ago"
+      },
+      {
+        "link": "https://twitter.com/naval/status/1390074153521360899?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+        "snippet": "Is Light a Particle or a Wave? nav.al/light",
+        "thumbnail": "<URL to image>",
+        "published_date": "1 day ago"
+      },
+      {
+        "link": "https://twitter.com/naval/status/1389445839702040582?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+        "snippet": "Happiness is evident more by its absence than by its presence.",
+        "published_date": "3 days ago"
+      }
+    ]
+    },
+    "visual_stories": [
+    {
+      "position": 1,
+      "title": "Antonio Brown Says He Won’t Play In NFL",
+      "link": "https://showlyrics.net/web-stories/antonio-brown-says-he-wont-play-in-nfl",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQxCW8e2uSmUnvO8H4sMpWu7NlMbLb915JateJ4iO6w&s=10",
+      "source": "showlyrics.net",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdyVkXJNgGPPVHCAqHGCMIUko8SLVYb7D9oNhFCiQ&s"
+    },
+    {
+      "position": 2,
+      "title": "2022 NFL Mock Draft v1.0",
+      "link": "https://sportstalkline.com/web-stories/2022-nfl-mock-draft-v1-0/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBEVdGbqH_LcRVt4t261payueFnpqTGAnzRiw8w5m3OgLculLgMVXTZ7aKSg&s=10",
+      "source": "sportstalkline.com",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5kgYKWqO8aoJ2usM2ZzDFyWpneTotI-0yTTEul4&s"
+    },
+    {
+      "position": 3,
+      "title": "The Most Valuable NFL Teams",
+      "link": "https://www.one37pm.com/stories/most-valuable-nfl-teams/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJR7S_xJnTmA4nFPdgf6DyLxcRhxzRaZGbuy9PEVU7Zg&s=10",
+      "source": "one37pm.com",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDCDW4OSXnZdv1TMD8c1u0NzWWcn2oS5LdvLGvyNA&s"
+    }
+    ]
+}
