@@ -1,0 +1,1118 @@
+{
+  "search_metadata": {
+    "id": "67646973a27ce0d008d58e4a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/17226078062a2d4a/67646973a27ce0d008d58e4a.json",
+    "created_at": "2024-12-19 18:44:03 UTC",
+    "processed_at": "2024-12-19 18:44:03 UTC",
+    "google_maps_directions_url": "https://www.google.com/maps/dir/Austin-Bergstrom+International+Airport/5540+N+Lamar+Blvd%2C+Austin%2C+TX+78756/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x8644b13b8b4aff45:0x1ca7fca8c9dc2768!2m2!1d-97.6710889!2d30.194084999999998!1m5!1m1!1s0x8644cba140fad1fb:0x2db903443245739c!2m2!1d-97.7286733!2d30.324749299999997!3e6?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/17226078062a2d4a/67646973a27ce0d008d58e4a.html",
+    "prettify_html_file": "https://serpapi.com/searches/17226078062a2d4a/67646973a27ce0d008d58e4a.prettify",
+    "total_time_taken": 1.5
+  },
+  "search_parameters": {
+    "engine": "google_maps_directions",
+    "hl": "en",
+    "start_addr": "Austin-Bergstrom International Airport",
+    "end_addr": "5540 N Lamar Blvd, Austin, TX 78756, USA"
+  },
+  "places_info": [
+    {
+      "address": "Austin-Bergstrom International Airport",
+      "data_id": "0x8644b13b8b4aff45:0x1ca7fca8c9dc2768",
+      "gps_coordinates": {
+        "latitude": 30.194084999999998,
+        "longitude": -97.6710889
+      }
+    },
+    {
+      "address": "5540 N Lamar Blvd, Austin, TX 78756",
+      "data_id": "0x8644cba140fad1fb:0x2db903443245739c",
+      "gps_coordinates": {
+        "latitude": 30.324749299999997,
+        "longitude": -97.7286733
+      }
+    }
+  ],
+  "directions": [
+    {
+      "travel_mode": "Driving",
+      "via": "183 Toll",
+      "distance": 21635,
+      "duration": 1077,
+      "typical_duration_range": "18–27 min",
+      "formatted_distance": "13.4 miles",
+      "formatted_duration": "18 min",
+      "extensions": [
+        "Fastest route, the usual traffic",
+        "This route has tolls."
+      ],
+      "elevation_profile": {
+        "ascent": 93,
+        "descent": 37,
+        "max_altitude": 212,
+        "min_altitude": 137,
+        "formatted_ascent": "305 ft",
+        "formatted_descent": "121 ft",
+        "formatted_max_altitude": "696 ft",
+        "formatted_min_altitude": "449 ft"
+      },
+      "trips": [
+        {
+          "travel_mode": "Driving",
+          "title": "Get on  State Hwy 71 W  from  Spirit of Texas Dr",
+          "distance": 1348,
+          "duration": 180,
+          "formatted_distance": "0.8 mi",
+          "formatted_duration": "3 min",
+          "details": [
+            {
+              "title": "Head  west  on  Presidential Blvd  toward  Spirit of Austin Ln",
+              "action": "straight",
+              "distance": 112,
+              "duration": 9,
+              "formatted_distance": "367 ft",
+              "formatted_duration": "9 sec",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-E8rJH2nX0t5sn3EJUWy2w&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=31.323496&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.209959395934817,
+                "longitude": -97.66459422293754
+              }
+            },
+            {
+              "title": "Slight  right  onto  Spirit of Austin Ln",
+              "action": "turn-slight-right",
+              "distance": 59,
+              "duration": 9,
+              "formatted_distance": "194 ft",
+              "formatted_duration": "9 sec",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2BPPYXfWno1ny_fKTKjp2g&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=239.04501&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.210073323997044,
+                "longitude": -97.6657328392862
+              }
+            },
+            {
+              "title": "At the traffic circle, continue straight to stay on  Spirit of Austin Ln",
+              "action": "roundabout-right",
+              "distance": 187,
+              "duration": 33,
+              "formatted_distance": "0.1 mi",
+              "formatted_duration": "33 sec",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vMgSpja4OldM9VMvQOBXyQ&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=166.39572&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.210328525143517,
+                "longitude": -97.66624908105992
+              }
+            },
+            {
+              "title": "Turn  right  onto  Spirit of Texas Dr",
+              "action": "turn-right",
+              "distance": 588,
+              "duration": 97,
+              "formatted_distance": "0.4 mi",
+              "formatted_duration": "2 min",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9S186YH3gGajSMxQUCRZgg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=133.74507&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.211677529008156,
+                "longitude": -97.66700262701079
+              }
+            },
+            {
+              "title": "Turn  left  to merge onto  State Hwy 71 W",
+              "action": "merge",
+              "distance": 402,
+              "duration": 32,
+              "formatted_distance": "0.2 mi",
+              "formatted_duration": "32 sec",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SCoFf3dJc8H7KBqeAHlgKA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=38.892563&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.215766013177266,
+                "longitude": -97.66353510778241
+              }
+            }
+          ]
+        },
+        {
+          "travel_mode": "Walking",
+          "distance": 17424,
+          "duration": 14548,
+          "formatted_distance": "10.8 mi",
+          "formatted_duration": "4 hr 2 min",
+          "details": [
+            {
+              "title": "Head  west  on  Departures",
+              "action": "straight",
+              "distance": 596,
+              "duration": 479,
+              "formatted_distance": "0.4 mi",
+              "formatted_duration": "8 min",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HikhD0d9bjHx3RGPRUjKtg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=268.48215&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.202639433335207,
+                "longitude": -97.66693050947225
+              }
+            }
+          ]
+        },
+        {
+          "travel_mode": "Driving",
+          "title": "Take  183 Toll  to  Ed Bluestein Blvd . Take exit  290  from  US-183 N",
+          "distance": 13438,
+          "duration": 450,
+          "formatted_distance": "8.3 mi",
+          "formatted_duration": "8 min",
+          "details": [
+            {
+              "title": "Merge onto  State Hwy 71 W",
+              "action": "merge",
+              "distance": 1163,
+              "duration": 45,
+              "formatted_distance": "0.7 mi",
+              "formatted_duration": "45 sec",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=H9nGtUI92TqmdyEyEur3bw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=293.71362&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.217643789174645,
+                "longitude": -97.66680771939102
+              }
+            },
+            {
+              "title": "Use the 2nd from the right lane to take the  US-183 N  ramp",
+              "action": "merge",
+              "distance": 814,
+              "duration": 32,
+              "formatted_distance": "0.5 mi",
+              "formatted_duration": "32 sec",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qfPONK9sPbAV8X958RjZxg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=112.57992&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.222728587075263,
+                "longitude": -97.67741814010367
+              }
+            },
+            {
+              "title": "Continue onto  US-183 N / S Hwy 183",
+              "action": "turn-slight-right",
+              "distance": 1978,
+              "duration": 68,
+              "formatted_distance": "1.2 mi",
+              "formatted_duration": "1 min",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_Sa4-hem_kzNO1-GC7QKQw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=167.02917&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.228258887466385,
+                "longitude": -97.68230349167965
+              },
+              "extensions": ["Continue to follow S Hwy 183", "Toll road"]
+            },
+            {
+              "title": "Continue onto  183 Toll / Ed Bluestein Blvd",
+              "action": "straight",
+              "distance": 8604,
+              "duration": 271,
+              "formatted_distance": "5.3 mi",
+              "formatted_duration": "5 min",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uPoNHIgDLqODzEAEsWljDg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=359.56262&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.244338195730343,
+                "longitude": -97.69054928857742
+              },
+              "extensions": ["Continue to follow 183 Toll", "Toll road"]
+            },
+            {
+              "title": "Continue onto  US-183 N",
+              "action": "straight",
+              "distance": 491,
+              "duration": 17,
+              "formatted_distance": "0.3 mi",
+              "formatted_duration": "17 sec",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lbTVLpBVaH3219GLKSULCA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=355.66507&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.312377608342263,
+                "longitude": -97.66210277773452
+              }
+            },
+            {
+              "title": "Take exit  290  to merge onto  Ed Bluestein Blvd",
+              "action": "ramp-right",
+              "distance": 388,
+              "duration": 17,
+              "formatted_distance": "0.2 mi",
+              "formatted_duration": "17 sec",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kqu57yggFTzn5XwLaJEPAA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=151.23659&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.316732041711276,
+                "longitude": -97.6632585747261
+              }
+            }
+          ]
+        },
+        {
+          "travel_mode": "Driving",
+          "title": "Get on  US-290 W  in  Austin",
+          "distance": 2457,
+          "duration": 234,
+          "formatted_distance": "1.5 mi",
+          "formatted_duration": "4 min",
+          "details": [
+            {
+              "title": "Merge onto  Ed Bluestein Blvd",
+              "action": "merge",
+              "distance": 1068,
+              "duration": 88,
+              "formatted_distance": "0.7 mi",
+              "formatted_duration": "1 min",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=E8efEXbKwBd5Q9bv0k8zlA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=149.80037&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.319753611153097,
+                "longitude": -97.66514241571258
+              }
+            },
+            {
+              "title": "Use the left lane to turn  left  onto  U.S. 290 Frontage Rd",
+              "action": "turn-left",
+              "distance": 1260,
+              "duration": 140,
+              "formatted_distance": "0.8 mi",
+              "formatted_duration": "2 min",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Uxp_Kn_xoCBkpAsG4Z5lxg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=312.11993&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.326122202634927,
+                "longitude": -97.67331845749538
+              }
+            },
+            {
+              "title": "Use the left lane to take the ramp onto  US-290 W",
+              "action": "merge",
+              "distance": 129,
+              "duration": 6,
+              "formatted_distance": "423 ft",
+              "formatted_duration": "6 sec",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JLn-SZ1EiSRsfFkYAlaOxg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=260.47232&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.321945634266676,
+                "longitude": -97.68526971682762
+              }
+            }
+          ]
+        },
+        {
+          "travel_mode": "Driving",
+          "title": "Take  E Hwy 290  to  E Koenig Ln",
+          "distance": 2816,
+          "duration": 108,
+          "formatted_distance": "1.7 mi",
+          "formatted_duration": "2 min",
+          "details": [
+            {
+              "title": "Merge onto  US-290 W",
+              "action": "merge",
+              "distance": 255,
+              "duration": 10,
+              "formatted_distance": "0.2 mi",
+              "formatted_duration": "10 sec",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ScVvEJhiEBW5f3y-uxoqKQ&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=285.5046&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.321712048212174,
+                "longitude": -97.68662301178585
+              }
+            },
+            {
+              "title": "Continue onto  E Hwy 290",
+              "action": "straight",
+              "distance": 653,
+              "duration": 24,
+              "formatted_distance": "0.4 mi",
+              "formatted_duration": "24 sec",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=I9jzMwTG-Axf2zIkB4hekQ&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=85.54862&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.321479957651864,
+                "longitude": -97.68929729550352
+              }
+            },
+            {
+              "title": "Use the left 2 lanes to keep  left",
+              "action": "turn-left",
+              "distance": 1022,
+              "duration": 37,
+              "formatted_distance": "0.6 mi",
+              "formatted_duration": "37 sec",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_YS_8JdojA2IPkiPvGiWhA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=275.23486&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.32151117952689,
+                "longitude": -97.69605207799074
+              }
+            },
+            {
+              "title": "Continue onto  E Hwy 290",
+              "action": "straight",
+              "distance": 886,
+              "duration": 37,
+              "formatted_distance": "0.6 mi",
+              "formatted_duration": "37 sec",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_Az0zi6KRwZUtfaqNpENmg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=103.77672&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.322248211214152,
+                "longitude": -97.70669186210723
+              }
+            }
+          ]
+        },
+        {
+          "travel_mode": "Driving",
+          "title": "Continue on  E Koenig Ln  to your destination",
+          "distance": 1576,
+          "duration": 237,
+          "formatted_distance": "1.0 mi",
+          "formatted_duration": "4 min",
+          "details": [
+            {
+              "title": "Continue onto  E Koenig Ln",
+              "action": "straight",
+              "distance": 1219,
+              "duration": 118,
+              "formatted_distance": "0.8 mi",
+              "formatted_duration": "2 min",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-ATd-Ti7ZZudDJJ54RHePg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=291.96814&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.320518273818173,
+                "longitude": -97.71548314577184
+              }
+            },
+            {
+              "title": "Turn  left  onto  N Lamar Blvd",
+              "action": "turn-left",
+              "distance": 196,
+              "duration": 85,
+              "formatted_distance": "0.1 mi",
+              "formatted_duration": "1 min",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vHliKTzz4z5UKOvRPzqxFw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=296.69785&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.325837564703132,
+                "longitude": -97.72609521164351
+              },
+              "extensions": ["Pass by KFC (on the left)"]
+            },
+            {
+              "title": "Turn  right",
+              "action": "turn-right",
+              "distance": 121,
+              "duration": 22,
+              "formatted_distance": "397 ft",
+              "formatted_duration": "22 sec",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Uxt0rgqIkBiamgOJqpTolg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=184.94263&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.32459879501277,
+                "longitude": -97.72718527034111
+              }
+            },
+            {
+              "title": "Turn  left",
+              "action": "turn-left",
+              "distance": 40,
+              "duration": 12,
+              "formatted_distance": "131 ft",
+              "formatted_duration": "12 sec",
+              "extensions": ["Destination will be on the right"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "travel_mode": "Driving",
+      "via": "TX-130 N/TX-45",
+      "distance": 37236,
+      "duration": 1524,
+      "typical_duration_range": "24–33 min",
+      "formatted_distance": "23.1 miles",
+      "formatted_duration": "25 min",
+      "extensions": ["This route has tolls."],
+      "trips": [
+        {
+          "travel_mode": "Driving",
+          "title": "Get on  TX-130 N / TX-45 / TX-130 Toll N  from  E State Hwy 71 Service Rd  and  State Hwy 71 E",
+          "distance": 6288,
+          "duration": 425,
+          "formatted_distance": "3.9 mi",
+          "formatted_duration": "7 min",
+          "details": [
+            {
+              "title": "Head  west  on  Presidential Blvd  toward  Spirit of Austin Ln",
+              "action": "straight",
+              "distance": 112,
+              "duration": 9,
+              "formatted_distance": "367 ft",
+              "formatted_duration": "9 sec",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-E8rJH2nX0t5sn3EJUWy2w&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=31.323496&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.209959395934817,
+                "longitude": -97.66459422293754
+              }
+            },
+            {
+              "title": "Slight  right  onto  Spirit of Austin Ln",
+              "action": "turn-slight-right",
+              "distance": 59,
+              "duration": 9,
+              "formatted_distance": "194 ft",
+              "formatted_duration": "9 sec",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2BPPYXfWno1ny_fKTKjp2g&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=239.04501&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.210073323997044,
+                "longitude": -97.6657328392862
+              }
+            },
+            {
+              "title": "At the traffic circle, continue straight to stay on  Spirit of Austin Ln",
+              "action": "roundabout-right",
+              "distance": 187,
+              "duration": 33,
+              "formatted_distance": "0.1 mi",
+              "formatted_duration": "33 sec",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vMgSpja4OldM9VMvQOBXyQ&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=166.39572&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.210328525143517,
+                "longitude": -97.66624908105992
+              }
+            },
+            {
+              "title": "Turn  right  onto  Spirit of Texas Dr",
+              "action": "turn-right",
+              "distance": 464,
+              "duration": 78,
+              "formatted_distance": "0.3 mi",
+              "formatted_duration": "1 min",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9S186YH3gGajSMxQUCRZgg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=133.74507&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.211677529008156,
+                "longitude": -97.66700262701079
+              }
+            },
+            {
+              "title": "Turn  right  onto  E State Hwy 71 Service Rd",
+              "action": "turn-right",
+              "distance": 1116,
+              "duration": 136,
+              "formatted_distance": "0.7 mi",
+              "formatted_duration": "2 min",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=V7xdGesmU53kztMSJD_oPg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=330.6016&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.214760686657623,
+                "longitude": -97.66409397283421
+              }
+            },
+            {
+              "title": "Merge onto  State Hwy 71 E",
+              "action": "merge",
+              "distance": 928,
+              "duration": 33,
+              "formatted_distance": "0.6 mi",
+              "formatted_duration": "33 sec",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yBRGJORRN3nWKXn-OfRRhg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=119.20531&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.210483391076377,
+                "longitude": -97.65415793541771
+              }
+            },
+            {
+              "title": "Keep  left  to continue toward  State Hwy 71 E",
+              "action": "turn-left",
+              "distance": 178,
+              "duration": 16,
+              "formatted_distance": "0.1 mi",
+              "formatted_duration": "16 sec",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KNGYlWdk6WnmzK9QHWHH7A&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=299.03574&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.20630190617697,
+                "longitude": -97.64578382077939
+              }
+            },
+            {
+              "title": "Merge onto  State Hwy 71 E",
+              "action": "merge",
+              "distance": 1291,
+              "duration": 42,
+              "formatted_distance": "0.8 mi",
+              "formatted_duration": "42 sec",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2WLJQeJegQU-eRdqnnvV2A&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=222.95142&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.205460917419696,
+                "longitude": -97.64424656874533
+              },
+              "extensions": ["Toll road"]
+            },
+            {
+              "title": "Use the right lane to merge onto  TX-130 N / TX-45 / TX-130 Toll N  via the ramp to  TX-45Toll N / Waco",
+              "action": "merge",
+              "distance": 1953,
+              "duration": 69,
+              "formatted_distance": "1.2 mi",
+              "formatted_duration": "1 min",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=npL9nRHx7AdvbpI347a2NA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=267.11252&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.199396868203088,
+                "longitude": -97.6328075529537
+              },
+              "extensions": ["Toll road"]
+            }
+          ]
+        },
+        {
+          "travel_mode": "Driving",
+          "title": "Continue on  TX-130 N / TX-45 / TX-130 Toll N . Take  290 Toll  to  E Koenig Ln  in  Austin",
+          "distance": 29372,
+          "duration": 928,
+          "formatted_distance": "18.3 mi",
+          "formatted_duration": "15 min",
+          "details": [
+            {
+              "title": "Merge onto  TX-130 N / TX-45 / TX-130 Toll N",
+              "action": "merge",
+              "distance": 16019,
+              "duration": 480,
+              "formatted_distance": "10.0 mi",
+              "formatted_duration": "8 min",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YEkMcfGS4vnMMTXR9apiCA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=19.645885&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.20481805112432,
+                "longitude": -97.6221846228406
+              },
+              "extensions": ["Toll road"]
+            },
+            {
+              "title": "Use the right 2 lanes to take exit  437B  for  290 Toll W  toward  Austin",
+              "action": "ramp-right",
+              "distance": 2272,
+              "duration": 80,
+              "formatted_distance": "1.4 mi",
+              "formatted_duration": "1 min",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hG_mQQWkXSw1TZnnIzgCJg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=335.07053&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.331154242271825,
+                "longitude": -97.58586592896938
+              },
+              "extensions": ["Toll road"]
+            },
+            {
+              "title": "Merge onto  290 Toll",
+              "action": "merge",
+              "distance": 6697,
+              "duration": 206,
+              "formatted_distance": "4.2 mi",
+              "formatted_duration": "3 min",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zVjFExA1BbhYaqlxTh0_bg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=247.27966&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.33623805774349,
+                "longitude": -97.60288707566242
+              },
+              "extensions": ["Toll road"]
+            },
+            {
+              "title": "Continue onto  US-290 W",
+              "action": "straight",
+              "distance": 1823,
+              "duration": 64,
+              "formatted_distance": "1.1 mi",
+              "formatted_duration": "1 min",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qxv55x_ae3wA4NMu3RyoZQ&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=70.09171&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.326384787664672,
+                "longitude": -97.67131698072201
+              }
+            },
+            {
+              "title": "Continue onto  E Hwy 290",
+              "action": "straight",
+              "distance": 653,
+              "duration": 24,
+              "formatted_distance": "0.4 mi",
+              "formatted_duration": "24 sec",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=I9jzMwTG-Axf2zIkB4hekQ&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=85.54862&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.321479957651864,
+                "longitude": -97.68929729550352
+              }
+            },
+            {
+              "title": "Use the left 2 lanes to keep  left",
+              "action": "turn-left",
+              "distance": 1022,
+              "duration": 37,
+              "formatted_distance": "0.6 mi",
+              "formatted_duration": "37 sec",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_YS_8JdojA2IPkiPvGiWhA&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=275.23486&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.32151117952689,
+                "longitude": -97.69605207799074
+              }
+            },
+            {
+              "title": "Continue onto  E Hwy 290",
+              "action": "straight",
+              "distance": 886,
+              "duration": 37,
+              "formatted_distance": "0.6 mi",
+              "formatted_duration": "37 sec",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_Az0zi6KRwZUtfaqNpENmg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=103.77672&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.322248211214152,
+                "longitude": -97.70669186210723
+              }
+            }
+          ]
+        },
+        {
+          "travel_mode": "Driving",
+          "title": "Continue on  E Koenig Ln  to your destination",
+          "distance": 1576,
+          "duration": 237,
+          "formatted_distance": "1.0 mi",
+          "formatted_duration": "4 min",
+          "details": [
+            {
+              "title": "Continue onto  E Koenig Ln",
+              "action": "straight",
+              "distance": 1219,
+              "duration": 118,
+              "formatted_distance": "0.8 mi",
+              "formatted_duration": "2 min",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-ATd-Ti7ZZudDJJ54RHePg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=291.96814&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.320518273818173,
+                "longitude": -97.71548314577184
+              }
+            },
+            {
+              "title": "Turn  left  onto  N Lamar Blvd",
+              "action": "turn-left",
+              "distance": 196,
+              "duration": 85,
+              "formatted_distance": "0.1 mi",
+              "formatted_duration": "1 min",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vHliKTzz4z5UKOvRPzqxFw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=296.69785&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.325837564703132,
+                "longitude": -97.72609521164351
+              },
+              "extensions": ["Pass by KFC (on the left)"]
+            },
+            {
+              "title": "Turn  right",
+              "action": "turn-right",
+              "distance": 121,
+              "duration": 22,
+              "formatted_distance": "397 ft",
+              "formatted_duration": "22 sec",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Uxt0rgqIkBiamgOJqpTolg&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=184.94263&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.32459879501277,
+                "longitude": -97.72718527034111
+              }
+            },
+            {
+              "title": "Turn  left",
+              "action": "turn-left",
+              "distance": 40,
+              "duration": 12,
+              "formatted_distance": "131 ft",
+              "formatted_duration": "12 sec",
+              "extensions": ["Destination will be on the right"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "travel_mode": "Transit",
+      "via": "every 15 min",
+      "start_time": "12:52 PM",
+      "end_time": "2:09 PM",
+      "distance": 24802,
+      "duration": 4576,
+      "formatted_distance": "15.4 miles",
+      "formatted_duration": "1 hr 17 min",
+      "cost": 2.5,
+      "currency": "USD",
+      "trips": [
+        {
+          "travel_mode": "Walking",
+          "title": "Walk",
+          "distance": 163,
+          "duration": 132,
+          "formatted_distance": "0.1 mi",
+          "formatted_duration": "3 min",
+          "details": [
+            {
+              "title": "Head  east  on  Departures",
+              "action": "straight",
+              "distance": 87,
+              "duration": 65,
+              "formatted_distance": "285 ft",
+              "formatted_duration": "1 min",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=imNZgWwPMK5HL9NyP1Q_Qw&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=268.36624&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.20262903054496,
+                "longitude": -97.66736098024461
+              }
+            },
+            {
+              "title": "Turn  left  toward  Presidential Blvd",
+              "action": "turn-left",
+              "distance": 16,
+              "duration": 22,
+              "formatted_distance": "52 ft",
+              "formatted_duration": "22 sec",
+              "geo_photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0PwaXeKw8k4Tzym2Ul-S7Q&cb_client=unknown_client.gws.gps&w=203&h=100&yaw=89.71462&pitch=0&thumbfov=100",
+              "gps_coordinates": {
+                "latitude": 30.202646558418536,
+                "longitude": -97.66650666518771
+              }
+            },
+            {
+              "title": "Turn  right  onto  Presidential Blvd",
+              "action": "turn-right",
+              "distance": 60,
+              "duration": 45,
+              "formatted_distance": "197 ft",
+              "formatted_duration": "45 sec",
+              "extensions": ["Destination will be on the right"]
+            }
+          ]
+        },
+        {
+          "travel_mode": "Transit",
+          "title": "20 Springdale NB",
+          "duration": 1672,
+          "formatted_duration": "27 min",
+          "start_stop": {
+            "name": "ABIA Lower Level",
+            "stop_id": "4326",
+            "time": "12:55 PM",
+            "data_id": "0x8644b12fd58ade63:0xe4f74504ec3e0789"
+          },
+          "end_stop": {
+            "name": "Vic Mathias/Auditorium Shores (NB)",
+            "stop_id": "2767",
+            "time": "1:22 PM",
+            "data_id": "0x8644b50468dc089b:0xe538290c1b432609"
+          },
+          "stops": [
+            {
+              "name": "New Airport/Employee",
+              "stop_id": "5099",
+              "time": "12:57 PM",
+              "data_id": "0x8644b6d2c44dff0d:0xb675564586691762"
+            },
+            {
+              "name": "1766 71/Thornberry",
+              "stop_id": "6241",
+              "time": "12:59 PM",
+              "data_id": "0x8644b6ceda7d81cd:0x8efd97972d53024d"
+            },
+            {
+              "name": "7308 Riverside/Coriander",
+              "stop_id": "4692",
+              "time": "1:03 PM",
+              "data_id": "0x8644b6a8b5de367f:0x1b221f13a69abf1d"
+            },
+            {
+              "name": "7200 Riverside/Yellow Jacket",
+              "stop_id": "3247",
+              "time": "1:03 PM",
+              "data_id": "0x8644b6a89c86cad7:0xae6afb61d1554922"
+            },
+            {
+              "name": "6810 Riverside/Frontier Valley",
+              "stop_id": "3248",
+              "time": "1:04 PM",
+              "data_id": "0x8644b6a78a50422b:0x3f285e070e151771"
+            },
+            {
+              "name": "6600 Riverside/Vargas",
+              "stop_id": "3249",
+              "time": "1:04 PM",
+              "data_id": "0x8644b41daae45f89:0x73938656a6d4ab6d"
+            },
+            {
+              "name": "6306 Riverside/Montopolis",
+              "stop_id": "950",
+              "time": "1:05 PM",
+              "data_id": "0x8644b41c72567dab:0x8a52d431d6487191"
+            },
+            {
+              "name": "6000 Riverside/Clubview",
+              "stop_id": "951",
+              "time": "1:06 PM",
+              "data_id": "0x8644b419872aac6d:0x5272336ed1aec4b3"
+            },
+            {
+              "name": "5902 Riverside/Grove",
+              "stop_id": "5728",
+              "time": "1:06 PM",
+              "data_id": "0x8644b419ee95b435:0x90b35f0b2f53ef1d"
+            },
+            {
+              "name": "Riverside/Faro",
+              "stop_id": "1018",
+              "time": "1:08 PM",
+              "data_id": "0x8644b4164398b80d:0x1140a0112a385649"
+            },
+            {
+              "name": "4823 Riverside/Crossing Place",
+              "stop_id": "1021",
+              "time": "1:09 PM",
+              "data_id": "0x8644b43fd0bd159f:0xd99cf07546e0d779"
+            },
+            {
+              "name": "4522 Riverside/Wickersham",
+              "stop_id": "6367",
+              "time": "1:10 PM",
+              "data_id": "0x8644b44012bf4dbf:0x89be4b05b3575529"
+            },
+            {
+              "name": "1971 Riverside /Pleasant Valley (WB)",
+              "stop_id": "6442",
+              "time": "1:11 PM",
+              "data_id": "0x8644b44105a2d62b:0x2ec841eb838d10f7"
+            },
+            {
+              "name": "Riverside/Willow Creek",
+              "stop_id": "1030",
+              "time": "1:12 PM",
+              "data_id": "0x8644b4441f3d46f1:0xa221af933cca186a"
+            },
+            {
+              "name": "Riverside/Town Creek",
+              "stop_id": "1032",
+              "time": "1:14 PM",
+              "data_id": "0x8644b4459900fb05:0xd0922f0404d26a52"
+            },
+            {
+              "name": "1770 Riverside/Shore District",
+              "stop_id": "6443",
+              "time": "1:15 PM",
+              "data_id": "0x8644b44feaa9e121:0xd0b65ac39f96934a"
+            },
+            {
+              "name": "1600 Riverside/Summit",
+              "stop_id": "1034",
+              "time": "1:16 PM",
+              "data_id": "0x8644b451ea673dc7:0xdf028f1994554b8a"
+            },
+            {
+              "name": "1000 East Riverside/Travis Heights",
+              "stop_id": "1246",
+              "time": "1:18 PM",
+              "data_id": "0x8644b45451595531:0x2732c6406809bd64"
+            },
+            {
+              "name": "504 Riverside/Newning",
+              "stop_id": "4024",
+              "time": "1:19 PM",
+              "data_id": "0x8644b5001fe9e4b9:0x2f85f72d94cd86bc"
+            },
+            {
+              "name": "150 Riverside/Congress",
+              "stop_id": "1249",
+              "time": "1:21 PM",
+              "data_id": "0x8644b5010bcef057:0x6907542b89870119"
+            }
+          ],
+          "service_run_by": {
+            "name": "Capital Metro",
+            "link": "http://www.capmetro.org/",
+            "route_information": "http://www.capmetro.org/current_schedules/pdf/020.pdf"
+          }
+        },
+        {
+          "travel_mode": "Transit",
+          "title": "801 Tech Ridge Park & Ride NB",
+          "duration": 1451,
+          "formatted_duration": "24 min",
+          "start_stop": {
+            "name": "Vic Mathias/Auditorium Shores (NB)",
+            "stop_id": "2767",
+            "time": "1:38 PM",
+            "data_id": "0x8644b50468dc089b:0xe538290c1b432609"
+          },
+          "end_stop": {
+            "name": "North Loop East Rapid Station (NB)",
+            "stop_id": "612",
+            "time": "2:02 PM",
+            "data_id": "0x8644ca68392c5cfd:0x502891f41f80d1cd"
+          },
+          "stops": [
+            {
+              "name": "Republic Square Station (NB)",
+              "stop_id": "5868",
+              "time": "1:40 PM",
+              "data_id": "0x8644b508c37bdb85:0xc78e875dbe69f8d8"
+            },
+            {
+              "name": "Austin History Center",
+              "stop_id": "2606",
+              "time": "1:43 PM",
+              "data_id": "0x8644b50bd358ff1d:0x1795bcf1bd51e0ca"
+            },
+            {
+              "name": "Capitol Station (NB)",
+              "stop_id": "591",
+              "time": "1:45 PM",
+              "data_id": "0x8644b50ab3cfecfb:0x4ee92129f3a12f34"
+            },
+            {
+              "name": "Museum Station (NB)",
+              "stop_id": "4657",
+              "time": "1:47 PM",
+              "data_id": "0x8644b59e2ef30f45:0xa4b067c63e285166"
+            },
+            {
+              "name": "UT West Mall Station (NB)",
+              "stop_id": "5865",
+              "time": "1:50 PM",
+              "data_id": "0x8644b59d5f99aab5:0xb52694bb3de5009e"
+            },
+            {
+              "name": "UT Dean Keeton",
+              "stop_id": "5864",
+              "time": "1:53 PM",
+              "data_id": "0x8644b5829e6e9357:0xa449528ffc4e8b64"
+            },
+            {
+              "name": "31st Street Rapid Station (NB)",
+              "stop_id": "603",
+              "time": "1:54 PM",
+              "data_id": "0x8644b580199d181f:0x83dbf63101a07a3d"
+            },
+            {
+              "name": "Hyde Park Station (NB)",
+              "stop_id": "606",
+              "time": "1:57 PM",
+              "data_id": "0x8644ca7ea58d0c91:0x25aeac9cd9818e1"
+            },
+            {
+              "name": "Triangle Station (NB)",
+              "stop_id": "610",
+              "time": "2:00 PM",
+              "data_id": "0x8644ca65bdde90d9:0xe45ce883ceea4126"
+            }
+          ],
+          "service_run_by": {
+            "name": "Capital Metro",
+            "link": "http://www.capmetro.org/",
+            "route_information": "http://www.capmetro.org/current_schedules/pdf/801.pdf"
+          }
+        },
+        {
+          "travel_mode": "Walking",
+          "title": "Walk",
+          "distance": 464,
+          "duration": 413,
+          "formatted_distance": "0.3 mi",
+          "formatted_duration": "7 min",
+          "details": [
+            {
+              "title": "Head  northeast  on  N Lamar Blvd  toward  Franklin Blvd",
+              "action": "straight",
+              "distance": 152,
+              "duration": 139,
+              "formatted_distance": "499 ft",
+              "formatted_duration": "2 min"
+            },
+            {
+              "title": "Turn  left  toward  Houston St",
+              "action": "turn-left",
+              "distance": 155,
+              "duration": 134,
+              "formatted_distance": "0.1 mi",
+              "formatted_duration": "2 min"
+            },
+            {
+              "title": "Turn  left  onto  Houston St",
+              "action": "turn-left",
+              "distance": 32,
+              "duration": 32,
+              "formatted_distance": "105 ft",
+              "formatted_duration": "32 sec"
+            },
+            {
+              "title": "Turn  right",
+              "action": "turn-right",
+              "distance": 125,
+              "duration": 108,
+              "formatted_distance": "410 ft",
+              "formatted_duration": "2 min",
+              "extensions": ["Destination will be on the left"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "travel_mode": "Flight",
+      "flight": {
+        "departure": "Federal Territory of Kuala Lumpur, Malaysia",
+        "arrival": "Shanghai, China",
+        "date": "Nov 24 - 28",
+        "round_trip_price": 232.98,
+        "currency": "USD",
+        "airlines": ["Philippine Airlines", "China Southern", "China Eastern"],
+        "nonstop_duration": 18600,
+        "formatted_nonstop_duration": "5 hr 10 min",
+        "connecting_duration": 26400,
+        "formatted_connecting_duration": "7 hr 20 min",
+        "google_flights_link": "https://www.google.com/travel/flights?tfs=CAcQAhooEgoyMDIzLTExLTI0agwIAhIIL20vMDQ5ZDFyDAgCEggvbS8wNndqZhooEgoyMDIzLTExLTI4agwIAhIIL20vMDZ3amZyDAgCEggvbS8wNDlkMQ&source=maps&hl=en&authuser=0"
+      }
+    },
+    {
+      "travel_mode": "Driving",
+      "via": "183 Toll",
+      "distance": 21397,
+      "duration": 993,
+      "arrive_around": 1698248619,
+      "typical_duration_range": "15–18 min",
+      "formatted_distance": "13.3 miles",
+      "formatted_duration": "17 min",
+      "formatted_arrive_around": "10:43 AM",
+      "extensions": [
+        "Fastest route now due to traffic conditions",
+        "This route has tolls."
+      ],
+      "trips": []
+    },
+    {
+      "travel_mode": "Driving",
+      "via": "Airport Blvd",
+      "distance": 15793,
+      "duration": 1077,
+      "arrive_around": 1698248851,
+      "typical_duration_range": "16–20 min",
+      "formatted_distance": "9.8 miles",
+      "formatted_duration": "18 min",
+      "formatted_arrive_around": "10:47 AM",
+      "extensions": ["This route has tolls."],
+      "trips": []
+    }
+  ],
+  "durations": [
+    {
+      "travel_mode": "Driving",
+      "duration": 1077,
+      "formatted_duration": "18 min"
+    },
+    {
+      "travel_mode": "Transit",
+      "duration": 4620,
+      "formatted_duration": "1 hr 17"
+    },
+    {
+      "travel_mode": "Walking",
+      "duration": 14547,
+      "formatted_duration": "4 hr 2"
+    },
+    {
+      "travel_mode": "Cycling",
+      "duration": 3598,
+      "formatted_duration": "1 hr"
+    }
+  ]
+}

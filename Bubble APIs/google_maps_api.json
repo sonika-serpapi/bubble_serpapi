@@ -1,0 +1,1965 @@
+{
+  "search_metadata": {
+    "id": "6762c7c5eed6a0aef0f85e68",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/53320174786cd14f/6762c7c5eed6a0aef0f85e68.json",
+    "created_at": "2024-12-18 13:01:57 UTC",
+    "processed_at": "2024-12-18 13:01:57 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/Coffee/@40.7455096,-74.0083012,14z?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/53320174786cd14f/6762c7c5eed6a0aef0f85e68.html",
+    "total_time_taken": 5.01
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "Coffee",
+    "ll": "@40.7455096,-74.0083012,14z",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "Coffee"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "title": "Lucky Detroit Coffee Roasters & Espresso",
+      "place_id": "ChIJQ0EGD3THJIgR7MhD8lFqtGM",
+      "data_id": "0x8824c7740f064143:0x63b46a51f243c8ec",
+      "data_cid": "7184484205752207596",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8824c7740f064143%3A0x63b46a51f243c8ec&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8824c7740f064143%3A0x63b46a51f243c8ec&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 42.519026499999995,
+        "longitude": -83.18791999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQ0EGD3THJIgR7MhD8lFqtGM",
+      "provider_id": "/g/11lmhrng7p",
+      "rating": 4.3,
+      "reviews": 64,
+      "type": "Coffee shop",
+      "types": ["Coffee shop", "Cafe", "Coffee roasters"],
+      "type_id": "coffee_shop",
+      "type_ids": ["coffee_shop", "cafe", "coffee_roasters"],
+      "address": "31105 Woodward Ave, Royal Oak, MI 48073",
+      "open_state": "Open ⋅ Closes 6 PM",
+      "hours": "Open ⋅ Closes 6 PM",
+      "operating_hours": {
+        "wednesday": "7 AM–6 PM",
+        "thursday": "7 AM–6 PM",
+        "friday": "7 AM–6 PM",
+        "saturday": "8 AM–5 PM",
+        "sunday": "8 AM–4 PM",
+        "monday": "7 AM–6 PM",
+        "tuesday": "7 AM–6 PM"
+      },
+      "phone": "(248) 686-6955",
+      "website": "https://www.luckydetroit.com/pages/royal-oak-coffee-shop-coffee-roasters",
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMlzW7LZ1aKT7iN69pElwybMk1312FcJGvotn8o=k-no-"
+    }
+  ],
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Utopia Coffee",
+      "place_id": "ChIJPbM5pcDFJIgRgolWQy4GjWE",
+      "data_id": "0x8824c5c0a539b33d:0x618d062e43568982",
+      "data_cid": "7029281389163219330",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8824c5c0a539b33d%3A0x618d062e43568982&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8824c5c0a539b33d%3A0x618d062e43568982&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 42.562849299999996,
+        "longitude": -83.1641787
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJPbM5pcDFJIgRgolWQy4GjWE",
+      "provider_id": "/g/11w92fpc0d",
+      "rating": 4.9,
+      "reviews": 112,
+      "type": "Coffee shop",
+      "types": ["Coffee shop"],
+      "type_id": "coffee_shop",
+      "type_ids": ["coffee_shop"],
+      "address": "766 W Big Beaver Rd, Troy, MI 48084",
+      "open_state": "Open ⋅ Closes 10 PM",
+      "hours": "Open ⋅ Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "7 AM–10 PM",
+        "thursday": "7 AM–10 PM",
+        "friday": "7 AM–10 PM",
+        "saturday": "9 AM–10 PM",
+        "sunday": "9 AM–9 PM",
+        "monday": "7 AM–10 PM",
+        "tuesday": "7 AM–10 PM"
+      },
+      "phone": "(248) 422-6897",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11w92fpc0d&g2lbs=AOHF13mdVbvDFt90WGluvdk4BPniwQQjeqGliCAtwL7RS2dKc-VOYj-1sY7NMhGFwQ4-2rOvslHuNOMCAZpze-Wv0CswLNDq8Q%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=ycdiZ463G7ei5NoP4qXzyQ0&ei=ycdiZ463G7ei5NoP4qXzyQ0&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPvO7rkfT5beKtN020QYlWaeRHuRpcvfFyFBLtP=w80-h106-k-no"
+    },
+    {
+      "position": 2,
+      "title": "Sabbath Coffee Roasters",
+      "place_id": "ChIJ5Y_mDdTFJIgR1bV6IoLnDtM",
+      "data_id": "0x8824c5d40de68fe5:0xd30ee782227ab5d5",
+      "data_cid": "15208347537786975701",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8824c5d40de68fe5%3A0xd30ee782227ab5d5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8824c5d40de68fe5%3A0xd30ee782227ab5d5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 42.5331914,
+        "longitude": -83.1455115
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5Y_mDdTFJIgR1bV6IoLnDtM",
+      "provider_id": "/g/11mvb4lrr4",
+      "rating": 4.8,
+      "reviews": 362,
+      "type": "Coffee shop",
+      "types": ["Coffee shop"],
+      "type_id": "coffee_shop",
+      "type_ids": ["coffee_shop"],
+      "address": "24 E 14 Mile Rd, Clawson, MI 48017",
+      "open_state": "Open ⋅ Closes 4 PM",
+      "hours": "Open ⋅ Closes 4 PM",
+      "operating_hours": {
+        "wednesday": "7 AM–4 PM",
+        "thursday": "7 AM–4 PM",
+        "friday": "7 AM–4 PM",
+        "saturday": "7 AM–4 PM",
+        "sunday": "7 AM–4 PM",
+        "monday": "7 AM–4 PM",
+        "tuesday": "7 AM–4 PM"
+      },
+      "phone": "(309) 722-2284",
+      "website": "https://sabbathcoffeeroasters.com/",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11mvb4lrr4&g2lbs=AOHF13mCAQSJKiE4prCURjBShdzHdE17H9IkBb_BUwTdftgN_2lXaDOK6lXpYx34j20ymmxurodpLC7JwHFGMrkVpdsfBVJM6g%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=ycdiZ463G7ei5NoP4qXzyQ0&ei=ycdiZ463G7ei5NoP4qXzyQ0&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOmDyDRIIEZftpHLWelm7jkAkG759ZOKfNJ51g3=w137-h92-k-no"
+    },
+    {
+      "position": 3,
+      "title": "% Percent Coffee",
+      "place_id": "ChIJa7VbPrfFJIgRJOynWGc6YPI",
+      "data_id": "0x8824c5b73e5bb56b:0xf2603a6758a7ec24",
+      "data_cid": "17465023570486225956",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8824c5b73e5bb56b%3A0xf2603a6758a7ec24&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8824c5b73e5bb56b%3A0xf2603a6758a7ec24&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 42.548257899999996,
+        "longitude": -83.131751
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJa7VbPrfFJIgRJOynWGc6YPI",
+      "provider_id": "/g/11vwkn4_k6",
+      "rating": 4.7,
+      "reviews": 319,
+      "type": "Cafe",
+      "types": ["Cafe"],
+      "type_id": "cafe",
+      "type_ids": ["cafe"],
+      "address": "1010 E Maple Rd, Troy, MI 48083",
+      "open_state": "Open ⋅ Closes 10 PM",
+      "hours": "Open ⋅ Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "7 AM–10 PM",
+        "thursday": "7 AM–10 PM",
+        "friday": "7 AM–10 PM",
+        "saturday": "7 AM–10 PM",
+        "sunday": "7 AM–10 PM",
+        "monday": "7 AM–10 PM",
+        "tuesday": "7 AM–10 PM"
+      },
+      "phone": "(313) 623-0823",
+      "website": "https://www.percent-coffee.com/",
+      "service_options": {
+        "dine_in": true,
+        "drive_through": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11vwkn4_k6&g2lbs=AOHF13kQZrbzLWq4XDUKu1pWjpVaiyZfSBnkq5IxYMlBLjNqMUoStVaXGSyLwKtfo7oSvBHbjCQswsdcia9ovIH0SGYJ-uxxAQ%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=ycdiZ463G7ei5NoP4qXzyQ0&ei=ycdiZ463G7ei5NoP4qXzyQ0&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGaBHPHokLSZtJlj8lTkrGpCpVX549VfJVZ8kSCp_ZzQrZkvYDTihvfhfskRPE4xEixv4SmEq2yg1K9LV-GuxpDNVTZ4Y4KuHYXxP26HHhB79eLrEkAC2R_MJ4nhxewK5W80-r8ldA22VjwlBa6r2-7vIxq2tDZ3iGejSZzhgBb7ktCByOKzJ5zjA=w122-h92-k-no"
+    },
+    {
+      "position": 4,
+      "title": "Liberty Cafe",
+      "place_id": "ChIJ55TJOxbEJIgRGc_Lu3UR4UY",
+      "data_id": "0x8824c4163bc994e7:0x46e11175bbcbcf19",
+      "data_cid": "5107382649774395161",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8824c4163bc994e7%3A0x46e11175bbcbcf19&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8824c4163bc994e7%3A0x46e11175bbcbcf19&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 42.562936,
+        "longitude": -83.15013499999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ55TJOxbEJIgRGc_Lu3UR4UY",
+      "provider_id": "/g/1tf7ybkn",
+      "rating": 4.4,
+      "reviews": 14,
+      "price": "$",
+      "unclaimed_listing": true,
+      "type": "Cafe",
+      "types": ["Cafe", "Restaurant"],
+      "type_id": "cafe",
+      "type_ids": ["cafe", "restaurant"],
+      "address": "100 W Big Beaver Rd #182, Troy, MI 48084",
+      "open_state": "Open ⋅ Closes 3 PM",
+      "hours": "Open ⋅ Closes 3 PM",
+      "operating_hours": {
+        "wednesday": "7 AM–3 PM",
+        "thursday": "7 AM–3 PM",
+        "friday": "7 AM–3 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7 AM–3 PM",
+        "tuesday": "7 AM–3 PM"
+      },
+      "phone": "(248) 740-0863",
+      "website": "http://www.libertycentertroy.com/",
+      "description": "Simple setup for breakfast & lunch items. Laid-back eatery offering standard American eats for breakfast& lunch, plus snack options.",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "user_review": "On the menu: coffee",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO-7o9bml4YYm-4dooIflunZ9Rjw3VEFcMqqyEg=w163-h92-k-no"
+    },
+    {
+      "position": 5,
+      "title": "Starbucks",
+      "place_id": "ChIJdaW-ioHGJIgRSfXk4j0HjFE",
+      "data_id": "0x8824c6818abea575:0x518c073de2e4f549",
+      "data_cid": "5876079576192709961",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8824c6818abea575%3A0x518c073de2e4f549&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8824c6818abea575%3A0x518c073de2e4f549&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 42.5483773,
+        "longitude": -83.1673951
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdaW-ioHGJIgRSfXk4j0HjFE",
+      "provider_id": "/g/1tj2p25p",
+      "rating": 4,
+      "reviews": 646,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop",
+        "Breakfast restaurant",
+        "Cafe",
+        "Coffee store",
+        "Espresso bar",
+        "Internet cafe"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop",
+        "breakfast_restaurant",
+        "cafe",
+        "coffee_store",
+        "espresso_bar",
+        "internet_cafe"
+      ],
+      "address": "1470 W Maple Rd, Troy, MI 48084",
+      "open_state": "Open ⋅ Closes 8:30 PM",
+      "hours": "Open ⋅ Closes 8:30 PM",
+      "operating_hours": {
+        "wednesday": "4:30 AM–8:30 PM",
+        "thursday": "4:30 AM–8:30 PM",
+        "friday": "4:30 AM–8:30 PM",
+        "saturday": "5 AM–8:30 PM",
+        "sunday": "5 AM–8:30 PM",
+        "monday": "4:30 AM–8:30 PM",
+        "tuesday": "4:30 AM–5 PM"
+      },
+      "phone": "(248) 822-7106",
+      "website": "https://www.starbucks.com/store-locator/store/17335/",
+      "description": "Iconic Seattle-based coffeehouse chain. Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",
+      "service_options": {
+        "dine_in": true,
+        "drive_through": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/1tj2p25p&g2lbs=AOHF13mQa1ZOK7lRdoZt53wAmMoqvlPUT_L8hUixot40BU9gHJ42Ty_8QWKl1Re37UXLhaa51J_TtDJntNhnOhsvVtmHzWQ4VA%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=ycdiZ463G7ei5NoP4qXzyQ0&ei=ycdiZ463G7ei5NoP4qXzyQ0&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNr86Fsw2Fgiq11nFotLCZa9qw3t2X1CMBRryXb=w92-h92-k-no"
+    },
+    {
+      "position": 6,
+      "title": "Link Cafe",
+      "place_id": "ChIJq6p67D3EJIgR-gMLfLUcFOk",
+      "data_id": "0x8824c43dec7aaaab:0xe9141cb57c0b03fa",
+      "data_cid": "16795080476167177210",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8824c43dec7aaaab%3A0xe9141cb57c0b03fa&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8824c43dec7aaaab%3A0xe9141cb57c0b03fa&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 42.5608074,
+        "longitude": -83.14994949999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq6p67D3EJIgR-gMLfLUcFOk",
+      "provider_id": "/g/11f63x6zd_",
+      "rating": 4,
+      "reviews": 4,
+      "unclaimed_listing": true,
+      "type": "Cafe",
+      "types": ["Cafe"],
+      "type_id": "cafe",
+      "type_ids": ["cafe"],
+      "address": "101 W Big Beaver Rd, Troy, MI 48084",
+      "open_state": "Open ⋅ Closes 4 PM",
+      "hours": "Open ⋅ Closes 4 PM",
+      "operating_hours": {
+        "wednesday": "7:30 AM–4 PM",
+        "thursday": "7:30 AM–4 PM",
+        "friday": "7:30 AM–4 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7:30 AM–4 PM",
+        "tuesday": "7:30 AM–4 PM"
+      },
+      "phone": "(248) 817-5850",
+      "website": "https://columbiacentertroy.com/link-cafe/",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "user_review": "On the menu: coffee",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPpiTFZi9nDZWgUtviZjwEAKpm4K7MuLxI1lDZv=w80-h106-k-no"
+    },
+    {
+      "position": 7,
+      "title": "BIGGBY COFFEE Clawson",
+      "place_id": "ChIJfw1SH8jFJIgRiaT_wZYSyiU",
+      "data_id": "0x8824c5c81f520d7f:0x25ca1296c1ffa489",
+      "data_cid": "2723009363408037001",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8824c5c81f520d7f%3A0x25ca1296c1ffa489&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8824c5c81f520d7f%3A0x25ca1296c1ffa489&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 42.5331214,
+        "longitude": -83.143766
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfw1SH8jFJIgRiaT_wZYSyiU",
+      "provider_id": "/g/11b809pc2x",
+      "rating": 4.4,
+      "reviews": 309,
+      "type": "Coffee shop",
+      "types": ["Coffee shop"],
+      "type_id": "coffee_shop",
+      "type_ids": ["coffee_shop"],
+      "address": "208 E 14 Mile Rd, Clawson, MI 48017",
+      "open_state": "Open ⋅ Closes 8 PM",
+      "hours": "Open ⋅ Closes 8 PM",
+      "operating_hours": {
+        "wednesday": "6 AM–8 PM",
+        "thursday": "6 AM–8 PM",
+        "friday": "6 AM–8 PM",
+        "saturday": "6 AM–8 PM",
+        "sunday": "7 AM–8 PM",
+        "monday": "6 AM–8 PM",
+        "tuesday": "6 AM–6 PM"
+      },
+      "phone": "(248) 632-1227",
+      "website": "https://www.biggby.com/",
+      "description": "Coffeehouse chain with light bites. Cheery regional coffeehouse chain serving specialty drinks, smoothies & baked goods.",
+      "service_options": {
+        "dine_in": true,
+        "drive_through": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11b809pc2x&g2lbs=AOHF13mMTvIgAwmpNlfmy2PDFuizoOnrIsWzbt3bOTIfa3GgTiGtuQ5B8iCiTt1cMr07MdF-50C-IwVoFDoAccwtlky99TldKw%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=ycdiZ463G7ei5NoP4qXzyQ0&ei=ycdiZ463G7ei5NoP4qXzyQ0&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMLidbiDVTTPCSleiU5XiI04sSh8AzkNeZNuPPd=w80-h142-k-no"
+    },
+    {
+      "position": 8,
+      "title": "Atomic Coffee",
+      "place_id": "ChIJ8blo70HPJIgRIgQ6PYDIPS8",
+      "data_id": "0x8824cf41ef68b9f1:0x2f3dc8803d3a0422",
+      "data_cid": "3404097346470544418",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8824cf41ef68b9f1%3A0x2f3dc8803d3a0422&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8824cf41ef68b9f1%3A0x2f3dc8803d3a0422&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 42.487093,
+        "longitude": -83.1437954
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8blo70HPJIgRIgQ6PYDIPS8",
+      "provider_id": "/g/11bw4j986h",
+      "rating": 4.4,
+      "reviews": 1473,
+      "type": "Coffee shop",
+      "types": ["Coffee shop"],
+      "type_id": "coffee_shop",
+      "type_ids": ["coffee_shop"],
+      "address": "401 S Main St, Royal Oak, MI 48067",
+      "open_state": "Open ⋅ Closes 10 PM",
+      "hours": "Open ⋅ Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "7 AM–10 PM",
+        "thursday": "7 AM–10 PM",
+        "friday": "7 AM–10 PM",
+        "saturday": "7 AM–10 PM",
+        "sunday": "7 AM–10 PM",
+        "monday": "7 AM–10 PM",
+        "tuesday": "7 AM–10 PM"
+      },
+      "phone": "(248) 397-8036",
+      "website": "http://atomiccoffee.net/",
+      "description": "Espresso & light fare in a stylish space. Popular coffee shop featuring espresso drinks, pastries & sandwiches in a bright, modern interior.",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO708SaAN8CUUoLf0y5FCYOCqxmmLEiZOzfavZn=w80-h106-k-no"
+    },
+    {
+      "position": 9,
+      "title": "The Office Coffee Shop",
+      "place_id": "ChIJl8zaOUHPJIgRB8STVFeoap4",
+      "data_id": "0x8824cf4139dacc97:0x9e6aa8575493c407",
+      "data_cid": "11415121298558534663",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8824cf4139dacc97%3A0x9e6aa8575493c407&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8824cf4139dacc97%3A0x9e6aa8575493c407&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 42.486923499999996,
+        "longitude": -83.1481206
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJl8zaOUHPJIgRB8STVFeoap4",
+      "provider_id": "/g/11c3k2z4zf",
+      "rating": 4.6,
+      "reviews": 572,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop",
+        "Bagel shop",
+        "Cafe",
+        "Conference center",
+        "Coworking space"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop",
+        "bagel_shop",
+        "cafe",
+        "conference_center",
+        "coworking_space"
+      ],
+      "address": "402 S Lafayette Ave, Royal Oak, MI 48067",
+      "open_state": "Open ⋅ Closes 8 PM",
+      "hours": "Open ⋅ Closes 8 PM",
+      "operating_hours": {
+        "wednesday": "7 AM–8 PM",
+        "thursday": "7 AM–8 PM",
+        "friday": "7 AM–8 PM",
+        "saturday": "8 AM–7 PM",
+        "sunday": "9 AM–6 PM",
+        "monday": "7 AM–6:30 PM",
+        "tuesday": "7 AM–8 PM"
+      },
+      "phone": "(248) 268-9100",
+      "website": "http://theofficecoffeeshop.com/",
+      "description": "Co-working space & a coffeehouse. Airy coffee bar offering Wi-Fi & cafe fare, plus a co-working space with conference rooms.",
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11c3k2z4zf&g2lbs=AOHF13md0eLu1aZo_btLw99QZsjn2672F5X9rIubYfOPFRiQllW_RQoEaE8SZjMDEJBPduN7Zv3JIFXgQtxg5olzDkUWWOUrDw%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=ycdiZ463G7ei5NoP4qXzyQ0&ei=ycdiZ463G7ei5NoP4qXzyQ0&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOLEv5yXlE7Qum5wk_2IbwZhe_wb1W2meDN7Ezo=w80-h106-k-no"
+    },
+    {
+      "position": 10,
+      "title": "Starbucks",
+      "place_id": "ChIJgW1B85TGJIgR34hFA5hmMC4",
+      "data_id": "0x8824c694f3416d81:0x2e306698034588df",
+      "data_cid": "3328272927702747359",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8824c694f3416d81%3A0x2e306698034588df&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8824c694f3416d81%3A0x2e306698034588df&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 42.562646799999996,
+        "longitude": -83.1823544
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgW1B85TGJIgR34hFA5hmMC4",
+      "provider_id": "/g/1td4f54w",
+      "rating": 3.9,
+      "reviews": 641,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop",
+        "Breakfast restaurant",
+        "Cafe",
+        "Coffee store",
+        "Espresso bar",
+        "Internet cafe"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop",
+        "breakfast_restaurant",
+        "cafe",
+        "coffee_store",
+        "espresso_bar",
+        "internet_cafe"
+      ],
+      "address": "2800 West Big Beaver Road Somerset, North Mall, Troy, MI 48084",
+      "open_state": "Open ⋅ Closes 9 PM",
+      "hours": "Open ⋅ Closes 9 PM",
+      "operating_hours": {
+        "wednesday": "7 AM–9 PM",
+        "thursday": "7 AM–9 PM",
+        "friday": "7 AM–9 PM",
+        "saturday": "8 AM–9 PM",
+        "sunday": "10 AM–7 PM",
+        "monday": "7 AM–9 PM",
+        "tuesday": "7 AM–6 PM"
+      },
+      "phone": "(248) 649-5040",
+      "website": "https://www.starbucks.com/store-locator/store/12014/",
+      "description": "Iconic Seattle-based coffeehouse chain. Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",
+      "service_options": {
+        "dine_in": true,
+        "drive_through": true,
+        "delivery": false
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/1td4f54w&g2lbs=AOHF13ni8E2sUjdGdANKZLxwE__lRj_gmyJP_N6eoNkXZQ-7H7IbeChj-JEHYdg6rSGT7zwt0fb-s29qpHszjXldt-z9Bb0LkQ%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=ycdiZ463G7ei5NoP4qXzyQ0&ei=ycdiZ463G7ei5NoP4qXzyQ0&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNofYWlC4Vtz9PkHCfJliWLJqViLWsabjREUhgc=w80-h142-k-no"
+    },
+    {
+      "position": 11,
+      "title": "Tim Hortons",
+      "place_id": "ChIJyWi5gGnEJIgRFZqH-ZO-ttM",
+      "data_id": "0x8824c46980b968c9:0xd3b6be93f9879a15",
+      "data_cid": "15255590330520017429",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8824c46980b968c9%3A0xd3b6be93f9879a15&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8824c46980b968c9%3A0xd3b6be93f9879a15&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 42.563290099999996,
+        "longitude": -83.13806699999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJyWi5gGnEJIgRFZqH-ZO-ttM",
+      "provider_id": "/g/1hm20qd4p",
+      "rating": 3.8,
+      "reviews": 524,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop",
+        "Bakery",
+        "Breakfast restaurant",
+        "Cafe",
+        "Donut shop",
+        "Fast food restaurant"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop",
+        "bakery",
+        "breakfast_restaurant",
+        "cafe",
+        "donut_shop",
+        "fast_food_restaurant"
+      ],
+      "address": "507 E Big Beaver Rd, Troy, MI 48083",
+      "open_state": "Open ⋅ Closes 8 PM",
+      "hours": "Open ⋅ Closes 8 PM",
+      "operating_hours": {
+        "wednesday": "4 AM–8 PM",
+        "thursday": "4 AM–8 PM",
+        "friday": "4 AM–8 PM",
+        "saturday": "4:30 AM–8 PM",
+        "sunday": "4:30 AM–8 PM",
+        "monday": "4 AM–8 PM",
+        "tuesday": "4 AM–8 PM"
+      },
+      "phone": "(248) 524-3100",
+      "website": "https://locations.timhortons.com/en/mi/troy/507-e-big-beaver-rd/",
+      "description": "Coffee chain serving snacks & light fare. Canadian chain for signature premium-blend coffee, plus light fare, pastries & breakfast sandwiches.",
+      "service_options": {
+        "dine_in": true,
+        "drive_through": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/1hm20qd4p&g2lbs=AOHF13lyV_iP7C4WCddbaKq8YyIhwJEIK9SFLOFQiMK6cecIMIOovTqFoj0ZeNGuF9E0gQ73j6LYwxJ8D7DGbo_laplGB3fQnA%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=ycdiZ463G7ei5NoP4qXzyQ0&ei=ycdiZ463G7ei5NoP4qXzyQ0&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNLVby271Ylz7KJF5eYqk2xy_4Sz9oIAmKceucg=w80-h106-k-no"
+    },
+    {
+      "position": 12,
+      "title": "Coffeehaus",
+      "place_id": "ChIJ9VOyr3DHJIgRV5_8Ekww-og",
+      "data_id": "0x8824c770afb253f5:0x88fa304c12fc9f57",
+      "data_cid": "9870254636630056791",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8824c770afb253f5%3A0x88fa304c12fc9f57&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8824c770afb253f5%3A0x88fa304c12fc9f57&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 42.5597229,
+        "longitude": -83.1838477
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9VOyr3DHJIgRV5_8Ekww-og",
+      "provider_id": "/g/11kprswlv4",
+      "rating": 4.7,
+      "reviews": 165,
+      "type": "Coffee shop",
+      "types": ["Coffee shop"],
+      "type_id": "coffee_shop",
+      "type_ids": ["coffee_shop"],
+      "address": "2800 W Big Beaver Rd, Troy, MI 48084",
+      "open_state": "Closed ⋅ Opens 9 AM",
+      "hours": "Closed ⋅ Opens 9 AM",
+      "operating_hours": {
+        "wednesday": "9 AM–8 PM",
+        "thursday": "9 AM–8 PM",
+        "friday": "9 AM–8 PM",
+        "saturday": "9 AM–8 PM",
+        "sunday": "12–6 PM",
+        "monday": "9 AM–8 PM",
+        "tuesday": "9 AM–8 PM"
+      },
+      "phone": "(313) 815-7678",
+      "website": "http://coffeeha.us/",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+      },
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM31bTRG7XGpv0S1_nMhznzXwqLtngOzm9FPFhZ=w80-h141-k-no"
+    },
+    {
+      "position": 13,
+      "title": "Coffee First Cafe & Bake Shoppe",
+      "place_id": "ChIJ66eCjfndJIgRGwQ38tDXTO8",
+      "data_id": "0x8824ddf98d82a7eb:0xef4cd7d0f237041b",
+      "data_cid": "17243394365711647771",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8824ddf98d82a7eb%3A0xef4cd7d0f237041b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8824ddf98d82a7eb%3A0xef4cd7d0f237041b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 42.576638599999995,
+        "longitude": -83.0111901
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ66eCjfndJIgRGwQ38tDXTO8",
+      "provider_id": "/g/11h60fdpyw",
+      "rating": 4.9,
+      "reviews": 254,
+      "type": "Coffee shop",
+      "types": ["Coffee shop"],
+      "type_id": "coffee_shop",
+      "type_ids": ["coffee_shop"],
+      "address": "38373 Dodge Park Rd, Sterling Heights, MI 48313",
+      "open_state": "Open ⋅ Closes 2 PM",
+      "hours": "Open ⋅ Closes 2 PM",
+      "operating_hours": {
+        "wednesday": "6 AM–2 PM",
+        "thursday": "6 AM–2 PM",
+        "friday": "6 AM–2 PM",
+        "saturday": "8 AM–2 PM",
+        "sunday": "8 AM–2 PM",
+        "monday": "6 AM–2 PM",
+        "tuesday": "6 AM–2 PM"
+      },
+      "phone": "(586) 838-5353",
+      "website": "https://facebook.com/coffee1stcafe/",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11h60fdpyw&g2lbs=AOHF13mKVKAeQ9fkWo2C3E0IOpaw88yhDmxwzUZB6Ad-TnBVwWWOxNBYmfeGnTxeRnmpWEhzVI60bsRx3moYRxGe2rLyCAYqRg%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=ycdiZ463G7ei5NoP4qXzyQ0&ei=ycdiZ463G7ei5NoP4qXzyQ0&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOfkvw0I84NRcJ4QbdPjArvxKOuToV1wQ45W649=w122-h92-k-no"
+    },
+    {
+      "position": 14,
+      "title": "Starbucks",
+      "place_id": "ChIJCQeGUBvFJIgRRS-rxuD0lYE",
+      "data_id": "0x8824c51b50860709:0x8195f4e0c6ab2f45",
+      "data_cid": "9337638648665550661",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8824c51b50860709%3A0x8195f4e0c6ab2f45&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8824c51b50860709%3A0x8195f4e0c6ab2f45&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 42.5345028,
+        "longitude": -83.11065119999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCQeGUBvFJIgRRS-rxuD0lYE",
+      "provider_id": "/g/11bw66wkr6",
+      "rating": 4.1,
+      "reviews": 540,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop",
+        "Breakfast restaurant",
+        "Cafe",
+        "Coffee store",
+        "Espresso bar",
+        "Internet cafe"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop",
+        "breakfast_restaurant",
+        "cafe",
+        "coffee_store",
+        "espresso_bar",
+        "internet_cafe"
+      ],
+      "address": "398 W 14 Mile Rd, Troy, MI 48083",
+      "open_state": "Open ⋅ Closes 8 PM",
+      "hours": "Open ⋅ Closes 8 PM",
+      "operating_hours": {
+        "wednesday": "5:30 AM–8 PM",
+        "thursday": "5:30 AM–8 PM",
+        "friday": "5:30 AM–8 PM",
+        "saturday": "6 AM–8 PM",
+        "sunday": "6 AM–8 PM",
+        "monday": "5:30 AM–8 PM",
+        "tuesday": "5:30 AM–7 PM"
+      },
+      "phone": "(248) 589-2090",
+      "website": "https://www.starbucks.com/store-locator/store/1006251/",
+      "description": "Iconic Seattle-based coffeehouse chain. Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",
+      "service_options": {
+        "dine_in": true,
+        "drive_through": true,
+        "delivery": false
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11bw66wkr6&g2lbs=AOHF13nKRVZy_-C1qjuU0n_O8n8p8l-t1Tv8O3nd_BSJZCLPNhLPg6BVa2vGNYcZgqhWdTZzhsHWqh8bnBB7Cp5VVgefHjuCEA%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=ycdiZ463G7ei5NoP4qXzyQ0&ei=ycdiZ463G7ei5NoP4qXzyQ0&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMtG66DvW_4MFOKfwqmML_226GeOHflDFrGcEAE=w92-h92-k-no"
+    },
+    {
+      "position": 15,
+      "title": "Starbucks",
+      "place_id": "ChIJ--rKjJHEJIgRpW5dmcIRToY",
+      "data_id": "0x8824c4918ccaeafb:0x864e11c2995d6ea5",
+      "data_cid": "9677692176760139429",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8824c4918ccaeafb%3A0x864e11c2995d6ea5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8824c4918ccaeafb%3A0x864e11c2995d6ea5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 42.5646667,
+        "longitude": -83.1098095
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ--rKjJHEJIgRpW5dmcIRToY",
+      "provider_id": "/g/1tcv21mr",
+      "rating": 4.4,
+      "reviews": 357,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop",
+        "Breakfast restaurant",
+        "Cafe",
+        "Coffee store",
+        "Espresso bar",
+        "Internet cafe"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop",
+        "breakfast_restaurant",
+        "cafe",
+        "coffee_store",
+        "espresso_bar",
+        "internet_cafe"
+      ],
+      "address": "1921 E Big Beaver Rd, Troy, MI 48083",
+      "open_state": "Open ⋅ Closes 8 PM",
+      "hours": "Open ⋅ Closes 8 PM",
+      "operating_hours": {
+        "wednesday": "5 AM–8 PM",
+        "thursday": "5 AM–8 PM",
+        "friday": "5 AM–8 PM",
+        "saturday": "6 AM–8 PM",
+        "sunday": "6 AM–7:30 PM",
+        "monday": "5 AM–8 PM",
+        "tuesday": "5 AM–5 PM"
+      },
+      "phone": "(248) 689-8184",
+      "website": "https://www.starbucks.com/store-locator/store/11747/",
+      "description": "Iconic Seattle-based coffeehouse chain. Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/1tcv21mr&g2lbs=AOHF13mEnJ7JLH59nc7mi0mXHFUs182JK3sbVKwChu1-ijDMwf15Hm0W8WNF9daMB0FM7TqBK77E-f53zLctJcKIK70c_lc9Ow%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=ycdiZ463G7ei5NoP4qXzyQ0&ei=ycdiZ463G7ei5NoP4qXzyQ0&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO3JNohUOXLotsTGkrEpktOPpjOFaw_k0wTkamu=w92-h92-k-no"
+    },
+    {
+      "position": 16,
+      "title": "Biggby Coffee Troy",
+      "place_id": "ChIJtc31bpzDJIgRDErmtaNGLo0",
+      "data_id": "0x8824c39c6ef5cdb5:0x8d2e46a3b5e64a0c",
+      "data_cid": "10173146277221911052",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8824c39c6ef5cdb5%3A0x8d2e46a3b5e64a0c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8824c39c6ef5cdb5%3A0x8d2e46a3b5e64a0c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 42.5926064,
+        "longitude": -83.1274985
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtc31bpzDJIgRDErmtaNGLo0",
+      "provider_id": "/g/11b6hq45mt",
+      "rating": 4.2,
+      "reviews": 260,
+      "type": "Coffee shop",
+      "types": ["Coffee shop"],
+      "type_id": "coffee_shop",
+      "type_ids": ["coffee_shop"],
+      "address": "1057 E Long Lake Rd Suite: A, Troy, MI 48085",
+      "open_state": "Open ⋅ Closes 8 PM",
+      "hours": "Open ⋅ Closes 8 PM",
+      "operating_hours": {
+        "wednesday": "6 AM–8 PM",
+        "thursday": "6 AM–8 PM",
+        "friday": "6 AM–8 PM",
+        "saturday": "6 AM–8 PM",
+        "sunday": "7 AM–6 PM",
+        "monday": "6 AM–8 PM",
+        "tuesday": "6 AM–8 PM"
+      },
+      "phone": "(248) 729-7026",
+      "website": "https://www.biggby.com/",
+      "description": "Coffeehouse chain with light bites. Cheery regional coffeehouse chain serving specialty drinks, smoothies & baked goods.",
+      "service_options": {
+        "dine_in": true,
+        "drive_through": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11b6hq45mt&g2lbs=AOHF13naxBtyXVfcpauwHvtpplTQUemKupaPNvCIfwtSrHC6JPi96RGuFMEdBmiiwFtQxiEFzNBTzlDl8dY8wXKPMRvI8daKgQ%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=ycdiZ463G7ei5NoP4qXzyQ0&ei=ycdiZ463G7ei5NoP4qXzyQ0&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNQzeilNjh8oGPLIVrpJH1wtt_TCaUb9w633X_1=w153-h92-k-no"
+    },
+    {
+      "position": 17,
+      "title": "Coffee Beanery Troy, MI",
+      "place_id": "ChIJpQexoBzBJIgRWIBeHh2EJgs",
+      "data_id": "0x8824c11ca0b107a5:0xb26841d1e5e8058",
+      "data_cid": "803474844130639960",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8824c11ca0b107a5%3A0xb26841d1e5e8058&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8824c11ca0b107a5%3A0xb26841d1e5e8058&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 42.5892224,
+        "longitude": -83.17056869999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJpQexoBzBJIgRWIBeHh2EJgs",
+      "provider_id": "/g/11sk56sftp",
+      "rating": 4.2,
+      "reviews": 13,
+      "type": "Coffee store",
+      "types": ["Coffee store"],
+      "type_id": "coffee_store",
+      "type_ids": ["coffee_store"],
+      "address": "4600 Investment Dr #100, Troy, MI 48098",
+      "open_state": "Open ⋅ Closes 4 PM",
+      "hours": "Open ⋅ Closes 4 PM",
+      "operating_hours": {
+        "wednesday": "7:30 AM–4 PM",
+        "thursday": "7:30 AM–4 PM",
+        "friday": "7:30 AM–4 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7:30 AM–4 PM",
+        "tuesday": "7:30 AM–4 PM"
+      },
+      "phone": "(248) 556-3332",
+      "website": "https://order.spoton.com/so-coffee-beanery-troy-mi-696/troy-mi/64138e2cafc3d3003e8c6842",
+      "service_options": {
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPj09rxFtsiIQJ9jtngCXJkgcQ-ZUvVgTyQvv4x=w163-h92-k-no"
+    },
+    {
+      "position": 18,
+      "title": "Starbucks",
+      "place_id": "ChIJxfbwP2fGJIgRJ9cOLvfncOk",
+      "data_id": "0x8824c6673ff0f6c5:0xe970e7f72e0ed727",
+      "data_cid": "16821199657044465447",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8824c6673ff0f6c5%3A0xe970e7f72e0ed727&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8824c6673ff0f6c5%3A0xe970e7f72e0ed727&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 42.545143599999996,
+        "longitude": -83.1902037
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxfbwP2fGJIgRJ9cOLvfncOk",
+      "provider_id": "/g/1tmcmw27",
+      "rating": 3.9,
+      "reviews": 98,
+      "type": "Coffee shop",
+      "types": ["Coffee shop", "Cafe", "Coffee store", "Espresso bar"],
+      "type_id": "coffee_shop",
+      "type_ids": ["coffee_shop", "cafe", "coffee_store", "espresso_bar"],
+      "address": "1301 Coolidge Hwy, Troy, MI 48084",
+      "open_state": "Open ⋅ Closes 8 PM",
+      "hours": "Open ⋅ Closes 8 PM",
+      "operating_hours": {
+        "wednesday": "8 AM–8 PM",
+        "thursday": "8 AM–8 PM",
+        "friday": "8 AM–8 PM",
+        "saturday": "8 AM–8 PM",
+        "sunday": "8 AM–8 PM",
+        "monday": "8 AM–8 PM",
+        "tuesday": "8 AM–8 PM"
+      },
+      "phone": "(248) 614-9792",
+      "website": "https://www.starbucks.com/store-locator/store/114072",
+      "description": "Iconic Seattle-based coffeehouse chain. Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",
+      "service_options": {
+        "dine_in": true,
+        "drive_through": true,
+        "delivery": false
+      },
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOw7EZWDBEF8paQP3usIct11zsZhpRFuxnY5MrK=w80-h106-k-no"
+    },
+    {
+      "position": 19,
+      "title": "Cafe Immortelle",
+      "place_id": "ChIJu-ngJGLDJIgRJ1kdteHU2Fo",
+      "data_id": "0x8824c36224e0e9bb:0x5ad8d4e1b51d5927",
+      "data_cid": "6546216124254345511",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8824c36224e0e9bb%3A0x5ad8d4e1b51d5927&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8824c36224e0e9bb%3A0x5ad8d4e1b51d5927&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 42.5906435,
+        "longitude": -83.14970869999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJu-ngJGLDJIgRJ1kdteHU2Fo",
+      "provider_id": "/g/11hzpkqq91",
+      "rating": 4.9,
+      "reviews": 305,
+      "type": "Cafe",
+      "types": [
+        "Cafe",
+        "Deli",
+        "Espresso bar",
+        "Small plates restaurant",
+        "Tea house"
+      ],
+      "type_id": "cafe",
+      "type_ids": [
+        "cafe",
+        "deli",
+        "espresso_bar",
+        "small_plates_restaurant",
+        "tea_house"
+      ],
+      "address": "4979 Livernois Rd, Troy, MI 48098",
+      "open_state": "Closed ⋅ Opens 10 AM",
+      "hours": "Closed ⋅ Opens 10 AM",
+      "operating_hours": {
+        "wednesday": "10 AM–6 PM",
+        "thursday": "10 AM–6 PM",
+        "friday": "10 AM–6 PM",
+        "saturday": "10 AM–3 PM",
+        "sunday": "10 AM–3 PM",
+        "monday": "10 AM–6 PM",
+        "tuesday": "10 AM–6 PM"
+      },
+      "phone": "(248) 250-9858",
+      "website": "https://cafeimmortelle.square.site/",
+      "service_options": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/11hzpkqq91&g2lbs=AOHF13nFZQ2qc_QUuH0N0TA1TxObd-yeO8Dnsp0BfUylX2PEbg-5K8prVWy_A_2omcHTXFYlqb7of7qM1YLTCF-gbmO_5eNWhg%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=ycdiZ463G7ei5NoP4qXzyQ0&ei=ycdiZ463G7ei5NoP4qXzyQ0&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "user_review": "\"Delicious coffee and a nice low-key ambiance.\"",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMgj4HKq6YyMgdqHtfpHG-zk6KIr1qCmzFyNpYP=w92-h92-k-no"
+    },
+    {
+      "position": 20,
+      "title": "Starbucks",
+      "place_id": "ChIJG-8ZUlnBJIgRy4qu-eCElRA",
+      "data_id": "0x8824c1595219ef1b:0x109584e0f9ae8acb",
+      "data_cid": "1195007377933241035",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x8824c1595219ef1b%3A0x109584e0f9ae8acb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x8824c1595219ef1b%3A0x109584e0f9ae8acb&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 42.599117,
+        "longitude": -83.1696307
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJG-8ZUlnBJIgRy4qu-eCElRA",
+      "provider_id": "/g/1tls3g6n",
+      "rating": 4,
+      "reviews": 557,
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop",
+        "Breakfast restaurant",
+        "Cafe",
+        "Coffee store",
+        "Espresso bar",
+        "Internet cafe"
+      ],
+      "type_id": "coffee_shop",
+      "type_ids": [
+        "coffee_shop",
+        "breakfast_restaurant",
+        "cafe",
+        "coffee_store",
+        "espresso_bar",
+        "internet_cafe"
+      ],
+      "address": "5531 Crooks Rd, Troy, MI 48098",
+      "open_state": "Open ⋅ Closes 7:30 PM",
+      "hours": "Open ⋅ Closes 7:30 PM",
+      "operating_hours": {
+        "wednesday": "5 AM–7:30 PM",
+        "thursday": "5 AM–7:30 PM",
+        "friday": "5 AM–7:30 PM",
+        "saturday": "5:30 AM–6:30 PM",
+        "sunday": "5:30 AM–6:30 PM",
+        "monday": "5 AM–7:30 PM",
+        "tuesday": "5 AM–7:30 PM"
+      },
+      "phone": "(248) 267-8522",
+      "website": "https://www.starbucks.com/store-locator/store/18382/",
+      "description": "Iconic Seattle-based coffeehouse chain. Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",
+      "service_options": {
+        "dine_in": true,
+        "drive_through": true,
+        "delivery": true
+      },
+      "order_online": "https://www.google.com/viewer/chooseprovider?mid=/g/1tls3g6n&g2lbs=AOHF13l9rrR5EceewCK-UQIJmkj2ixnepAveqXgh6DzN97ZeAdiNNz1PU9JRrE9NX-R6KXREy_b0NFOPy2tHoXY2qFhxhGBBnw%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=ycdiZ463G7ei5NoP4qXzyQ0&ei=ycdiZ463G7ei5NoP4qXzyQ0&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+      "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOgY5IudZdE_7HL2AwmA3PsNyMIJHdPXMi2NSdx=w163-h92-k-no"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4040.7455096%2C-74.0083012%2C14z&q=Coffee&start=20&type=search"
+  },
+  "place_results": {
+    "title": "LAGREE Plus",
+    "place_id": "ChIJLVQA7Mc1K4gR7vbb8WG3Q1U",
+    "data_id": "0x882b35c7ec00542d:0x5543b761f1dbf6ee",
+    "data_cid": "6143955947960923886",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x882b35c7ec00542d%3A0x5543b761f1dbf6ee&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x882b35c7ec00542d%3A0x5543b761f1dbf6ee&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 43.6466517,
+      "longitude": -79.3965559
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLVQA7Mc1K4gR7vbb8WG3Q1U",
+    "provider_id": "/g/11vxy6zjgr",
+    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMNMaCijwuE4btk_BSGmiHiiA6D0BCWNq-_npqk=w86-h114-k-no",
+    "rating_summary": [
+      {
+        "stars": 1,
+        "amount": 2
+      },
+      {
+        "stars": 2,
+        "amount": 0
+      },
+      {
+        "stars": 3,
+        "amount": 0
+      },
+      {
+        "stars": 4,
+        "amount": 0
+      },
+      {
+        "stars": 5,
+        "amount": 44
+      }
+    ],
+    "rating": 4.8,
+    "reviews": 46,
+    "type": [
+      "Pilates studio",
+      "Cafe",
+      "Gym"
+    ],
+    "type_ids": [
+      "pilates_studio",
+      "cafe",
+      "gym"
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "extensions": [
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "parking": [
+          "Free street parking",
+          "Paid street parking"
+        ]
+      }
+    ],
+    "address": "410 Adelaide St W, Toronto, ON M5V 1S7, Canada",
+    "website": "https://www.lagreeplus.ca/",
+    "open_state": "Open ⋅ Closes 8 PM",
+    "plus_code": "JJW3+M9 Toronto, Ontario, Canada",
+    "hours": [
+      {
+        "thursday": "7 AM–8 PM"
+      },
+      {
+        "friday": "7 AM–8 PM"
+      },
+      {
+        "saturday": "7 AM–3 PM"
+      },
+      {
+        "sunday": "7 AM–3 PM"
+      },
+      {
+        "monday": "7 AM–8 PM"
+      },
+      {
+        "tuesday": "7 AM–8 PM (Christmas Eve)"
+      },
+      {
+        "wednesday": "8–11:30 AM (Christmas)"
+      }
+    ],
+    "images": [
+      {
+        "title": "All",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMNMaCijwuE4btk_BSGmiHiiA6D0BCWNq-_npqk=w224-h298-k-no"
+      },
+      {
+        "title": "By owner",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP9zqoBQhHgV6LroI39x61ox4aPw1TmXh7uUNK3=w397-h298-k-no"
+      },
+      {
+        "title": "Videos",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMqzcWv-uS6L9B7Kk78WP9bk2z9shOwQ8_qMuQ=w224-h398-k-no"
+      },
+      {
+        "title": "Street View & 360°",
+        "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rcqOeII-_eqRliy8_8HYlw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=333.64404&pitch=0&thumbfov=100"
+      }
+    ],
+    "user_reviews": {
+      "summary": [
+        {
+          "snippet": "\"Beautiful studio, small class size, attentive instructors\""
+        },
+        {
+          "snippet": "\"Great workout and location.\""
+        },
+        {
+          "snippet": "\"The space itself is clean and has a calming, elevated vibe.\""
+        }
+      ],
+      "most_relevant": [
+        {
+          "username": "Dustin Seidler",
+          "rating": 5,
+          "contributor_id": "109053264933904332097",
+          "description": "I had a fantastic experience at Lagree Plus yesterday. The studio is beautifully designed with impeccable attention to detail, creating a welcoming and calming environment. The class itself was superbly structured, starting with a meditation to help us focus and center ourselves. With a small class size of just 10 people, it was the perfect setting for a first-timer like me, allowing for personalized support and guidance. I felt well taken care of and thoroughly enjoyed the session on their mega reformers. Highly recommend Lagree Plus for a top-notch fitness experience!",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNINmUtdWJnEAE!2m1!1s0x0:0x5543b761f1dbf6ee!3m1!1s2@1:CIHM0ogKEICAgICH6e-ubg%7CCgwI8-nrtgYQsJ29tAI%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMp4Q-fZ37Th-1MN8ndVPFkwGzbqqm3fkJZH5Y=w150-h150-k-no-p"
+            },
+            {
+              "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPG2-4nFvfKps6yJLdszGb21_81MPkWsbWgm-E=w150-h150-k-no-p"
+            },
+            {
+              "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMCSJvTJxMEZLHlEN8sortPTXKKQ3YoGFzYPD0=w150-h150-k-no-p"
+            }
+          ],
+          "date": "3 months ago"
+        },
+        {
+          "username": "Helen Ha",
+          "rating": 5,
+          "contributor_id": "103658691839752994012",
+          "description": "We were so overdue for a new megareformer experience in Toronto. This studio is amazing , centrally located at Spadina and Adelaide on the wellness block, the studio has 10 brand new high quality megaformers, the instructors and staff are so kind, shout out to Miranda who runs the front, I love that they also do a beverage bar , you can order\nA pre or post workout smoothie with all the healthy fixins (chia seeds, vegan protein wild\nBlue berries , collagen, to name a few ingredients) they also do coffee and matcha lattes. They have a lounge space in the front which is so cozy, where they also sell super cute merchandise and in the back lounge you can grab soft towels for\nClass or eucalyptus soaked towels post class. Overall it’s a HUGE upgrade from the current Lagree studios in the city that were in need of an upgrade and more importantly the vibe is more wellness and feel good versus red and black dungeon. The class was great, it’s just one row of machines with mirrored walls on both sides, my instructor Adina was great she did some great corrections for me in posture and it was the a relaxing environment but the same intense I wanna die burn we all love in a Lagree class",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURubTRPdkpREAE!2m1!1s0x0:0x5543b761f1dbf6ee!3m1!1s2@1:CIHM0ogKEICAgIDnm4OvJQ%7CCgwIwOeeuAYQ2NOOgwE%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN2PrtLzeKubRoMWMlgcaulYlyrZv9PxDimI09h=w150-h150-k-no-p"
+            },
+            {
+              "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNgoCab_rOjEYhKSrs6rUgAThVeiQbVlkhwb23v=w150-h150-k-no-p"
+            },
+            {
+              "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNsiJ_g3TdqdzNP6QBib6_7RbGsBlD1Y9r8k-Hp=w150-h150-k-no-p"
+            },
+            {
+              "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNU2TDSJnyt-7o6Pc1IVkxDKYfq5dQ9VqvFaoAU=w150-h150-k-no-p"
+            }
+          ],
+          "date": "2 months ago"
+        },
+        {
+          "username": "Cassidy Bier",
+          "rating": 5,
+          "contributor_id": "104356454710116647070",
+          "description": "Lagree plus was an incredible experience. I booked a private class for my team and the lagree plus team made us feel so welcome. They even wrote individual welcome cards to each of us! The instructor, Katie, was amazing and provided ample modifications as we were all new to this type of workout. Overall, would 100% bring my team back and highly recommend this studio. I cannot wait to come back tomorrow and do more classes on my own. Thanks Lagree!!",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURYZzh5OWhBRRAB!2m1!1s0x0:0x5543b761f1dbf6ee!3m1!1s2@1:CIHM0ogKEICAgIDXg8y9hAE%7CCgwIpvSIuQYQ0Ijc5wI%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPLfTz9ZdMJYNBnZlHMOB2mQxMg5XfinVbojFwh=w150-h150-k-no-p"
+            }
+          ],
+          "date": "a month ago"
+        },
+        {
+          "username": "Natalie Ng",
+          "rating": 5,
+          "contributor_id": "112647798932212909527",
+          "description": "Love this new studio! My first class with Vivian was amazing - she takes the time to explain the exercises and she makes you feel comfortable the whole time. The second class with her was no different! Always leave feeling like I got a great workout in!",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURYaTVLblpnEAE!2m1!1s0x0:0x5543b761f1dbf6ee!3m1!1s2@1:CIHM0ogKEICAgIDXi5KnZg%7CCgsIwNqLuQYQ8ILPMA%7C?hl=en-US",
+          "date": "a month ago"
+        },
+        {
+          "username": "Vivian Feng",
+          "rating": 5,
+          "contributor_id": "103152471039807018632",
+          "description": "This is such a local gem in Toronto, especially if you’re looking for a Lagree workout! The studio is gorgeous and the people are friendly. Matcha drinks is amazing definitely a need after class",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURIbExES2p3RRAB!2m1!1s0x0:0x5543b761f1dbf6ee!3m1!1s2@1:CIHM0ogKEICAgIDHlLDKjwE%7CCgwIxrONtwYQwNmNwwM%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMqzcWv-uS6L9B7Kk78WP9bk2z9shOwQ8_qMuQ=w150-h150-k-no-p"
+            },
+            {
+              "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMF3sQwmTki_cgKkSwKdaMYEkfx_KWwisCY5wg=w150-h150-k-no-p"
+            },
+            {
+              "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOxzXeWmJGXg5lKtL1mXpI0O-2EKjo9YJGBi_A=w150-h150-k-no-p"
+            },
+            {
+              "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP47aqj7fmHNh2Yyf6071moNigdyyYQZRAPi1Q=w150-h150-k-no-p"
+            }
+          ],
+          "date": "3 months ago"
+        },
+        {
+          "username": "Adriana Pischedda",
+          "rating": 5,
+          "contributor_id": "108862105237340714199",
+          "description": "I recently tried a Pilates studio, and it was a fantastic experience. The atmosphere is welcoming and serene, making it the perfect place to unwind and focus on my practice. The instructor, Katie, is incredibly knowledgeable and attentive. Even during my first session, she ensured that I was performing the exercises correctly and offered modifications to suit my level of experience. Her positive energy and encouragement made the session enjoyable and productive. Based on my experience, I highly recommend this Pilates studio to anyone looking to enhance their physical fitness in a supportive and motivating environment.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNQbFk3NjR3RRAB!2m1!1s0x0:0x5543b761f1dbf6ee!3m1!1s2@1:CIHM0ogKEICAgICPlY764wE%7CCgwIwKaXugYQ2JXbhgM%7C?hl=en-US",
+          "date": "3 weeks ago"
+        },
+        {
+          "username": "Paige Baumgartner",
+          "rating": 5,
+          "contributor_id": "109013404171281718778",
+          "description": "I’ve now gone to 3 classes with two different instructors at Lagree Plus, and have been loving it. Every class starts with a meditation/ mindful grounding, which I love!\n\nThe space is gorgeous and the limited number of machines allows for an intimate personal class experience. The only downside - hard to get a spot if you don’t book in advance because they’re already super popular!",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ3ajltUk13EAE!2m1!1s0x0:0x5543b761f1dbf6ee!3m1!1s2@1:CIHM0ogKEICAgID7j9mRMw%7CCgsI953ytwYQ2J6fIg%7C?hl=en-US",
+          "date": "2 months ago"
+        },
+        {
+          "username": "Desiree Kotnala",
+          "rating": 5,
+          "contributor_id": "110444989034209174586",
+          "description": "After 3 visits to LAGREE Plus I can confidently say every time has been consistently AMAZING. First off it's a warm and welcoming environment where the whole team encourages you to get comfortable with the Mega and do your best! Katie in particular is a super intuitive instructor. Always available in class if you need help or will provide modifications. I love how she starts and finishes her classes so you can enjoy your accomplishments and appreciate the effort you put in. Also, your bum will burn in the best possible way! The routines are fully body and effective. The studio has tons of extra touches like cold towels, superfood lattes, coffees, and smoothies. Everyone is friendly and I truly appreciate the owner's presence, just saying hello and being available truly contributes to the community. A+!! I am a fan for sure and look forward to more Mega reformer classes!",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURIemNPRXFRRRAB!2m1!1s0x0:0x5543b761f1dbf6ee!3m1!1s2@1:CIHM0ogKEICAgIDHzcOEqQE%7CCgwIpIWttwYQyNiJswE%7C?hl=en-US",
+          "date": "3 months ago"
+        }
+      ]
+    },
+    "people_also_search_for": [
+      {
+        "search_term": "People also search for",
+        "local_results": [
+          {
+            "position": 1,
+            "title": "Spark Pilates",
+            "data_id": "0x0:0x23b733b98c16e9ad",
+            "data_cid": "2573582584077805997",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x23b733b98c16e9ad&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x23b733b98c16e9ad&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 43.6454675,
+              "longitude": -79.4008097
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x23b733b98c16e9ad%218m2%213d43.6454675%214d-79.4008097&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 5,
+            "reviews": 37,
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO323HMti6VAqM-CUJNSITBMO0CQENqJ-1ET_6A=w156-h156-n-k-no",
+            "type": [
+              "Pilates studio"
+            ]
+          },
+          {
+            "position": 2,
+            "title": "Studio Lagree",
+            "data_id": "0x0:0xf1260d6dd6bf5052",
+            "data_cid": "17376590977661096018",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xf1260d6dd6bf5052&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xf1260d6dd6bf5052&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 43.6433451,
+              "longitude": -79.406258
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xf1260d6dd6bf5052%218m2%213d43.6433451%214d-79.406258&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.3,
+            "reviews": 234,
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMcIK1pGqaNVkI3fk1Y5IHnPxfE930W1_u2uJp5=w156-h156-n-k-no",
+            "type": [
+              "Gym"
+            ]
+          },
+          {
+            "position": 3,
+            "title": "Rebalance Pilates",
+            "data_id": "0x0:0xbce75800382490e8",
+            "data_cid": "13611945156715778280",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xbce75800382490e8&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xbce75800382490e8&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 43.6524242,
+              "longitude": -79.36833519999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xbce75800382490e8%218m2%213d43.6524242%214d-79.36833519999999&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 5,
+            "reviews": 14,
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNgzfkrVPXV-vn9uMt2YcFeWv3XUzpk6USeQV-W=w156-h156-n-k-no",
+            "type": [
+              "Pilates studio"
+            ]
+          },
+          {
+            "position": 4,
+            "title": "barre3",
+            "data_id": "0x0:0xdc7b3d95d32f8133",
+            "data_cid": "15887359824182083891",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xdc7b3d95d32f8133&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xdc7b3d95d32f8133&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 43.6466092,
+              "longitude": -79.3974116
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xdc7b3d95d32f8133%218m2%213d43.6466092%214d-79.3974116&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.7,
+            "reviews": 68,
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN3acFNdGSn_siNhMsiSVh4d9QRTRqtPtIj0cRu=w156-h156-n-k-no",
+            "type": [
+              "Physical fitness program",
+              "Fitness center",
+              "Gym",
+              "Pilates studio",
+              "Yoga studio"
+            ]
+          },
+          {
+            "position": 5,
+            "title": "Limber Women's Fitness Studio",
+            "data_id": "0x0:0x5a8aa0e0f5fd803e",
+            "data_cid": "6524203898259734590",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x5a8aa0e0f5fd803e&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x5a8aa0e0f5fd803e&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 43.6524242,
+              "longitude": -79.36833519999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x5a8aa0e0f5fd803e%218m2%213d43.6524242%214d-79.36833519999999&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 5,
+            "reviews": 44,
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNDZa4NSnNiDYLHJ5ZhzuM7jGeJjrILo0V7crfw=w156-h156-n-k-no",
+            "type": [
+              "Fitness center"
+            ]
+          }
+        ]
+      }
+    ],
+    "popular_times": {
+      "graph_results": {
+        "sunday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "info": "Usually not busy",
+            "busyness_score": 16
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 33
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 25
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not busy",
+            "busyness_score": 16
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not busy",
+            "busyness_score": 16
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not busy",
+            "busyness_score": 8
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not busy",
+            "busyness_score": 16
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not busy",
+            "busyness_score": 16
+          },
+          {
+            "time": "3 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "4 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "5 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "6 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "monday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 25
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 41
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 41
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 33
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not busy",
+            "busyness_score": 8
+          },
+          {
+            "time": "12 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "1 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "2 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not busy",
+            "busyness_score": 8
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not busy",
+            "busyness_score": 16
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 33
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually not busy",
+            "busyness_score": 16
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually not busy",
+            "busyness_score": 16
+          },
+          {
+            "time": "8 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "tuesday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not busy",
+            "busyness_score": 8
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 41
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually a little busy",
+            "busyness_score": 58
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 100
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 50
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 33
+          },
+          {
+            "time": "2 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not busy",
+            "busyness_score": 8
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 25
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 66
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 83
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 83
+          },
+          {
+            "time": "8 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "wednesday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 25
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not busy",
+            "busyness_score": 8
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not busy",
+            "busyness_score": 8
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 25
+          },
+          {
+            "time": "12 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "1 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "2 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "3 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "4 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "5 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "6 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "thursday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "info": "Usually not busy",
+            "busyness_score": 16
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not busy",
+            "busyness_score": 16
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not busy",
+            "busyness_score": 8
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not busy",
+            "busyness_score": 8
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 33
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 25
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not busy",
+            "busyness_score": 16
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 25
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 50
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 25
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not busy",
+            "busyness_score": 8
+          },
+          {
+            "time": "6 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually not busy",
+            "busyness_score": 8
+          },
+          {
+            "time": "8 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "friday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not busy",
+            "busyness_score": 8
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not busy",
+            "busyness_score": 8
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not busy",
+            "busyness_score": 16
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 33
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not busy",
+            "busyness_score": 16
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not busy",
+            "busyness_score": 8
+          },
+          {
+            "time": "3 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "4 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not busy",
+            "busyness_score": 8
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually not busy",
+            "busyness_score": 16
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 33
+          },
+          {
+            "time": "8 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "saturday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "info": "Usually a little busy",
+            "busyness_score": 75
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 41
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 41
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 33
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 50
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 50
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 25
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not busy",
+            "busyness_score": 8
+          },
+          {
+            "time": "3 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "4 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "5 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "6 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ]
+      },
+      "live_hash": {
+        "info": "Now: Usually not too busy"
+      }
+    },
+    "web_results_link": "https://www.google.com/search?q=local+guide+program&ibp=gwp;0,26,OiUKIyIfTEFHUkVFIFBsdXMgVG9yb250bywgT04sIENhbmFkYSgC&pcl=lp",
+    "serpapi_web_results_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ibp=gwp%3B0%2C26%2COiUKIyIfTEFHUkVFIFBsdXMgVG9yb250bywgT04sIENhbmFkYSgC&q=local+guide+program"
+  }
+}

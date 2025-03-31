@@ -1,0 +1,216 @@
+{
+  "search_metadata": {
+    "id": "676467c7d95c7eee12d76dda",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/334d83a92838e713/676467c7d95c7eee12d76dda.json",
+    "created_at": "2024-12-19 18:36:55 UTC",
+    "processed_at": "2024-12-19 18:36:55 UTC",
+    "google_maps_contributor_reviews_url": "https://www.google.com/maps/contrib/110382514725174877672/reviews?gl=us&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/334d83a92838e713/676467c7d95c7eee12d76dda.html",
+    "prettify_html_file": "https://serpapi.com/searches/334d83a92838e713/676467c7d95c7eee12d76dda.prettify",
+    "total_time_taken": 0.74
+  },
+  "search_parameters": {
+    "engine": "google_maps_contributor_reviews",
+    "gl": "us",
+    "hl": "en",
+    "contributor_id": "110382514725174877672"
+  },
+  "contributor": {
+    "name": "Caro & Keith Napier",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV_rCUu9YIRc_jnRpeh_gmQ-1pE2T7sJ-3guzC45Vwb8qyoyODx=s120-c-rp-mo-ba6-br100",
+    "points": 15451,
+    "level": 8,
+    "local_guide": true,
+    "contributions": {
+      "reviews": 174,
+      "ratings": 30,
+      "photos": 1847,
+      "videos": 7,
+      "captions": 0,
+      "answers": 2802,
+      "edits": 46,
+      "reported_incorrect": 0,
+      "places_added": 1,
+      "roads_added": 0,
+      "facts_checked": 0,
+      "q_a": 1
+    }
+  },
+  "reviews": [
+    {
+      "place_info": {
+        "title": "Bearhill Husky",
+        "address": "Viiksojantie 192, 97220 Sinettä, Finland",
+        "gps_coordinates": {
+          "latitude": 66.613912,
+          "longitude": 25.4924657
+        },
+        "type": "Tourist attraction",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOGl0alqpq2WrxIOi0UpZecblM7Y7Ckz0q_RzZu=w266-h200-k-no",
+        "data_id": "0x469c50467c36a7ad:0x8a482c9148e8f03"
+      },
+      "date": "a week ago",
+      "snippet": "Spectacular!! I had the best time at Bearhill Husky, filled with lots of love and gorgeous cuddles. The experience was truly unforgettable, from the friendly and well-cared-for huskies to the beautiful surroundings. The staff were amazing, ensuring a wonderful time for everyone. If you're looking for an incredible adventure with these beautiful dogs, Bearhill Husky is the perfect place to visit. Highly recommend!",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNONmVtX1lREAE",
+      "rating": 5,
+      "likes": 0,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNONmVtX1lREAE!2m1!1s0x0:0x8a482c9148e8f03!3m1!1s2@1:CIHM0ogKEICAgICN6em_YQ%7CCgwIsqnfugYQyNTjygI%7C?hl=en-US",
+      "details": {
+        "visited_on": "Weekday",
+        "wait_time": "No wait",
+        "reservation_recommended": "Yes"
+      },
+      "images": [
+        {
+          "title": "Bearhill Husky",
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN9AxQw1nNGfLinC9JscBDxmWrxB_PdBLn4mEKV=s10000-k-no",
+          "video": "https://lh3.googleusercontent.com/ggms/AF1QipN9AxQw1nNGfLinC9JscBDxmWrxB_PdBLn4mEKV=m37",
+          "date": "2023-7-24",
+          "snippet": "Look at this moss wall 😍"
+        },
+        {
+          "title": "Bearhill Husky",
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMiDQkptOR3Mkqy5x537Kr01YWC22G5kuO4imPV=s10000-k-no"
+        },
+        {
+          "title": "Bearhill Husky",
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPSSW8iwhPG875bLvydy1x7TqAC1SaXRsm6Di8d=s10000-k-no"
+        },
+        {
+          "title": "Bearhill Husky",
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO0dzm5oC7zJowdtuvZW_IUAuHnHXZxQ7x9syHT=s10000-k-no"
+        },
+        {
+          "title": "Bearhill Husky",
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNFF-h-yp0QiUMwOsY7fbSas3AInSw9ipTDVnyx=s10000-k-no"
+        },
+        {
+          "title": "Bearhill Husky",
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMI0gADc19QUPYG4SCt-j7jn50l_RoyELcT3wCA=s10000-k-no"
+        },
+        {
+          "title": "Bearhill Husky",
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOfi2hIROaFqsYJJDS3GM35IwiFFStu-e8zyTTJ=s10000-k-no"
+        },
+        {
+          "title": "Bearhill Husky",
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOjQOnkr7TqT6rcM-cd-fvhTX8prtzza9eUdSsu=s10000-k-no",
+          "video": "https://lh3.googleusercontent.com/ggms/AF1QipOjQOnkr7TqT6rcM-cd-fvhTX8prtzza9eUdSsu=m37"
+        },
+        {
+          "title": "Bearhill Husky",
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOBopOzXR1Q9Dl_Knf08EkOu1THov9IGIIXKwoN=s10000-k-no"
+        },
+        {
+          "title": "Bearhill Husky",
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMsgyp-GHXfl2XtdWmi8rIZQZJNX-zT_QKg73-H=s10000-k-no"
+        },
+        {
+          "title": "Bearhill Husky",
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNrdElFM-ha6l3bZ9wk9IFNUGNUzE1rkPYMUcLy=s10000-k-no"
+        },
+        {
+          "title": "Bearhill Husky",
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOzq90guBSCOE0MewsDNOou9RNThrcg4IhZDXaP=s10000-k-no"
+        },
+        {
+          "title": "Bearhill Husky",
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMdUgHnU8S-xTDfm2B_fFwwSxj2CsIjyLIKWxDW=s10000-k-no"
+        }
+      ]
+    },
+    {
+      "place_info": {
+        "title": "Ploós",
+        "address": "Bay, 7 7/27 Circular Quay W, The Rocks NSW 2000, Australia",
+        "gps_coordinates": {
+          "latitude": -33.8568327,
+          "longitude": 151.2092298
+        },
+        "type": "Restaurant",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNrJ_LNwc8PVteC7AU-jJ8ubifi0Aw7P7c4wkmK=w266-h200-k-no",
+        "data_id": "0x6b12af6be42f4cb3:0xd36a34eb9643c81a"
+      },
+      "date": "2 months ago",
+      "snippet": "Had an amazing dining experience at Ploos Greek Restaurant at The Rocks in Sydney. Opted for the set menu and every dish was delicious. The standout for me was the haloumi cheese – absolutely loved it. The location is fantastic with a beautiful view and the service was very good, Highly recommend for anyone looking to enjoy great Greek food in a picturesque setting.",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuOTZTa1p3EAE",
+      "rating": 5,
+      "likes": 0,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURuOTZTa1p3EAE!2m1!1s0x0:0xd36a34eb9643c81a!3m1!1s2@1:CIHM0ogKEICAgIDn96SkZw%7CCgsI3I-kuAYQgL-cQw%7C?hl=en-US",
+      "details": {
+        "service": 5,
+        "meal_type": "Dinner",
+        "price_per_person": "A$120–140",
+        "food": 5,
+        "atmosphere": 5,
+        "recommended_dishes": "Grilled Halloumi Fennel Glyko Lemon Isot Pepper, Slow Roasted Lamb Shoulder"
+      },
+      "images": [
+        {
+          "title": "Ploós",
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM-Ng2qByyu_UB79pfi9njhl_Y7oXeEe6wSPZK2=s10000-k-no"
+        },
+        {
+          "title": "Ploós",
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO0oQbNrNlBwLbekCur4S2iHeTZgK630N7dCYMw=s10000-k-no"
+        },
+        {
+          "title": "Ploós",
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOSoSGoQjFc5oVmrzM_dGV6PavzkIV_Y1ejK-lp=s10000-k-no"
+        }
+      ]
+    },
+    {
+      "place_info": {
+        "title": "Nazy's Guest House",
+        "address": "Jokolo village, Pankisi Gorge, Jokolo 0900, Géorgie",
+        "gps_coordinates": {
+          "latitude": 42.1704137,
+          "longitude": 45.3084622
+        },
+        "type": "Hôtel",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOQkjtrYwbqGNjrgZtMtUMSJEOKJ1DlLD3GK33b=w266-h200-k-no",
+        "data_id": "0x4045af948dc98d17:0xfbc0251c9bf36934"
+      },
+      "date": "il y a 2 semaines",
+      "snippet": "Nazy is by far the most hospitable guest house owner I have ever had the pleasure to meet. Between the food, location, and activities, we couldn't be more pleased with how wonderful this portion of our family vacation turned out to be.",
+      "translated_snippet": "Nazy est de loin le propriétaire de maison d'hôtes le plus hospitalier que j'ai jamais eu le plaisir de rencontrer. Entre la nourriture, l'emplacement et les activités, nous ne pourrions être plus satisfaits de la merveilleuse qualité de cette partie de nos vacances en famille.",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaMFkyZmtnRRAB",
+      "rating": 5,
+      "likes": 1,
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNaMFkyZmtnRRAB!2m1!1s0x0:0xfbc0251c9bf36934!3m1!1s2@1:CIHM0ogKEICAgICZ0Y2fkgE%7CCgwI7N6BqAYQuJrgqgM%7C?hl=fr",
+      "details": {
+        "type_de_voyage": "Vacances",
+        "groupe_de_voy": "Famille",
+        "chambres": "Super clean, beautiful rooms with mattresses perhaps even more comfortable than my own.",
+        "service": 5,
+        "emplacement": 5,
+        "activités_à_proximité": "Hiking, horseback riding, beekeeping and cultural tours are all available and were great family-friendly activities.",
+        "plats_et_boissons": "The food quality and taste is second to none - delicious, local, and a great variety so that you can really get an idea of the local style. I was always so excited to see what would be served for dinner because everything was delicious",
+        "points_forts_de_l_hôtel": "Beau panorama, Calme, Adapté aux enfants, Bon rapport qualité-prix"
+      },
+      "translated_details": {
+        "chambres": "Des chambres super propres et belles avec des matelas peut-être encore plus confortables que les miens.",
+        "activités_à_proximité": "La randonnée, l'équitation, l'apiculture et les visites culturelles sont toutes disponibles et constituent d'excellentes activités familiales.",
+        "plats_et_boissons": "La qualité et le goût de la nourriture sont incomparables - délicieux, locaux et très variés pour que vous puissiez vraiment vous faire une idée du style local. J'étais toujours très impatient de voir ce qui serait servi pour le dîner car tout était délicieux"
+      },
+      "images": [
+        {
+          "title": "Nazy's Guest House",
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNIPTee1W_r2_tZKYGixmu4uS1-wc3SVzplfxwr=s10000-k-no",
+          "date": "2023-8-24"
+        },
+        {
+          "title": "Nazy's Guest House",
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNh2xapRYwYVZzizmgT5rNQ2Rw8gJ5tS5JY0mIf=s10000-k-no",
+          "date": "2023-8-24"
+        }
+      ]
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?contributor_id=110382514725174877672&engine=google_maps_contributor_reviews&gl=us&hl=en&next_page_token=Q0FFU1kwTkJSVkZEYUhCRlVUSndSbE5WUmxOVFdFSkVXakk1UWxWRVkzbFNla3BzVWtod2RWcHNPV1pTVjJoRFRsTXhWbGRJVmpGbFJYTTFZVWhvVmxWVVdqUlRWVVpDVVZWR1FsSXlaSFZQVkVwVFZsVk9hVmRxVWxGVU1sRTBWMVZHUkZOVlJRPT0%3D",
+    "next_page_token": "Q0FFU1kwTkJSVkZEYUhCRlVUSndSbE5WUmxOVFdFSkVXakk1UWxWRVkzbFNla3BzVWtod2RWcHNPV1pTVjJoRFRsTXhWbGRJVmpGbFJYTTFZVWhvVmxWVVdqUlRWVVpDVVZWR1FsSXlaSFZQVkVwVFZsVk9hVmRxVWxGVU1sRTBWMVZHUkZOVlJRPT0="
+  }
+}

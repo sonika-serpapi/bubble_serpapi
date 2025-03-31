@@ -1,0 +1,79 @@
+{
+  "search_metadata": {
+    "id": "6764441e5b4860cfe4e87eb4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5e86879b109e3896/6764441e5b4860cfe4e87eb4.json",
+    "created_at": "2024-12-19 16:04:46 UTC",
+    "processed_at": "2024-12-19 16:04:46 UTC",
+    "google_maps_autocomplete_url": "https://www.google.com/s?q=cafe&tbm=map&gs_ri=maps&suggest=p&gl=us&hl=en&pb=!2i4!4m9!1m3!1d45341.266396720064!2d-74.0083012!3d40.7455096!2m0!3m2!1i2160!2i1440!4f13.1!7i20!10b1!12m16!1m1!18b1!2m3!5m1!6e2!20e3!10b1!12b1!13b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m42!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e9!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!2b1!4b1!9b0!22m2!1sl0jZ1P2OFWFBc_lP1QUQbf8!7e81!23m2!4b1!10b1!24m82!1m29!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m18!3b1!4b1!5b1!6b1!9b1!12b1!13b1!14b1!15b1!17b1!20b1!21b1!22b0!25b1!27m1!1b0!28b0!30b0!2b1!5m6!2b1!3b1!5b1!6b1!7b1!10b1!10m1!8e3!11m1!3e1!14m1!3b1!17b1!20m2!1e3!1e6!24b1!25b1!26b1!29b1!30m1!2b1!36b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m2!1b1!3b1!65m5!3m4!1m3!1m2!1i224!2i298!71b1!72m4!1m2!3b1!5b1!4b1!89b1!103b1!113b1!26m4!2m3!1i80!2i92!4i8!34m18!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!37m1!1e81!47m0!49m6!3b1!6m2!1b1!2b1!7m1!1e3!67m2!7b1!10b1!69i648",
+    "raw_html_file": "https://serpapi.com/searches/65db4687b0f57a09/6764441e5b4860cfe4e87eb4.html",
+    "prettify_html_file": "https://serpapi.com/searches/61981b24e12cb65b/6764441e5b4860cfe4e87eb4.prettify",
+    "total_time_taken": 0.67
+  },
+  "search_parameters": {
+    "engine": "google_maps_autocomplete",
+    "q": "cafe",
+    "gl": "us",
+    "hl": "en",
+    "ll": "@40.7455096,-74.0083012,14z"
+  },
+  "search_information": {
+    "query_displayed": "cafe"
+  },
+  "suggestions": [
+    {
+      "value": "cafè",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_maps_autocomplete&gl=us&hl=en&ll=%4040.7455096%2C-74.0083012%2C14z&q=caf%C3%A8",
+      "maps_serpapi_link": "https://serpapi.com/search.json?engine=google_maps&gl=us&google_domain=google.com&hl=en&ll=%4040.7455096%2C-74.0083012%2C14z&q=caf%C3%A8&type=search",
+      "type": "keyword"
+    },
+    {
+      "value": "Café China",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_maps_autocomplete&gl=us&hl=en&ll=%4040.7455096%2C-74.0083012%2C14z&q=Caf%C3%A9+China",
+      "subtext": "West 37th Street, New York, NY",
+      "type": "place",
+      "latitude": 40.751571299999995,
+      "longitude": -73.9858221,
+      "data_id": "0x89c25900adca7485:0x1d4ea398ad50e0c",
+      "reviews_serpapi_link": "https://serpapi.com/search.json?data_id=0x89c25900adca7485%3A0x1d4ea398ad50e0c&engine=google_maps_reviews&hl=en",
+      "photos_serpapi_link": "https://serpapi.com/search.json?data_id=0x89c25900adca7485%3A0x1d4ea398ad50e0c&engine=google_maps_photos&hl=en",
+      "maps_serpapi_link": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x89c25900adca7485%3A0x1d4ea398ad50e0c%218m2%213d40.751571299999995%214d-73.9858221&engine=google_maps&gl=us&google_domain=google.com&hl=en&ll=%4040.7455096%2C-74.0083012%2C14z&q=Caf%C3%A9+China&type=place"
+    },
+    {
+      "value": "Cafe Wha?",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_maps_autocomplete&gl=us&hl=en&ll=%4040.7455096%2C-74.0083012%2C14z&q=Cafe+Wha%3F",
+      "subtext": "MacDougal Street, New York, NY",
+      "type": "place",
+      "latitude": 40.730084,
+      "longitude": -74.00055789999999,
+      "data_id": "0x89c259922a0f1d41:0x871f2073371fb93e",
+      "reviews_serpapi_link": "https://serpapi.com/search.json?data_id=0x89c259922a0f1d41%3A0x871f2073371fb93e&engine=google_maps_reviews&hl=en",
+      "photos_serpapi_link": "https://serpapi.com/search.json?data_id=0x89c259922a0f1d41%3A0x871f2073371fb93e&engine=google_maps_photos&hl=en",
+      "maps_serpapi_link": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x89c259922a0f1d41%3A0x871f2073371fb93e%218m2%213d40.730084%214d-74.00055789999999&engine=google_maps&gl=us&google_domain=google.com&hl=en&ll=%4040.7455096%2C-74.0083012%2C14z&q=Cafe+Wha%3F&type=place"
+    },
+    {
+      "value": "Café Chelsea",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_maps_autocomplete&gl=us&hl=en&ll=%4040.7455096%2C-74.0083012%2C14z&q=Caf%C3%A9+Chelsea",
+      "subtext": "West 23rd Street, New York, NY",
+      "type": "place",
+      "latitude": 40.744303599999995,
+      "longitude": -73.99673229999999,
+      "data_id": "0x89c259f8865e49ab:0xcf9731e15ffaf366",
+      "reviews_serpapi_link": "https://serpapi.com/search.json?data_id=0x89c259f8865e49ab%3A0xcf9731e15ffaf366&engine=google_maps_reviews&hl=en",
+      "photos_serpapi_link": "https://serpapi.com/search.json?data_id=0x89c259f8865e49ab%3A0xcf9731e15ffaf366&engine=google_maps_photos&hl=en",
+      "maps_serpapi_link": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x89c259f8865e49ab%3A0xcf9731e15ffaf366%218m2%213d40.744303599999995%214d-73.99673229999999&engine=google_maps&gl=us&google_domain=google.com&hl=en&ll=%4040.7455096%2C-74.0083012%2C14z&q=Caf%C3%A9+Chelsea&type=place"
+    },
+    {
+      "value": "Café Carmellini",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_maps_autocomplete&gl=us&hl=en&ll=%4040.7455096%2C-74.0083012%2C14z&q=Caf%C3%A9+Carmellini",
+      "subtext": "5th Avenue, New York, NY",
+      "type": "place",
+      "latitude": 40.744913,
+      "longitude": -73.9875253,
+      "data_id": "0x89c259faaeaab06f:0x2befe2a532b4e015",
+      "reviews_serpapi_link": "https://serpapi.com/search.json?data_id=0x89c259faaeaab06f%3A0x2befe2a532b4e015&engine=google_maps_reviews&hl=en",
+      "photos_serpapi_link": "https://serpapi.com/search.json?data_id=0x89c259faaeaab06f%3A0x2befe2a532b4e015&engine=google_maps_photos&hl=en",
+      "maps_serpapi_link": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x89c259faaeaab06f%3A0x2befe2a532b4e015%218m2%213d40.744913%214d-73.9875253&engine=google_maps&gl=us&google_domain=google.com&hl=en&ll=%4040.7455096%2C-74.0083012%2C14z&q=Caf%C3%A9+Carmellini&type=place"
+    }
+  ]
+}

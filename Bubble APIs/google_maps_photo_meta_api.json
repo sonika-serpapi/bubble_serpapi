@@ -1,0 +1,30 @@
+{
+  "search_metadata": {
+    "id": "67646b184cace796dd39a525",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a42ae2af37190ace/67646b184cace796dd39a525.json",
+    "created_at": "2024-12-19 18:51:04 UTC",
+    "processed_at": "2024-12-19 18:51:04 UTC",
+    "google_maps_photo_meta_url": "https://www.google.com/maps/photometa/v1?pb=!1m4!1smaps_sv.tactile!11m2!2m1!1b1!2m2!1sen!2smy!3m5!1m2!1e10!2sAF1QipPFfVtTCFKV9n-uOBqTTOHuRemFBg0PWN7xdVxp!2m1!5s0x31cc376b910e0ea9:0xf47bc10a17c8b2ab!4m57!1e1!1e2!1e3!1e4!1e5!1e6!1e8!1e12!2m1!1e1!4m1!1i48!5m1!1e1!5m1!1e2!6m1!1e1!6m1!1e2!9m36!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e3!2b1!3e2!1m3!1e3!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e1!2b0!3e3!1m3!1e4!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e3",
+    "raw_html_file": "https://serpapi.com/searches/a42ae2af37190ace/67646b184cace796dd39a525.html",
+    "prettify_html_file": "https://serpapi.com/searches/a42ae2af37190ace/67646b184cace796dd39a525.prettify",
+    "total_time_taken": 0.24
+  },
+  "search_parameters": {
+    "engine": "google_maps_photo_meta",
+    "data_id": "AF1QipPFfVtTCFKV9n-uOBqTTOHuRemFBg0PWN7xdVxp"
+  },
+  "user": {
+    "name": "R",
+    "link": "https://maps.google.com/maps/contrib/103419305671938156693",
+    "image": "https://lh3.googleusercontent.com/a-/ALV-UjVYloubPaXZcShGIO-ighYFRzNOERkqN-_pHxtMgjvDFTN2rdmq=s48-p-k-no-mo",
+    "user_id": "103419305671938156693"
+  },
+  "location": {
+    "latitude": 40.74573990219196,
+    "longitude": -73.9882272348948,
+    "name": "Stumptown Coffee Roasters",
+    "type": "Coffee shop"
+  },
+  "date": "29-8-2022"
+}

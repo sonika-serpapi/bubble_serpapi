@@ -1,0 +1,343 @@
+{
+  "search_metadata": {
+    "id": "67646bb336ae6623d54989b6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/904435465ed8c200/67646bb336ae6623d54989b6.json",
+    "created_at": "2024-12-19 18:53:39 UTC",
+    "processed_at": "2024-12-19 18:53:39 UTC",
+    "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x89c259af336b3341:0xa4969e07ce3108de!5m2!4m1!1i2!9m1!1b1?hl=fr&gl=",
+    "raw_html_file": "https://serpapi.com/searches/904435465ed8c200/67646bb336ae6623d54989b6.html",
+    "prettify_html_file": "https://serpapi.com/searches/904435465ed8c200/67646bb336ae6623d54989b6.prettify",
+    "total_time_taken": 0.34
+  },
+  "search_parameters": {
+    "engine": "google_maps_reviews",
+    "data_id": "0x89c259af336b3341:0xa4969e07ce3108de",
+    "hl": "fr"
+  },
+  "place_info": {
+    "title": "Gregorys Coffee",
+    "address": "874 6th Ave, New York, NY 10001",
+    "rating": 4.1,
+    "reviews": 1273,
+    "type": "Café"
+  },
+  "topics": [
+    {
+      "keyword": "vegan",
+      "mentions": 22,
+      "id": "/m/07_hy"
+    },
+    {
+      "keyword": "toilettes publiques",
+      "mentions": 15,
+      "id": "/m/041x_j"
+    },
+    {
+      "keyword": "cappuccino",
+      "mentions": 15,
+      "id": "/m/09702"
+    },
+    {
+      "keyword": "chaîne",
+      "mentions": 12,
+      "id": "/m/0269r2s"
+    },
+    {
+      "keyword": "matcha",
+      "mentions": 9,
+      "id": "/m/06c60c"
+    },
+    {
+      "keyword": "muffin",
+      "mentions": 9,
+      "id": "/m/01tcjp"
+    },
+    {
+      "keyword": "scones",
+      "mentions": 9,
+      "id": "/m/01pmj8"
+    },
+    {
+      "keyword": "calice",
+      "mentions": 6,
+      "id": "/m/01l7wg"
+    },
+    {
+      "keyword": "solide",
+      "mentions": 6,
+      "id": "/m/06x7p"
+    },
+    {
+      "keyword": "aeropress",
+      "mentions": 5,
+      "id": "/m/027gkr1"
+    }
+  ],
+  "reviews": [
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM3enJ2UW9BRRAB!2m1!1s0x0:0xa4969e07ce3108de!3m1!1s2@1:CIHM0ogKEICAgIC7zrvQoAE%7CCgsIyrr5tQYQ4OSvNQ%7C?hl=fr",
+      "rating": 5,
+      "date": "il y a 4 mois",
+      "iso_date": "2024-08-15T19:55:54Z",
+      "iso_date_of_last_edit": "2024-08-15T19:55:54Z",
+      "images": [
+        "https://lh5.googleusercontent.com/p/AF1QipNZ_5ktR3LT-Zssk059PsXQptcmbpz25qGLO2bD=w150-h150-k-no-p",
+        "https://lh5.googleusercontent.com/p/AF1QipPoa1sveQZICpH0iojKPLqEXFj_SsvEOg3Q5M1a=w150-h150-k-no-p"
+      ],
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3enJ2UW9BRRAB",
+      "user": {
+        "name": "lamiaa Lamiaa",
+        "link": "https://www.google.com/maps/contrib/102747552088553107635?hl=fr",
+        "contributor_id": "102747552088553107635",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWDrFh6fSrFeoAzHtGm51yAm7_fjKR5WI5jdH1HrAapynq-2Pc=s120-c-rp-mo-br100",
+        "local_guide": true,
+        "reviews": 4,
+        "photos": 2
+      },
+      "snippet": "Très bon accueil et merci a la personne parlant français de nous servir 🙂. Bonne adresse pour le gouter ou le petit déjeuner et plus pour se rafraîchir ✅",
+      "extracted_snippet": {
+        "original": "Très bon accueil et merci a la personne parlant français de nous servir 🙂. Bonne adresse pour le gouter ou le petit déjeuner et plus pour se rafraîchir ✅"
+      },
+      "details": {
+        "cuisine": 5,
+        "service": 5,
+        "ambiance": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "il y a 4 mois",
+        "iso_date": "2024-08-19T07:11:33Z",
+        "iso_date_of_last_edit": "2024-08-19T07:11:33Z",
+        "snippet": "Lamiaa, we’re honored to hear that you enjoyed our friendly staff and food! Thank you so much for your review and feedback, and we can’t wait to see you again soon at our Sixth Avenue location!",
+        "extracted_snippet": {
+          "original": "Lamiaa, we’re honored to hear that you enjoyed our friendly staff and food! Thank you so much for your review and feedback, and we can’t wait to see you again soon at our Sixth Avenue location!",
+          "translated": "Lamiaa, nous sommes honorés d'apprendre que vous avez apprécié notre personnel amical et notre nourriture ! Merci beaucoup pour votre avis et vos commentaires, et nous avons hâte de vous revoir bientôt dans notre établissement de la Sixième Avenue !"
+        }
+      }
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNMMkxxVGtnRRAB!2m1!1s0x0:0xa4969e07ce3108de!3m1!1s2@1:CIHM0ogKEICAgICL2LqTkgE%7CCgwIiceyswYQoMn2yAM%7C?hl=fr",
+      "rating": 3,
+      "date": "il y a 6 mois",
+      "iso_date": "2024-06-14T20:09:45Z",
+      "iso_date_of_last_edit": "2024-06-14T20:09:45Z",
+      "images": [
+        "https://lh5.googleusercontent.com/p/AF1QipMvYENGdxbjrRvhkNq-YrluHtn6s03heyyrwcEp=w150-h150-k-no-p"
+      ],
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMMkxxVGtnRRAB",
+      "user": {
+        "name": "Fab FFF",
+        "link": "https://www.google.com/maps/contrib/116293595596679077302?hl=fr",
+        "contributor_id": "116293595596679077302",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKnQZahVnWOsyb5cy_ns8aX-QUnrGOq5DF857v-A_xqUtBz6A=s120-c-rp-mo-ba5-br100",
+        "local_guide": true,
+        "reviews": 243,
+        "photos": 525
+      },
+      "snippet": "Petit coffee shop comme il y en a beaucoup en ville.\nCelui-ci est propre, accueillant. Attention pas de toilettes (mais comme souvent). Les portions ne sont pas très généreuses mais le tout reste correct pour bien démarrer la journée.",
+      "extracted_snippet": {
+        "original": "Petit coffee shop comme il y en a beaucoup en ville.\nCelui-ci est propre, accueillant. Attention pas de toilettes (mais comme souvent). Les portions ne sont pas très généreuses mais le tout reste correct pour bien démarrer la journée."
+      },
+      "details": {
+        "cuisine": 3,
+        "service": 4,
+        "ambiance": 4
+      },
+      "likes": 0,
+      "response": {
+        "date": "il y a 6 mois",
+        "iso_date": "2024-06-17T06:26:20Z",
+        "iso_date_of_last_edit": "2024-06-17T06:26:20Z",
+        "snippet": "Thank you for your feedback! We always appreciate hearing from our guests, and we’ll use this feedback to improve our product going forward.",
+        "extracted_snippet": {
+          "original": "Thank you for your feedback! We always appreciate hearing from our guests, and we’ll use this feedback to improve our product going forward.",
+          "translated": "Merci pour votre retour ! Nous apprécions toujours d’avoir l’avis de nos clients et nous utiliserons ces commentaires pour améliorer notre produit à l’avenir."
+        }
+      }
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMxcTd2bkJnEAE!2m1!1s0x0:0xa4969e07ce3108de!3m1!1s2@1:CIHM0ogKEICAgIC1q7vnBg%7CCgwI9LzXrAYQsI2e0QE%7C?hl=fr",
+      "rating": 5,
+      "date": "il y a 11 mois",
+      "iso_date": "2024-01-03T22:21:27Z",
+      "iso_date_of_last_edit": "2024-01-03T22:23:48Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxcTd2bkJnEAE",
+      "user": {
+        "name": "Kathya Banderet",
+        "link": "https://www.google.com/maps/contrib/104901808218151044785?hl=fr",
+        "contributor_id": "104901808218151044785",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXbuC1LTJECJftRhPmLEb6LhMpl4rKppgGkVwmfgit6UEGMEApA=s120-c-rp-mo-ba2-br100",
+        "local_guide": true,
+        "reviews": 14,
+        "photos": 6
+      },
+      "snippet": "Pour un petit déjeuner rapide c est l endroit idéal!\nCafé top et muffin bluberries très bon!",
+      "extracted_snippet": {
+        "original": "Pour un petit déjeuner rapide c est l endroit idéal!\nCafé top et muffin bluberries très bon!"
+      },
+      "details": {
+        "service": 5,
+        "type_de_repas": "Petit-déjeuner",
+        "prix_par_personne": "10–20 $",
+        "cuisine": 5,
+        "ambiance": 5
+      },
+      "likes": 0,
+      "response": {
+        "date": "il y a 11 mois",
+        "iso_date": "2024-01-08T10:47:21Z",
+        "iso_date_of_last_edit": "2024-01-08T10:47:21Z",
+        "snippet": "Kathya, we’re honored to hear that you enjoyed our coffee and muffins! Thank you so much for your review and feedback, and we can’t wait to see you again soon at our Sixth Avenue location!",
+        "extracted_snippet": {
+          "original": "Kathya, we’re honored to hear that you enjoyed our coffee and muffins! Thank you so much for your review and feedback, and we can’t wait to see you again soon at our Sixth Avenue location!",
+          "translated": "Kathya, nous sommes honorés d'apprendre que vous avez apprécié notre café et nos muffins ! Merci beaucoup pour votre avis et vos commentaires, et nous avons hâte de vous revoir bientôt dans notre établissement de la Sixième Avenue !"
+        }
+      }
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURteThfRG9nRRAB!2m1!1s0x0:0xa4969e07ce3108de!3m1!1s2@1:CIHM0ogKEICAgIDmy8_DogE%7CCgwIg4OPkAYQ4NrdggM%7C?hl=fr",
+      "rating": 5,
+      "date": "il y a 2 ans",
+      "iso_date": "2022-02-09T13:28:13Z",
+      "iso_date_of_last_edit": "2022-02-09T13:28:35Z",
+      "images": [
+        "https://lh5.googleusercontent.com/p/AF1QipNnQpxp7T1ByDq5MvrDsyG4ZXLgLyE2VL-q7E68=w150-h150-k-no-p",
+        "https://lh5.googleusercontent.com/p/AF1QipPmDvB1KjuOnJzOPc0eQCs47H43pvQYWTtfV_eI=w150-h150-k-no-p",
+        "https://lh5.googleusercontent.com/p/AF1QipMOJyYY7BbzqvIRKuyK16XqEAKDT6WRCbCqVe_R=w150-h150-k-no-p"
+      ],
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURteThfRG9nRRAB",
+      "user": {
+        "name": "nicolas",
+        "link": "https://www.google.com/maps/contrib/115430925300130124674?hl=fr",
+        "contributor_id": "115430925300130124674",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXt_AT1WcpmzK0t7waeJEvPZLt7qH4h4wB5rVYCMCaWVDfaAGu6bA=s120-c-rp-mo-ba6-br100",
+        "local_guide": true,
+        "reviews": 1304,
+        "photos": 2218
+      },
+      "snippet": "Bonne adresse pour un cappuccino ou un latte",
+      "extracted_snippet": {
+        "original": "Bonne adresse pour un cappuccino ou un latte"
+      },
+      "likes": 0,
+      "response": {
+        "date": "il y a 2 ans",
+        "iso_date": "2022-02-09T22:18:16Z",
+        "iso_date_of_last_edit": "2022-02-09T22:18:16Z",
+        "snippet": "Thank you for the feedback Nicolas. The next time you stop in be sure to check out one of our freshly baked pastries  with your next latte. Thank you for Seeing Coffee Differently here at Gregorys.",
+        "extracted_snippet": {
+          "original": "Thank you for the feedback Nicolas. The next time you stop in be sure to check out one of our freshly baked pastries  with your next latte. Thank you for Seeing Coffee Differently here at Gregorys.",
+          "translated": "Merci pour le retour Nicolas. La prochaine fois que vous vous arrêterez, n'oubliez pas de déguster l'une de nos pâtisseries fraîchement sorties du four avec votre prochain café au lait. Merci de voir le café différemment ici chez Gregorys."
+        }
+      }
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMwMV9yai13RRAB!2m1!1s0x0:0xa4969e07ce3108de!3m1!1s2@1:CIHM0ogKEICAgIC01_rj-wE%7CCgsI8eeN7QUQqKeiBg%7C?hl=fr",
+      "rating": 4,
+      "date": "il y a 5 ans",
+      "iso_date": "2019-10-13T18:58:57Z",
+      "iso_date_of_last_edit": "2019-10-13T18:58:57Z",
+      "images": [
+        "https://lh5.googleusercontent.com/p/AF1QipPtYQRAn0F_cEfHPx49SPyG92Ofy7LIrcLtNPsD=w150-h150-k-no-p",
+        "https://lh5.googleusercontent.com/p/AF1QipNxbs_6rhIj64XQV3CWjJLv7UKWYNRjjXulMXjG=w150-h150-k-no-p",
+        "https://lh5.googleusercontent.com/p/AF1QipOg2mt7dPOrd9ACdB55PzwptOTkE5ocCoTzwLg2=w150-h150-k-no-p"
+      ],
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwMV9yai13RRAB",
+      "user": {
+        "name": "Marcc",
+        "link": "https://www.google.com/maps/contrib/103384939318993072848?hl=fr",
+        "contributor_id": "103384939318993072848",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIOyyKuKf8JQLrRf_NW79hS-NgETjdDhRFBO4o2TfSXLDltBQ=s120-c-rp-mo-ba6-br100",
+        "local_guide": true,
+        "reviews": 216,
+        "photos": 1553
+      },
+      "snippet": "Un endroit agréable pour le petit déjeuner.",
+      "extracted_snippet": {
+        "original": "Un endroit agréable pour le petit déjeuner."
+      },
+      "likes": 0
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURvcDlqcTVnRRAB!2m1!1s0x0:0xa4969e07ce3108de!3m1!1s2@1:CIHM0ogKEICAgIDop9jq5gE%7CCgsIrdra5AUQsMSWGQ%7C?hl=fr",
+      "rating": 5,
+      "date": "il y a 5 ans",
+      "iso_date": "2019-03-23T22:03:25Z",
+      "iso_date_of_last_edit": "2019-03-23T22:03:25Z",
+      "images": [
+        "https://lh5.googleusercontent.com/p/AF1QipPI9a2beiN-XEWgpSoxqUKxBimUnLgnMDmMlYkA=w150-h150-k-no-p"
+      ],
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURvcDlqcTVnRRAB",
+      "user": {
+        "name": "Sofia Tamani - Kitchnchic",
+        "link": "https://www.google.com/maps/contrib/115972727506416314239?hl=fr",
+        "contributor_id": "115972727506416314239",
+        "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU8NQ-Bwp7wZiP182Xnohdp2OzCkamr3iacyR5_aFQY5tGnPV5yNQ=s120-c-rp-mo-ba5-br100",
+        "local_guide": true,
+        "reviews": 91,
+        "photos": 548
+      },
+      "snippet": "Un bon café sur la 6 ème avenue ! Vous pourrez reprendre des forces avant de grimper dans l'Empire state Building qui se trouve à deux pas !",
+      "extracted_snippet": {
+        "original": "Un bon café sur la 6 ème avenue ! Vous pourrez reprendre des forces avant de grimper dans l'Empire state Building qui se trouve à deux pas !"
+      },
+      "likes": 1
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURzb3B6OC13RRAB!2m1!1s0x0:0xa4969e07ce3108de!3m1!1s2@1:CIHM0ogKEICAgIDsopz8-wE%7CCgwIkNzg8gUQ0KKcsQM%7C?hl=fr",
+      "rating": 5,
+      "date": "il y a 4 ans",
+      "iso_date": "2020-02-27T21:01:04Z",
+      "iso_date_of_last_edit": "2020-02-27T21:01:04Z",
+      "source": "Google",
+      "review_id": "ChdDSUhNMG9nS0VJQ0FnSURzb3B6OC13RRAB",
+      "user": {
+        "name": "Marilyne Minet",
+        "link": "https://www.google.com/maps/contrib/104358145525369230188?hl=fr",
+        "contributor_id": "104358145525369230188",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIwibrg8RMReJk9D4mxmJ971WDRYurQRe2wWJ2mPVancaQX2A=s120-c-rp-mo-br100",
+        "reviews": 29,
+        "photos": 77
+      },
+      "snippet": "Très bel accueil et café plus que délicieux.",
+      "extracted_snippet": {
+        "original": "Très bel accueil et café plus que délicieux."
+      },
+      "likes": 0
+    },
+    {
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURZNXNUN2RREAE!2m1!1s0x0:0xa4969e07ce3108de!3m1!1s2@1:CIHM0ogKEICAgIDY5sT7dQ%7CCgwI6fbW5gUQgOjFjwI%7C?hl=fr",
+      "rating": 3,
+      "date": "il y a 5 ans",
+      "iso_date": "2019-05-10T17:56:57Z",
+      "iso_date_of_last_edit": "2019-05-10T17:56:57Z",
+      "source": "Google",
+      "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZNXNUN2RREAE",
+      "user": {
+        "name": "Jean Bonneval",
+        "link": "https://www.google.com/maps/contrib/105189313610142447922?hl=fr",
+        "contributor_id": "105189313610142447922",
+        "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKtheWVxnFZ5vcNhWzcZ8mHV00USQ45i1_ON93PM6FNJ3H1pCc=s120-c-rp-mo-ba2-br100",
+        "local_guide": true,
+        "reviews": 28,
+        "photos": 0
+      },
+      "snippet": "Juste correct par rapport au prix",
+      "extracted_snippet": {
+        "original": "Juste correct par rapport au prix"
+      },
+      "likes": 0
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?data_id=0x89c259af336b3341%3A0xa4969e07ce3108de&engine=google_maps_reviews&hl=fr&next_page_token=CAESBkVnSUlDQQ%3D%3D",
+    "next_page_token": "CAESBkVnSUlDQQ=="
+  }
+}
