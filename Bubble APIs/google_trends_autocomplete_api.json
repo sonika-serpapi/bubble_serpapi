@@ -1,0 +1,62 @@
+{
+    "search_metadata": {
+        "id": "67f95526c521e12e4aad1904",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/605581f46cc53917/67f95526c521e12e4aad1904.json",
+        "created_at": "2025-04-11 17:45:10 UTC",
+        "processed_at": "2025-04-11 17:45:10 UTC",
+        "google_trends_autocomplete_url": "https://trends.google.com/trends/api/autocomplete/Coffee?hl=en",
+        "raw_html_file": "https://serpapi.com/searches/605581f46cc53917/67f95526c521e12e4aad1904.html",
+        "prettify_html_file": "https://serpapi.com/searches/605581f46cc53917/67f95526c521e12e4aad1904.prettify",
+        "total_time_taken": 0.73
+    },
+    "search_parameters": {
+        "engine": "google_trends_autocomplete",
+        "q": "Coffee",
+        "hl": "en"
+    },
+    "suggestions": [
+        {
+            "q": "Coffee",
+            "title": "Coffee",
+            "type": "Search term",
+            "link": "https://trends.google.com/trends/explore?q=Coffee",
+            "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=Coffee&tz=420"
+        },
+        {
+            "q": "/m/02vqfm",
+            "title": "Coffee",
+            "type": "Beverage",
+            "link": "https://trends.google.com/trends/explore?q=/m/02vqfm",
+            "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fm%2F02vqfm&tz=420"
+        },
+        {
+            "q": "/m/078n6m",
+            "title": "Coffee table",
+            "type": "Topic",
+            "link": "https://trends.google.com/trends/explore?q=/m/078n6m",
+            "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fm%2F078n6m&tz=420"
+        },
+        {
+            "q": "/m/07xyvk",
+            "title": "Coffeemaker",
+            "type": "Topic",
+            "link": "https://trends.google.com/trends/explore?q=/m/07xyvk",
+            "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fm%2F07xyvk&tz=420"
+        },
+        {
+            "q": "/m/0h3nq30",
+            "title": "Coffee",
+            "type": "Color",
+            "link": "https://trends.google.com/trends/explore?q=/m/0h3nq30",
+            "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fm%2F0h3nq30&tz=420"
+        },
+        {
+            "q": "/m/01p1qs",
+            "title": "French press",
+            "type": "Topic",
+            "link": "https://trends.google.com/trends/explore?q=/m/01p1qs",
+            "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fm%2F01p1qs&tz=420"
+        }
+    ]
+}

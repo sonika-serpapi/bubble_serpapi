@@ -1,0 +1,377 @@
+{
+    "search_metadata": {
+        "id": "680979f818b54e2453fd1e8c",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/6adffb7dc5f2e6bb/680979f818b54e2453fd1e8c.json",
+        "created_at": "2025-04-23 23:38:32 UTC",
+        "processed_at": "2025-04-23 23:38:32 UTC",
+        "google_trends_url": "https://trends.google.com/trends/embed/explore/RELATED_QUERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22geo%22%3A%22%22%2C%22time%22%3A%22today+12-m%22%7D%5D%2C%22category%22%3A%223%22%2C%22property%22%3A%22%22%7D",
+        "raw_html_file": "https://serpapi.com/searches/6adffb7dc5f2e6bb/680979f818b54e2453fd1e8c.html",
+        "prettify_html_file": "https://serpapi.com/searches/6adffb7dc5f2e6bb/680979f818b54e2453fd1e8c.prettify",
+        "total_time_taken": 4.43
+    },
+    "search_parameters": {
+        "engine": "google_trends",
+        "hl": "en",
+        "cat": "3",
+        "date": "today 12-m",
+        "tz": "420",
+        "data_type": "RELATED_QUERIES"
+    },
+    "related_queries": {
+        "rising": [
+            {
+                "query": "marvel rivals",
+                "value": "+2,650%",
+                "extracted_value": 2650,
+                "link": "https://trends.google.com/trends/explore?q=marvel+rivals&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=marvel+rivals&tz=420"
+            },
+            {
+                "query": "deadpool and wolverine",
+                "value": "+1,750%",
+                "extracted_value": 1750,
+                "link": "https://trends.google.com/trends/explore?q=deadpool+and+wolverine&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=deadpool+and+wolverine&tz=420"
+            },
+            {
+                "query": "mufasa",
+                "value": "+950%",
+                "extracted_value": 950,
+                "link": "https://trends.google.com/trends/explore?q=mufasa&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=mufasa&tz=420"
+            },
+            {
+                "query": "youtueb music channel",
+                "value": "+950%",
+                "extracted_value": 950,
+                "link": "https://trends.google.com/trends/explore?q=youtueb+music+channel&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=youtueb+music+channel&tz=420"
+            },
+            {
+                "query": "supercell store",
+                "value": "+900%",
+                "extracted_value": 900,
+                "link": "https://trends.google.com/trends/explore?q=supercell+store&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=supercell+store&tz=420"
+            },
+            {
+                "query": "nosferatu",
+                "value": "+600%",
+                "extracted_value": 600,
+                "link": "https://trends.google.com/trends/explore?q=nosferatu&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=nosferatu&tz=420"
+            },
+            {
+                "query": "gladiator 2",
+                "value": "+600%",
+                "extracted_value": 600,
+                "link": "https://trends.google.com/trends/explore?q=gladiator+2&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=gladiator+2&tz=420"
+            },
+            {
+                "query": "terrifier 3",
+                "value": "+550%",
+                "extracted_value": 550,
+                "link": "https://trends.google.com/trends/explore?q=terrifier+3&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=terrifier+3&tz=420"
+            },
+            {
+                "query": "inside out 2",
+                "value": "+550%",
+                "extracted_value": 550,
+                "link": "https://trends.google.com/trends/explore?q=inside+out+2&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=inside+out+2&tz=420"
+            },
+            {
+                "query": "michelle trachtenberg",
+                "value": "+550%",
+                "extracted_value": 550,
+                "link": "https://trends.google.com/trends/explore?q=michelle+trachtenberg&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=michelle+trachtenberg&tz=420"
+            },
+            {
+                "query": "sabrina carpenter",
+                "value": "+450%",
+                "extracted_value": 450,
+                "link": "https://trends.google.com/trends/explore?q=sabrina+carpenter&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=sabrina+carpenter&tz=420"
+            },
+            {
+                "query": "deadpool",
+                "value": "+450%",
+                "extracted_value": 450,
+                "link": "https://trends.google.com/trends/explore?q=deadpool&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=deadpool&tz=420"
+            },
+            {
+                "query": "gemini",
+                "value": "+350%",
+                "extracted_value": 350,
+                "link": "https://trends.google.com/trends/explore?q=gemini&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=gemini&tz=420"
+            },
+            {
+                "query": "diddy",
+                "value": "+350%",
+                "extracted_value": 350,
+                "link": "https://trends.google.com/trends/explore?q=diddy&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=diddy&tz=420"
+            },
+            {
+                "query": "wicked",
+                "value": "+350%",
+                "extracted_value": 350,
+                "link": "https://trends.google.com/trends/explore?q=wicked&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=wicked&tz=420"
+            },
+            {
+                "query": "trump",
+                "value": "+300%",
+                "extracted_value": 300,
+                "link": "https://trends.google.com/trends/explore?q=trump&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=trump&tz=420"
+            },
+            {
+                "query": "рутуб",
+                "value": "+300%",
+                "extracted_value": 300,
+                "link": "https://trends.google.com/trends/explore?q=%D1%80%D1%83%D1%82%D1%83%D0%B1&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=%D1%80%D1%83%D1%82%D1%83%D0%B1&tz=420"
+            },
+            {
+                "query": "bluesky",
+                "value": "+250%",
+                "extracted_value": 250,
+                "link": "https://trends.google.com/trends/explore?q=bluesky&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=bluesky&tz=420"
+            },
+            {
+                "query": "p diddy",
+                "value": "+250%",
+                "extracted_value": 250,
+                "link": "https://trends.google.com/trends/explore?q=p+diddy&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=p+diddy&tz=420"
+            },
+            {
+                "query": "donald trump",
+                "value": "+250%",
+                "extracted_value": 250,
+                "link": "https://trends.google.com/trends/explore?q=donald+trump&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=donald+trump&tz=420"
+            },
+            {
+                "query": "eurovision 2024",
+                "value": "+250%",
+                "extracted_value": 250,
+                "link": "https://trends.google.com/trends/explore?q=eurovision+2024&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=eurovision+2024&tz=420"
+            },
+            {
+                "query": "beetlejuice",
+                "value": "+250%",
+                "extracted_value": 250,
+                "link": "https://trends.google.com/trends/explore?q=beetlejuice&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=beetlejuice&tz=420"
+            },
+            {
+                "query": "the idea of you",
+                "value": "+250%",
+                "extracted_value": 250,
+                "link": "https://trends.google.com/trends/explore?q=the+idea+of+you&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=the+idea+of+you&tz=420"
+            },
+            {
+                "query": "dexter",
+                "value": "+200%",
+                "extracted_value": 200,
+                "link": "https://trends.google.com/trends/explore?q=dexter&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=dexter&tz=420"
+            },
+            {
+                "query": "trt1 canlı",
+                "value": "+200%",
+                "extracted_value": 200,
+                "link": "https://trends.google.com/trends/explore?q=trt1+canl%C4%B1&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=trt1+canl%C4%B1&tz=420"
+            }
+        ],
+        "top": [
+            {
+                "query": "youtube",
+                "value": "100",
+                "extracted_value": 100,
+                "link": "https://trends.google.com/trends/explore?q=youtube&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=youtube&tz=420"
+            },
+            {
+                "query": "video",
+                "value": "20",
+                "extracted_value": 20,
+                "link": "https://trends.google.com/trends/explore?q=video&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=video&tz=420"
+            },
+            {
+                "query": "movies",
+                "value": "19",
+                "extracted_value": 19,
+                "link": "https://trends.google.com/trends/explore?q=movies&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=movies&tz=420"
+            },
+            {
+                "query": "netflix",
+                "value": "16",
+                "extracted_value": 16,
+                "link": "https://trends.google.com/trends/explore?q=netflix&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=netflix&tz=420"
+            },
+            {
+                "query": "traductor",
+                "value": "16",
+                "extracted_value": 16,
+                "link": "https://trends.google.com/trends/explore?q=traductor&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=traductor&tz=420"
+            },
+            {
+                "query": "song",
+                "value": "16",
+                "extracted_value": 16,
+                "link": "https://trends.google.com/trends/explore?q=song&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=song&tz=420"
+            },
+            {
+                "query": "you",
+                "value": "15",
+                "extracted_value": 15,
+                "link": "https://trends.google.com/trends/explore?q=you&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=you&tz=420"
+            },
+            {
+                "query": "google",
+                "value": "10",
+                "extracted_value": 10,
+                "link": "https://trends.google.com/trends/explore?q=google&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=google&tz=420"
+            },
+            {
+                "query": "anime",
+                "value": "10",
+                "extracted_value": 10,
+                "link": "https://trends.google.com/trends/explore?q=anime&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=anime&tz=420"
+            },
+            {
+                "query": "spotify",
+                "value": "8",
+                "extracted_value": 8,
+                "link": "https://trends.google.com/trends/explore?q=spotify&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=spotify&tz=420"
+            },
+            {
+                "query": "trump",
+                "value": "7",
+                "extracted_value": 7,
+                "link": "https://trends.google.com/trends/explore?q=trump&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=trump&tz=420"
+            },
+            {
+                "query": "instagram",
+                "value": "6",
+                "extracted_value": 6,
+                "link": "https://trends.google.com/trends/explore?q=instagram&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=instagram&tz=420"
+            },
+            {
+                "query": "cinema",
+                "value": "5",
+                "extracted_value": 5,
+                "link": "https://trends.google.com/trends/explore?q=cinema&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=cinema&tz=420"
+            },
+            {
+                "query": "disney",
+                "value": "5",
+                "extracted_value": 5,
+                "link": "https://trends.google.com/trends/explore?q=disney&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=disney&tz=420"
+            },
+            {
+                "query": "poki",
+                "value": "5",
+                "extracted_value": 5,
+                "link": "https://trends.google.com/trends/explore?q=poki&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=poki&tz=420"
+            },
+            {
+                "query": "ютуб",
+                "value": "4",
+                "extracted_value": 4,
+                "link": "https://trends.google.com/trends/explore?q=%D1%8E%D1%82%D1%83%D0%B1&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=%D1%8E%D1%82%D1%83%D0%B1&tz=420"
+            },
+            {
+                "query": "manga",
+                "value": "4",
+                "extracted_value": 4,
+                "link": "https://trends.google.com/trends/explore?q=manga&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=manga&tz=420"
+            },
+            {
+                "query": "dịch",
+                "value": "4",
+                "extracted_value": 4,
+                "link": "https://trends.google.com/trends/explore?q=d%E1%BB%8Bch&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=d%E1%BB%8Bch&tz=420"
+            },
+            {
+                "query": "traductor ingles",
+                "value": "4",
+                "extracted_value": 4,
+                "link": "https://trends.google.com/trends/explore?q=traductor+ingles&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=traductor+ingles&tz=420"
+            },
+            {
+                "query": "amazon",
+                "value": "3",
+                "extracted_value": 3,
+                "link": "https://trends.google.com/trends/explore?q=amazon&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=amazon&tz=420"
+            },
+            {
+                "query": "facebook",
+                "value": "3",
+                "extracted_value": 3,
+                "link": "https://trends.google.com/trends/explore?q=facebook&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=facebook&tz=420"
+            },
+            {
+                "query": "one piece",
+                "value": "3",
+                "extracted_value": 3,
+                "link": "https://trends.google.com/trends/explore?q=one+piece&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=one+piece&tz=420"
+            },
+            {
+                "query": "whatsapp",
+                "value": "3",
+                "extracted_value": 3,
+                "link": "https://trends.google.com/trends/explore?q=whatsapp&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=whatsapp&tz=420"
+            },
+            {
+                "query": "яндекс",
+                "value": "3",
+                "extracted_value": 3,
+                "link": "https://trends.google.com/trends/explore?q=%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81&tz=420"
+            },
+            {
+                "query": "xsmb",
+                "value": "3",
+                "extracted_value": 3,
+                "link": "https://trends.google.com/trends/explore?q=xsmb&date=today+12-m",
+                "serpapi_link": "https://serpapi.com/search.json?cat=3&data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=xsmb&tz=420"
+            }
+        ]
+    }
+}

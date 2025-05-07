@@ -1,0 +1,1692 @@
+{
+    "search_metadata": {
+        "id": "67f98956473b329c8b802a16",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/c1370c24bae01ae6/67f98956473b329c8b802a16.json",
+        "created_at": "2025-04-11 21:27:50 UTC",
+        "processed_at": "2025-04-11 21:27:50 UTC",
+        "google_trends_url": "https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22coffee%22%2C%22geo%22%3A%22%22%2C%22time%22%3A%22today+12-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+        "raw_html_file": "https://serpapi.com/searches/c1370c24bae01ae6/67f98956473b329c8b802a16.html",
+        "prettify_html_file": "https://serpapi.com/searches/c1370c24bae01ae6/67f98956473b329c8b802a16.prettify",
+        "total_time_taken": 2.31
+    },
+    "search_parameters": {
+        "engine": "google_trends",
+        "q": "coffee",
+        "hl": "en",
+        "date": "today 12-m",
+        "tz": "420",
+        "data_type": "TIMESERIES"
+    },
+    "interest_over_time": {
+        "timeline_data": [
+            {
+                "date": "Apr 7 – 13, 2024",
+                "timestamp": "1712448000",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "83",
+                        "extracted_value": 83
+                    },
+                    {
+                        "query": "milk",
+                        "value": "52",
+                        "extracted_value": 52
+                    },
+                    {
+                        "query": "bread",
+                        "value": "35",
+                        "extracted_value": 35
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "45",
+                        "extracted_value": 45
+                    },
+                    {
+                        "query": "steak",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            },
+            {
+                "date": "Apr 14 – 20, 2024",
+                "timestamp": "1713052800",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "86",
+                        "extracted_value": 86
+                    },
+                    {
+                        "query": "milk",
+                        "value": "52",
+                        "extracted_value": 52
+                    },
+                    {
+                        "query": "bread",
+                        "value": "35",
+                        "extracted_value": 35
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "44",
+                        "extracted_value": 44
+                    },
+                    {
+                        "query": "steak",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            },
+            {
+                "date": "Apr 21 – 27, 2024",
+                "timestamp": "1713657600",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "84",
+                        "extracted_value": 84
+                    },
+                    {
+                        "query": "milk",
+                        "value": "55",
+                        "extracted_value": 55
+                    },
+                    {
+                        "query": "bread",
+                        "value": "35",
+                        "extracted_value": 35
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "47",
+                        "extracted_value": 47
+                    },
+                    {
+                        "query": "steak",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            },
+            {
+                "date": "Apr 28 – May 4, 2024",
+                "timestamp": "1714262400",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "88",
+                        "extracted_value": 88
+                    },
+                    {
+                        "query": "milk",
+                        "value": "55",
+                        "extracted_value": 55
+                    },
+                    {
+                        "query": "bread",
+                        "value": "35",
+                        "extracted_value": 35
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "45",
+                        "extracted_value": 45
+                    },
+                    {
+                        "query": "steak",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            },
+            {
+                "date": "May 5 – 11, 2024",
+                "timestamp": "1714867200",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "89",
+                        "extracted_value": 89
+                    },
+                    {
+                        "query": "milk",
+                        "value": "54",
+                        "extracted_value": 54
+                    },
+                    {
+                        "query": "bread",
+                        "value": "33",
+                        "extracted_value": 33
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "44",
+                        "extracted_value": 44
+                    },
+                    {
+                        "query": "steak",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            },
+            {
+                "date": "May 12 – 18, 2024",
+                "timestamp": "1715472000",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "81",
+                        "extracted_value": 81
+                    },
+                    {
+                        "query": "milk",
+                        "value": "53",
+                        "extracted_value": 53
+                    },
+                    {
+                        "query": "bread",
+                        "value": "32",
+                        "extracted_value": 32
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "44",
+                        "extracted_value": 44
+                    },
+                    {
+                        "query": "steak",
+                        "value": "26",
+                        "extracted_value": 26
+                    }
+                ]
+            },
+            {
+                "date": "May 19 – 25, 2024",
+                "timestamp": "1716076800",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "85",
+                        "extracted_value": 85
+                    },
+                    {
+                        "query": "milk",
+                        "value": "53",
+                        "extracted_value": 53
+                    },
+                    {
+                        "query": "bread",
+                        "value": "32",
+                        "extracted_value": 32
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "45",
+                        "extracted_value": 45
+                    },
+                    {
+                        "query": "steak",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            },
+            {
+                "date": "May 26 – Jun 1, 2024",
+                "timestamp": "1716681600",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "86",
+                        "extracted_value": 86
+                    },
+                    {
+                        "query": "milk",
+                        "value": "52",
+                        "extracted_value": 52
+                    },
+                    {
+                        "query": "bread",
+                        "value": "34",
+                        "extracted_value": 34
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "46",
+                        "extracted_value": 46
+                    },
+                    {
+                        "query": "steak",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            },
+            {
+                "date": "Jun 2 – 8, 2024",
+                "timestamp": "1717286400",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "83",
+                        "extracted_value": 83
+                    },
+                    {
+                        "query": "milk",
+                        "value": "53",
+                        "extracted_value": 53
+                    },
+                    {
+                        "query": "bread",
+                        "value": "32",
+                        "extracted_value": 32
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "45",
+                        "extracted_value": 45
+                    },
+                    {
+                        "query": "steak",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            },
+            {
+                "date": "Jun 9 – 15, 2024",
+                "timestamp": "1717891200",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "84",
+                        "extracted_value": 84
+                    },
+                    {
+                        "query": "milk",
+                        "value": "53",
+                        "extracted_value": 53
+                    },
+                    {
+                        "query": "bread",
+                        "value": "34",
+                        "extracted_value": 34
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "46",
+                        "extracted_value": 46
+                    },
+                    {
+                        "query": "steak",
+                        "value": "27",
+                        "extracted_value": 27
+                    }
+                ]
+            },
+            {
+                "date": "Jun 16 – 22, 2024",
+                "timestamp": "1718496000",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "84",
+                        "extracted_value": 84
+                    },
+                    {
+                        "query": "milk",
+                        "value": "52",
+                        "extracted_value": 52
+                    },
+                    {
+                        "query": "bread",
+                        "value": "34",
+                        "extracted_value": 34
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "43",
+                        "extracted_value": 43
+                    },
+                    {
+                        "query": "steak",
+                        "value": "28",
+                        "extracted_value": 28
+                    }
+                ]
+            },
+            {
+                "date": "Jun 23 – 29, 2024",
+                "timestamp": "1719100800",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "85",
+                        "extracted_value": 85
+                    },
+                    {
+                        "query": "milk",
+                        "value": "52",
+                        "extracted_value": 52
+                    },
+                    {
+                        "query": "bread",
+                        "value": "32",
+                        "extracted_value": 32
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "44",
+                        "extracted_value": 44
+                    },
+                    {
+                        "query": "steak",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            },
+            {
+                "date": "Jun 30 – Jul 6, 2024",
+                "timestamp": "1719705600",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "84",
+                        "extracted_value": 84
+                    },
+                    {
+                        "query": "milk",
+                        "value": "53",
+                        "extracted_value": 53
+                    },
+                    {
+                        "query": "bread",
+                        "value": "32",
+                        "extracted_value": 32
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "47",
+                        "extracted_value": 47
+                    },
+                    {
+                        "query": "steak",
+                        "value": "26",
+                        "extracted_value": 26
+                    }
+                ]
+            },
+            {
+                "date": "Jul 7 – 13, 2024",
+                "timestamp": "1720310400",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "85",
+                        "extracted_value": 85
+                    },
+                    {
+                        "query": "milk",
+                        "value": "55",
+                        "extracted_value": 55
+                    },
+                    {
+                        "query": "bread",
+                        "value": "31",
+                        "extracted_value": 31
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "44",
+                        "extracted_value": 44
+                    },
+                    {
+                        "query": "steak",
+                        "value": "26",
+                        "extracted_value": 26
+                    }
+                ]
+            },
+            {
+                "date": "Jul 14 – 20, 2024",
+                "timestamp": "1720915200",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "86",
+                        "extracted_value": 86
+                    },
+                    {
+                        "query": "milk",
+                        "value": "55",
+                        "extracted_value": 55
+                    },
+                    {
+                        "query": "bread",
+                        "value": "34",
+                        "extracted_value": 34
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "46",
+                        "extracted_value": 46
+                    },
+                    {
+                        "query": "steak",
+                        "value": "27",
+                        "extracted_value": 27
+                    }
+                ]
+            },
+            {
+                "date": "Jul 21 – 27, 2024",
+                "timestamp": "1721520000",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "90",
+                        "extracted_value": 90
+                    },
+                    {
+                        "query": "milk",
+                        "value": "54",
+                        "extracted_value": 54
+                    },
+                    {
+                        "query": "bread",
+                        "value": "34",
+                        "extracted_value": 34
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "48",
+                        "extracted_value": 48
+                    },
+                    {
+                        "query": "steak",
+                        "value": "26",
+                        "extracted_value": 26
+                    }
+                ]
+            },
+            {
+                "date": "Jul 28 – Aug 3, 2024",
+                "timestamp": "1722124800",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "86",
+                        "extracted_value": 86
+                    },
+                    {
+                        "query": "milk",
+                        "value": "53",
+                        "extracted_value": 53
+                    },
+                    {
+                        "query": "bread",
+                        "value": "34",
+                        "extracted_value": 34
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "45",
+                        "extracted_value": 45
+                    },
+                    {
+                        "query": "steak",
+                        "value": "27",
+                        "extracted_value": 27
+                    }
+                ]
+            },
+            {
+                "date": "Aug 4 – 10, 2024",
+                "timestamp": "1722729600",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "81",
+                        "extracted_value": 81
+                    },
+                    {
+                        "query": "milk",
+                        "value": "54",
+                        "extracted_value": 54
+                    },
+                    {
+                        "query": "bread",
+                        "value": "35",
+                        "extracted_value": 35
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "45",
+                        "extracted_value": 45
+                    },
+                    {
+                        "query": "steak",
+                        "value": "26",
+                        "extracted_value": 26
+                    }
+                ]
+            },
+            {
+                "date": "Aug 11 – 17, 2024",
+                "timestamp": "1723334400",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "91",
+                        "extracted_value": 91
+                    },
+                    {
+                        "query": "milk",
+                        "value": "54",
+                        "extracted_value": 54
+                    },
+                    {
+                        "query": "bread",
+                        "value": "36",
+                        "extracted_value": 36
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "47",
+                        "extracted_value": 47
+                    },
+                    {
+                        "query": "steak",
+                        "value": "27",
+                        "extracted_value": 27
+                    }
+                ]
+            },
+            {
+                "date": "Aug 18 – 24, 2024",
+                "timestamp": "1723939200",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "91",
+                        "extracted_value": 91
+                    },
+                    {
+                        "query": "milk",
+                        "value": "56",
+                        "extracted_value": 56
+                    },
+                    {
+                        "query": "bread",
+                        "value": "34",
+                        "extracted_value": 34
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "47",
+                        "extracted_value": 47
+                    },
+                    {
+                        "query": "steak",
+                        "value": "28",
+                        "extracted_value": 28
+                    }
+                ]
+            },
+            {
+                "date": "Aug 25 – 31, 2024",
+                "timestamp": "1724544000",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "88",
+                        "extracted_value": 88
+                    },
+                    {
+                        "query": "milk",
+                        "value": "53",
+                        "extracted_value": 53
+                    },
+                    {
+                        "query": "bread",
+                        "value": "35",
+                        "extracted_value": 35
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "45",
+                        "extracted_value": 45
+                    },
+                    {
+                        "query": "steak",
+                        "value": "27",
+                        "extracted_value": 27
+                    }
+                ]
+            },
+            {
+                "date": "Sep 1 – 7, 2024",
+                "timestamp": "1725148800",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "88",
+                        "extracted_value": 88
+                    },
+                    {
+                        "query": "milk",
+                        "value": "55",
+                        "extracted_value": 55
+                    },
+                    {
+                        "query": "bread",
+                        "value": "36",
+                        "extracted_value": 36
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "48",
+                        "extracted_value": 48
+                    },
+                    {
+                        "query": "steak",
+                        "value": "27",
+                        "extracted_value": 27
+                    }
+                ]
+            },
+            {
+                "date": "Sep 8 – 14, 2024",
+                "timestamp": "1725753600",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "85",
+                        "extracted_value": 85
+                    },
+                    {
+                        "query": "milk",
+                        "value": "53",
+                        "extracted_value": 53
+                    },
+                    {
+                        "query": "bread",
+                        "value": "35",
+                        "extracted_value": 35
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "46",
+                        "extracted_value": 46
+                    },
+                    {
+                        "query": "steak",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            },
+            {
+                "date": "Sep 15 – 21, 2024",
+                "timestamp": "1726358400",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "89",
+                        "extracted_value": 89
+                    },
+                    {
+                        "query": "milk",
+                        "value": "53",
+                        "extracted_value": 53
+                    },
+                    {
+                        "query": "bread",
+                        "value": "37",
+                        "extracted_value": 37
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "46",
+                        "extracted_value": 46
+                    },
+                    {
+                        "query": "steak",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            },
+            {
+                "date": "Sep 22 – 28, 2024",
+                "timestamp": "1726963200",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "85",
+                        "extracted_value": 85
+                    },
+                    {
+                        "query": "milk",
+                        "value": "52",
+                        "extracted_value": 52
+                    },
+                    {
+                        "query": "bread",
+                        "value": "35",
+                        "extracted_value": 35
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "44",
+                        "extracted_value": 44
+                    },
+                    {
+                        "query": "steak",
+                        "value": "26",
+                        "extracted_value": 26
+                    }
+                ]
+            },
+            {
+                "date": "Sep 29 – Oct 5, 2024",
+                "timestamp": "1727568000",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "96",
+                        "extracted_value": 96
+                    },
+                    {
+                        "query": "milk",
+                        "value": "54",
+                        "extracted_value": 54
+                    },
+                    {
+                        "query": "bread",
+                        "value": "36",
+                        "extracted_value": 36
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "46",
+                        "extracted_value": 46
+                    },
+                    {
+                        "query": "steak",
+                        "value": "26",
+                        "extracted_value": 26
+                    }
+                ]
+            },
+            {
+                "date": "Oct 6 – 12, 2024",
+                "timestamp": "1728172800",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "93",
+                        "extracted_value": 93
+                    },
+                    {
+                        "query": "milk",
+                        "value": "51",
+                        "extracted_value": 51
+                    },
+                    {
+                        "query": "bread",
+                        "value": "36",
+                        "extracted_value": 36
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "46",
+                        "extracted_value": 46
+                    },
+                    {
+                        "query": "steak",
+                        "value": "26",
+                        "extracted_value": 26
+                    }
+                ]
+            },
+            {
+                "date": "Oct 13 – 19, 2024",
+                "timestamp": "1728777600",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "88",
+                        "extracted_value": 88
+                    },
+                    {
+                        "query": "milk",
+                        "value": "53",
+                        "extracted_value": 53
+                    },
+                    {
+                        "query": "bread",
+                        "value": "36",
+                        "extracted_value": 36
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "47",
+                        "extracted_value": 47
+                    },
+                    {
+                        "query": "steak",
+                        "value": "26",
+                        "extracted_value": 26
+                    }
+                ]
+            },
+            {
+                "date": "Oct 20 – 26, 2024",
+                "timestamp": "1729382400",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "84",
+                        "extracted_value": 84
+                    },
+                    {
+                        "query": "milk",
+                        "value": "54",
+                        "extracted_value": 54
+                    },
+                    {
+                        "query": "bread",
+                        "value": "35",
+                        "extracted_value": 35
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "47",
+                        "extracted_value": 47
+                    },
+                    {
+                        "query": "steak",
+                        "value": "23",
+                        "extracted_value": 23
+                    }
+                ]
+            },
+            {
+                "date": "Oct 27 – Nov 2, 2024",
+                "timestamp": "1729987200",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "86",
+                        "extracted_value": 86
+                    },
+                    {
+                        "query": "milk",
+                        "value": "56",
+                        "extracted_value": 56
+                    },
+                    {
+                        "query": "bread",
+                        "value": "36",
+                        "extracted_value": 36
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "46",
+                        "extracted_value": 46
+                    },
+                    {
+                        "query": "steak",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            },
+            {
+                "date": "Nov 3 – 9, 2024",
+                "timestamp": "1730592000",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "80",
+                        "extracted_value": 80
+                    },
+                    {
+                        "query": "milk",
+                        "value": "51",
+                        "extracted_value": 51
+                    },
+                    {
+                        "query": "bread",
+                        "value": "37",
+                        "extracted_value": 37
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "44",
+                        "extracted_value": 44
+                    },
+                    {
+                        "query": "steak",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            },
+            {
+                "date": "Nov 10 – 16, 2024",
+                "timestamp": "1731196800",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "89",
+                        "extracted_value": 89
+                    },
+                    {
+                        "query": "milk",
+                        "value": "56",
+                        "extracted_value": 56
+                    },
+                    {
+                        "query": "bread",
+                        "value": "37",
+                        "extracted_value": 37
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "48",
+                        "extracted_value": 48
+                    },
+                    {
+                        "query": "steak",
+                        "value": "26",
+                        "extracted_value": 26
+                    }
+                ]
+            },
+            {
+                "date": "Nov 17 – 23, 2024",
+                "timestamp": "1731801600",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "89",
+                        "extracted_value": 89
+                    },
+                    {
+                        "query": "milk",
+                        "value": "56",
+                        "extracted_value": 56
+                    },
+                    {
+                        "query": "bread",
+                        "value": "39",
+                        "extracted_value": 39
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "49",
+                        "extracted_value": 49
+                    },
+                    {
+                        "query": "steak",
+                        "value": "26",
+                        "extracted_value": 26
+                    }
+                ]
+            },
+            {
+                "date": "Nov 24 – 30, 2024",
+                "timestamp": "1732406400",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "92",
+                        "extracted_value": 92
+                    },
+                    {
+                        "query": "milk",
+                        "value": "59",
+                        "extracted_value": 59
+                    },
+                    {
+                        "query": "bread",
+                        "value": "42",
+                        "extracted_value": 42
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "46",
+                        "extracted_value": 46
+                    },
+                    {
+                        "query": "steak",
+                        "value": "23",
+                        "extracted_value": 23
+                    }
+                ]
+            },
+            {
+                "date": "Dec 1 – 7, 2024",
+                "timestamp": "1733011200",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "93",
+                        "extracted_value": 93
+                    },
+                    {
+                        "query": "milk",
+                        "value": "56",
+                        "extracted_value": 56
+                    },
+                    {
+                        "query": "bread",
+                        "value": "36",
+                        "extracted_value": 36
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "44",
+                        "extracted_value": 44
+                    },
+                    {
+                        "query": "steak",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            },
+            {
+                "date": "Dec 8 – 14, 2024",
+                "timestamp": "1733616000",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "94",
+                        "extracted_value": 94
+                    },
+                    {
+                        "query": "milk",
+                        "value": "56",
+                        "extracted_value": 56
+                    },
+                    {
+                        "query": "bread",
+                        "value": "39",
+                        "extracted_value": 39
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "45",
+                        "extracted_value": 45
+                    },
+                    {
+                        "query": "steak",
+                        "value": "28",
+                        "extracted_value": 28
+                    }
+                ]
+            },
+            {
+                "date": "Dec 15 – 21, 2024",
+                "timestamp": "1734220800",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "95",
+                        "extracted_value": 95
+                    },
+                    {
+                        "query": "milk",
+                        "value": "57",
+                        "extracted_value": 57
+                    },
+                    {
+                        "query": "bread",
+                        "value": "44",
+                        "extracted_value": 44
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "48",
+                        "extracted_value": 48
+                    },
+                    {
+                        "query": "steak",
+                        "value": "28",
+                        "extracted_value": 28
+                    }
+                ]
+            },
+            {
+                "date": "Dec 22 – 28, 2024",
+                "timestamp": "1734825600",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "96",
+                        "extracted_value": 96
+                    },
+                    {
+                        "query": "milk",
+                        "value": "60",
+                        "extracted_value": 60
+                    },
+                    {
+                        "query": "bread",
+                        "value": "48",
+                        "extracted_value": 48
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "48",
+                        "extracted_value": 48
+                    },
+                    {
+                        "query": "steak",
+                        "value": "32",
+                        "extracted_value": 32
+                    }
+                ]
+            },
+            {
+                "date": "Dec 29, 2024 – Jan 4, 2025",
+                "timestamp": "1735430400",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "100",
+                        "extracted_value": 100
+                    },
+                    {
+                        "query": "milk",
+                        "value": "59",
+                        "extracted_value": 59
+                    },
+                    {
+                        "query": "bread",
+                        "value": "44",
+                        "extracted_value": 44
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "53",
+                        "extracted_value": 53
+                    },
+                    {
+                        "query": "steak",
+                        "value": "35",
+                        "extracted_value": 35
+                    }
+                ]
+            },
+            {
+                "date": "Jan 5 – 11, 2025",
+                "timestamp": "1736035200",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "96",
+                        "extracted_value": 96
+                    },
+                    {
+                        "query": "milk",
+                        "value": "65",
+                        "extracted_value": 65
+                    },
+                    {
+                        "query": "bread",
+                        "value": "42",
+                        "extracted_value": 42
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "51",
+                        "extracted_value": 51
+                    },
+                    {
+                        "query": "steak",
+                        "value": "30",
+                        "extracted_value": 30
+                    }
+                ]
+            },
+            {
+                "date": "Jan 12 – 18, 2025",
+                "timestamp": "1736640000",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "97",
+                        "extracted_value": 97
+                    },
+                    {
+                        "query": "milk",
+                        "value": "60",
+                        "extracted_value": 60
+                    },
+                    {
+                        "query": "bread",
+                        "value": "41",
+                        "extracted_value": 41
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "50",
+                        "extracted_value": 50
+                    },
+                    {
+                        "query": "steak",
+                        "value": "31",
+                        "extracted_value": 31
+                    }
+                ]
+            },
+            {
+                "date": "Jan 19 – 25, 2025",
+                "timestamp": "1737244800",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "94",
+                        "extracted_value": 94
+                    },
+                    {
+                        "query": "milk",
+                        "value": "55",
+                        "extracted_value": 55
+                    },
+                    {
+                        "query": "bread",
+                        "value": "46",
+                        "extracted_value": 46
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "48",
+                        "extracted_value": 48
+                    },
+                    {
+                        "query": "steak",
+                        "value": "30",
+                        "extracted_value": 30
+                    }
+                ]
+            },
+            {
+                "date": "Jan 26 – Feb 1, 2025",
+                "timestamp": "1737849600",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "95",
+                        "extracted_value": 95
+                    },
+                    {
+                        "query": "milk",
+                        "value": "60",
+                        "extracted_value": 60
+                    },
+                    {
+                        "query": "bread",
+                        "value": "41",
+                        "extracted_value": 41
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "49",
+                        "extracted_value": 49
+                    },
+                    {
+                        "query": "steak",
+                        "value": "29",
+                        "extracted_value": 29
+                    }
+                ]
+            },
+            {
+                "date": "Feb 2 – 8, 2025",
+                "timestamp": "1738454400",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "92",
+                        "extracted_value": 92
+                    },
+                    {
+                        "query": "milk",
+                        "value": "60",
+                        "extracted_value": 60
+                    },
+                    {
+                        "query": "bread",
+                        "value": "42",
+                        "extracted_value": 42
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "49",
+                        "extracted_value": 49
+                    },
+                    {
+                        "query": "steak",
+                        "value": "29",
+                        "extracted_value": 29
+                    }
+                ]
+            },
+            {
+                "date": "Feb 9 – 15, 2025",
+                "timestamp": "1739059200",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "95",
+                        "extracted_value": 95
+                    },
+                    {
+                        "query": "milk",
+                        "value": "58",
+                        "extracted_value": 58
+                    },
+                    {
+                        "query": "bread",
+                        "value": "38",
+                        "extracted_value": 38
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "50",
+                        "extracted_value": 50
+                    },
+                    {
+                        "query": "steak",
+                        "value": "34",
+                        "extracted_value": 34
+                    }
+                ]
+            },
+            {
+                "date": "Feb 16 – 22, 2025",
+                "timestamp": "1739664000",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "95",
+                        "extracted_value": 95
+                    },
+                    {
+                        "query": "milk",
+                        "value": "63",
+                        "extracted_value": 63
+                    },
+                    {
+                        "query": "bread",
+                        "value": "41",
+                        "extracted_value": 41
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "48",
+                        "extracted_value": 48
+                    },
+                    {
+                        "query": "steak",
+                        "value": "29",
+                        "extracted_value": 29
+                    }
+                ]
+            },
+            {
+                "date": "Feb 23 – Mar 1, 2025",
+                "timestamp": "1740268800",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "95",
+                        "extracted_value": 95
+                    },
+                    {
+                        "query": "milk",
+                        "value": "57",
+                        "extracted_value": 57
+                    },
+                    {
+                        "query": "bread",
+                        "value": "39",
+                        "extracted_value": 39
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "45",
+                        "extracted_value": 45
+                    },
+                    {
+                        "query": "steak",
+                        "value": "29",
+                        "extracted_value": 29
+                    }
+                ]
+            },
+            {
+                "date": "Mar 2 – 8, 2025",
+                "timestamp": "1740873600",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "93",
+                        "extracted_value": 93
+                    },
+                    {
+                        "query": "milk",
+                        "value": "59",
+                        "extracted_value": 59
+                    },
+                    {
+                        "query": "bread",
+                        "value": "41",
+                        "extracted_value": 41
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "48",
+                        "extracted_value": 48
+                    },
+                    {
+                        "query": "steak",
+                        "value": "28",
+                        "extracted_value": 28
+                    }
+                ]
+            },
+            {
+                "date": "Mar 9 – 15, 2025",
+                "timestamp": "1741478400",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "88",
+                        "extracted_value": 88
+                    },
+                    {
+                        "query": "milk",
+                        "value": "57",
+                        "extracted_value": 57
+                    },
+                    {
+                        "query": "bread",
+                        "value": "38",
+                        "extracted_value": 38
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "46",
+                        "extracted_value": 46
+                    },
+                    {
+                        "query": "steak",
+                        "value": "30",
+                        "extracted_value": 30
+                    }
+                ]
+            },
+            {
+                "date": "Mar 16 – 22, 2025",
+                "timestamp": "1742083200",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "93",
+                        "extracted_value": 93
+                    },
+                    {
+                        "query": "milk",
+                        "value": "59",
+                        "extracted_value": 59
+                    },
+                    {
+                        "query": "bread",
+                        "value": "41",
+                        "extracted_value": 41
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "48",
+                        "extracted_value": 48
+                    },
+                    {
+                        "query": "steak",
+                        "value": "29",
+                        "extracted_value": 29
+                    }
+                ]
+            },
+            {
+                "date": "Mar 23 – 29, 2025",
+                "timestamp": "1742688000",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "93",
+                        "extracted_value": 93
+                    },
+                    {
+                        "query": "milk",
+                        "value": "58",
+                        "extracted_value": 58
+                    },
+                    {
+                        "query": "bread",
+                        "value": "38",
+                        "extracted_value": 38
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "49",
+                        "extracted_value": 49
+                    },
+                    {
+                        "query": "steak",
+                        "value": "29",
+                        "extracted_value": 29
+                    }
+                ]
+            },
+            {
+                "date": "Mar 30 – Apr 5, 2025",
+                "timestamp": "1743292800",
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "96",
+                        "extracted_value": 96
+                    },
+                    {
+                        "query": "milk",
+                        "value": "59",
+                        "extracted_value": 59
+                    },
+                    {
+                        "query": "bread",
+                        "value": "37",
+                        "extracted_value": 37
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "47",
+                        "extracted_value": 47
+                    },
+                    {
+                        "query": "steak",
+                        "value": "29",
+                        "extracted_value": 29
+                    }
+                ]
+            },
+            {
+                "date": "Apr 6 – 12, 2025",
+                "timestamp": "1743897600",
+                "partial_data": true,
+                "values": [
+                    {
+                        "query": "coffee",
+                        "value": "90",
+                        "extracted_value": 90
+                    },
+                    {
+                        "query": "milk",
+                        "value": "56",
+                        "extracted_value": 56
+                    },
+                    {
+                        "query": "bread",
+                        "value": "35",
+                        "extracted_value": 35
+                    },
+                    {
+                        "query": "pasta",
+                        "value": "46",
+                        "extracted_value": 46
+                    },
+                    {
+                        "query": "steak",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            }
+        ],
+        "averages": [
+            {
+                "query": "coffee",
+                "value": 89
+            },
+            {
+                "query": "milk",
+                "value": 55
+            },
+            {
+                "query": "bread",
+                "value": 37
+            },
+            {
+                "query": "pasta",
+                "value": 47
+            },
+            {
+                "query": "steak",
+                "value": 27
+            }
+        ]
+    }
+
+}

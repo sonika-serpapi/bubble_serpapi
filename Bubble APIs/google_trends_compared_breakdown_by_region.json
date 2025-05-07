@@ -1,0 +1,92 @@
+{
+    "search_metadata": {
+        "id": "67f9a254e4c8163c349a0409",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/9f7a7f53edefcbaa/67f9a254e4c8163c349a0409.json",
+        "created_at": "2025-04-11 23:14:28 UTC",
+        "processed_at": "2025-04-11 23:14:28 UTC",
+        "google_trends_url": "https://trends.google.com/trends/api/explore?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22coffee%22%2C%22geo%22%3A%22%22%2C%22time%22%3A%22today+12-m%22%7D%2C%7B%22keyword%22%3A%22milk%22%2C%22geo%22%3A%22%22%2C%22time%22%3A%22today+12-m%22%7D%2C%7B%22keyword%22%3A%22bread%22%2C%22geo%22%3A%22%22%2C%22time%22%3A%22today+12-m%22%7D%2C%7B%22keyword%22%3A%22pasta%22%2C%22geo%22%3A%22%22%2C%22time%22%3A%22today+12-m%22%7D%2C%7B%22keyword%22%3A%22steak%22%2C%22geo%22%3A%22%22%2C%22time%22%3A%22today+12-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+        "raw_html_file": "https://serpapi.com/searches/9f7a7f53edefcbaa/67f9a254e4c8163c349a0409.html",
+        "prettify_html_file": "https://serpapi.com/searches/9f7a7f53edefcbaa/67f9a254e4c8163c349a0409.prettify",
+        "total_time_taken": 8.36
+    },
+    "search_parameters": {
+        "engine": "google_trends",
+        "q": "coffee,milk,bread,pasta,steak",
+        "hl": "en",
+        "date": "today 12-m",
+        "tz": "420",
+        "data_type": "GEO_MAP",
+        "region": "CITY"
+    },
+    "compared_breakdown_by_region": [
+        {
+            "geo": "SG",
+            "location": "Singapore",
+            "max_value_index": 0,
+            "coordinates": {
+                "lat": 3.1278871,
+                "lng": 101.5944885
+            },
+            "values": [
+                {
+                    "query": "coffee",
+                    "value": "48%",
+                    "extracted_value": 48
+                },
+                {
+                    "query": "milk",
+                    "value": "22%",
+                    "extracted_value": 22
+                },
+                {
+                    "query": "bread",
+                    "value": "13%",
+                    "extracted_value": 13
+                },
+                {
+                    "query": "pasta",
+                    "value": "11%",
+                    "extracted_value": 11
+                },
+                {
+                    "query": "steak",
+                    "value": "6%",
+                    "extracted_value": 6
+                }
+            ]
+        },
+        {
+            "geo": "AU",
+            "location": "Australia",
+            "max_value_index": 0,
+            "values": [
+                {
+                    "query": "coffee",
+                    "value": "38%",
+                    "extracted_value": 38
+                },
+                {
+                    "query": "milk",
+                    "value": "22%",
+                    "extracted_value": 22
+                },
+                {
+                    "query": "bread",
+                    "value": "15%",
+                    "extracted_value": 15
+                },
+                {
+                    "query": "pasta",
+                    "value": "16%",
+                    "extracted_value": 16
+                },
+                {
+                    "query": "steak",
+                    "value": "9%",
+                    "extracted_value": 9
+                }
+            ]
+        }
+    ]
+}
